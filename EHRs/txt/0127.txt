@@ -1,0 +1,66 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 07 2007]
+Discharged :
+**DATE[May 11 2007]
+Dict :
+**NAME[WWW , VVV]
+Attend :
+**NAME[ZZZ , YYY]
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 20s]- year - old African - American male with a history of sickle cell disease and end - stage renal disease .
+He currently has a right basilic vein transposition AV fistula that was performed in **DATE[Mar] of 2006 .
+He has been doing very well until over the past few days , he has had increasing swelling of his right upper extremity now associated with pain .
+The patient has a known right innominate vein occlusion .
+In the past , the patient has had his fistula remain patent despite this swelling .
+Currently , he denies any numbness and pain in the extremity .
+There is no evidence of any recent trauma .
+PAST MEDICAL HISTORY :
+1. Hemoglobin ( _______________ ) .
+2. Sickle cell .
+3. End-stage renal disease .
+4. Seizure disorder .
+5. GERD .
+MEDICATIONS :
+1. Nifedipine XL 90 mg daily .
+2. Cozaar 50 mg p.o. daily .
+ALLERGIES :
+VANCOMYCIN CAUSES RED MAN SYNDROME .
+HOSPITAL COURSE :
+The patient was admitted with right upper extremity arm swelling , patient with a known innominate vein occlusion .
+The patient on **DATE[May 8 2007] , was taken to Interventional Radiology for possible recanalization of his right innominate vein and / or subclavian vein .
+The patient was also seen by the renal service to be given his dialysis treatment .
+The patient was currently being dialyzed through a right groin tunneled dialysis catheter .
+The patient had a venogram performed on **DATE[May 8 2007] , which showed an occluded right innominate vein .
+This was unable to be recanalized .
+The patient did have well - developed collaterals around this area of concern as well .
+The patient was also seen by hematology / oncology for help with management of his sickle cell disease .
+Over the next couple of days , the patient had an improvement of his swelling almost back down to baseline .
+This was with the assistance of a **NAME[UUU] arm pillow .
+The patient was notified that if the swelling persisted , most likely he would need a fistula ligation versus a venous bypass .
+With elevation and heparinization , the patient 's arm swelling decreased .
+There was no evidence of any clot seen on his venogram .
+Therefore , the heparin was discontinued .
+The patient 's arm was feeling much better and it was almost back down to baseline .
+He was notified that if this were to persist , he should return to the emergency department or to the office to be seen .
+The patient will follow up with Dr. **NAME[TTT ZZZ] and Dr. **NAME[SSS] from vascular surgery .
+This will be for contemplation of a new AV fistula versus revision of his current fistula .
+There is the possibility of needing an innominate vein bypass if the swelling continues , and he has no other options for hemodialysis access .
+DISPOSITION :
+The patient was discharged in excellent condition .
+______________________________
+**NAME[VVV WWW] , Resident
+HS Job # 409452 / 41855 / 36132
+SHY # **ID-NUM
+D :
+**DATE[Jun 10 2007] 13:09
+T :
+**DATE[Jun 12 2007] 10:31
+**CARBON-COPY

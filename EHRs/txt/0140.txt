@@ -1,0 +1,51 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 22 07]
+I am managing this critically ill **AGE[in 40s]- year - old gentleman with several complications arising from his severe biliary pancreatitis with a most recent procedure for debridement of a necrotic gallbladder , placement of a PTC catheter , repair of SMA pseudoaneurysm .
+He is also suffering from ARDS , malnutrition and gastrointestinal tract dysfunction .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data , and discussed the management with the Vascular and General Surgery Team , as well as the Critical Care house staff .
+The problems and management are as follows :
+1. Gallstone pancreatitis .
+The patient was started on Oxepa through the J tube , and he seems to be tolerating tube feeds at the moment , and they are also refeeding his PTC drainage back into his tube feeds to prevent excessive biliary losses .
+2. Respiratory failure .
+The patient is recovering from his ARDS , and we are planning to switch him to pressure supported ventilation today .
+3. Hypertension .
+The patient is currently on Captopril and Lopressor for his blood pressure management .
+His recent blood pressures from the arterial line were up to 180 mmHg systolic with a diastolic around 100 ; so , today we will increase the doses on the Captopril as well as on the Lopressor before adding a new agent .
+4. Malnutrition .
+The patient has been started on Oxepa , and he still has low serum albumin levels , as expected , and we are planning to continue with G tube feeds as tolerated , and this will be a slow progress .
+5. Infectious problems and sepsis .
+On blood cultures from **DATE[Dec 11 2007] , the patient had Pseudomonas and enterococci , and he is currently on linezolid and meropenem for the management of infectious process in his blood as well as is his abdomen .
+6. GI prophylaxis .
+The patient is on GI prophylaxis with Pepcid .
+He is on heparin drip for his SMA graft as well as for DVT prophylaxis , and he has additionally SCDs .
+He is on a sliding - scale insulin for blood glucose management .
+THE TOTAL TIME SPENT ON THIS PATIENT WAS 33 MINUTES .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+AMK/cap
+D :
+**DATE[Dec 24 2007] 15:34:50
+T :
+**DATE[Dec 24 2007] 15:44:49
+R :
+**DATE[Dec 24 2007] 17:00:36/jb
+Job ID :
+402173 /**ID-NUM
+*** Dictated By :
+-**NAME[XXX , SSS WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 26 2008] 03:05:06 PM

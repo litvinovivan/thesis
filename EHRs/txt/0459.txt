@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT]
+**NAME[VVV UUU]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 12 07]
+Mr. **NAME[AAA] is without complaints this morning .
+On examination his fever curve has come down nicely .
+His vital signs are stable .
+His heart rate has come down into the 90 's .
+His abdomen is soft and nondistended and nontender .
+Breath sounds are somewhat diminished at the base with some bronchial breath sounds posteriorly .
+Extremities are warm and dry .
+Laboratory examination shows BUN and creatinine of 38 and 1.2 today .
+Ins and outs were overall net balanced in last 24 hours , 1.5 liters of urine output .
+White blood cell count 8000 .
+Blood cultures showing gram-positive cocci from a aerobic and anaerobic bottles drawn from the PICC line .
+The plan today is to pull his PICC catheter .
+I ordered a repeat peripheral blood cultures x 2 .
+He remains empirically on Zosyn , Flagyl , and Vancomycin .
+I suspect the PICC line infection is the most likely site of his fevers and rigors that occurred previously .
+I stopped his TPN today when we got the PICC line .
+I left him on to D5 normal saline .
+He is a stable for transfer to 9G today .
+Vascular surgeons should be by sometime this afternoon to write transfer orders .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 12 2007] 17:06:38
+T :
+**DATE[Dec 13 2007] 14:03:52
+R :
+**DATE[Dec 13 2007] 14:03:52/dsp
+Job ID :
+385911 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:11 PM

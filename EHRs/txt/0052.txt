@@ -1,0 +1,78 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 20 07]
+I saw the patient on round with the ICU Team .
+I interviewed and examined the patient .
+I reviewed his data on EMTEK including vital signs , I 's and O 's , laboratory data , and medication list .
+I discussed the management plan with the Critical Care Team after reviewing the House Staff note .
+The patient is a **AGE[in 40s]- year - old male with a history of severe gallstone pancreatitis with abdominal abscess formation and also with SMA aneurysm status post repair with PTFE graft with ongoing respiratory failure .
+Overnight , the patient had some hypertension and it appeared that tube feeds were being drained from his G tube .
+These are tube feeds going through the patient 's J tube .
+The patient is afebrile .
+Heart rate in the 80 's , his mean arterial pressure in the 90 's to 110 .
+His pressure went as high as 190/88 .
+He is on assist control ventilation breathing with the ventilator at 20 , tidal volume of 450 , 50% FiO2 and PEEP of 5 .
+I 's and O 's 3.1 liters in and 2.9 liters out .
+His urine output was 1 liter .
+His NG drained 450 mL and it does appear to have tube feeds in the drainage .
+He is on Oxepa tube feeds at 40 mL / hour .
+Laboratory data is significant for a sodium of 133 , potassium 3.4 .
+His BUN and creatinine are 24 and 0.9 .
+His white blood count is 4.9 , hemoglobin is 9.7 and it was 10.2 the previous day , platelets are unchanged at 152 .
+His magnesium is low at 1.1 .
+His INR is 1.4 .
+His total bilirubin is 1.6 .
+His chest x-ray shows bilateral infiltrates and edema , but overall slightly improved .
+The patient is sedated and denies pain .
+He can answer simple questions .
+He has some rhonchi bilaterally .
+Abdomen is distended and soft .
+His wound where the skin is left open and packed is clean .
+His PTC drainage is bilious .
+From a respiratory standpoint , I am going to decrease the patient 's set ventilatory rate to 10 and wean his FiO2 as tolerated down to 40% .
+If he is breathing over the ventilator and maintaining good minute ventilation , we will try CPAP pressure support trials .
+In order to do this , I am going to decrease his Fentanyl infusion from 200 to 100 mcg / hour .
+The patient is on a heparin drip at 900 units / hour which we are maintaining at this level for his
+SMA aneurysm per Vascular Surgery .
+From a cardiovascular standpoint , also because of his hypertension , I am going to increase his Lopressor .
+We may need to add a second agent for blood pressure control .
+He is also receiving p.r.n. labetalol .
+From a GI / nutrition standpoint , the patient had evacuation of abdominal abscesses related to his severe pancreatitis with drains in place .
+I am going to check an abdominal x-ray .
+The patient is being fed through the J port of his GJ tube , but it appears that tube feeds are coming out of the G tube .
+I am going to check the x-ray for tube position .
+I am going to drop his tube feeds down to 20 mL / hour .
+The patient 's electrolytes are being repleted .
+He is on linezolid and meropenem day 5 for his pancreatitis - related abdominal abscesses .
+He is on his home medications of olanzapine for bipolar disorder as well as Remeron and Wellbutrin .
+I am continuing his Pepcid for GI prophylaxis .
+Critical care time is 31 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 24 2007] 10:40:10
+T :
+**DATE[Dec 24 2007] 13:47:27
+R :
+**DATE[Dec 24 2007] 13:47:27/bab
+Job ID :
+401813 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 16 2008] 10:34:15 AM

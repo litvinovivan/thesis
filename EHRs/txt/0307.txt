@@ -1,0 +1,18 @@
+FINAL DIAGNOSES :
+1. Healthcare - associated pneumonia .
+2. Acute myocardial ischemia .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Hyperlipidemia .
+PERTINENT CONSULTS :
+1. Dr. **NAME[VVV] from Pulmonology in view of healthcare - associated pneumonia .
+2. Dr. **NAME[UUU] from Cardiology in view of acute myocardial ischemia .
+__________
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 741765 / 41251 / 42101
+# **ID-NUM
+D :
+**DATE[Oct 16 2007] 07:55
+T :
+**DATE[Oct 17 2007] 23:23

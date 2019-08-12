@@ -1,0 +1,14 @@
+Patient seen and examined .
+All data reviewed .
+Full dictated consult to follow job ID 356394
+In brief:
+**AGE[in 70s] year old black female with a past medical history significant for diabetes currently admitted for tracheal stenosis with worsening right foot pain with a shallow nonhealing ulcer and redness ( which feels cool ) over the medial 1st toe .
+On physical exam no palpable pulses are present in the bilateral lower extremities .
+To further quanitify arterial insufficiency we recommend **INITIALS and toe pressures in the vascular lab .
+We agree with the Vancomycin as currently written for by the primary team .
+Awaiting the final reading on the foot xray but no gross osteomyelitis is seen , may need MRI in the future .
+To be discussed with staff .
+Perform by **NAME[XXX , WWW]
+( on **DATE[Dec 22 2007] 12:31 )
+Modify by **NAME[XXX , WWW]
+( on **DATE[Dec 22 2007] 12:31 )

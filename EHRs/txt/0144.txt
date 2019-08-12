@@ -1,0 +1,27 @@
+R1 cross cover
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] B
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Female
+DOB :
+**DATE[Apr 24 20]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Called re pt 's elevated BP o/n .
+Pt without symptoms of CP , SOB or Headache .
+Pt here with thoracic fracture .
+Attempted to medicate with pain medicine as HR also slightly elevated .
+Slight improvement but on 6 AM vitals pt found to be hypertensive again .
+HR allowed for a one time dose on lopressor 25 mg PO .
+Primary team to address in the AM .
+Perform by **NAME[XXX , WWW] K
+( on **DATE[Nov 23 2007] 05:45 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Nov 23 2007] 05:45 )
+VERIFY by **NAME[XXX , WWW] K
+( on **DATE[Nov 23 2007] 05:45 )

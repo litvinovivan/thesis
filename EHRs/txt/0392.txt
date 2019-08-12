@@ -1,0 +1,58 @@
+Transfer Note
+The patient is being transferred from ICU to a regular floor .
+The patient was admitted through the emergency department to the ICU on **DATE[Aug 5 2007] , for chief complaint of fever .
+The patient actually complained of feeling nauseated and vomited about 4 times .
+He had dialysis on Sunday , instead of Monday ; and after dialysis , he felt nauseated and vomited about 2 to 3 times .
+Ever since , he also had a headache .
+He complained of fever and chills , and also had a cough and some mild sputum production .
+The patient is having end - stage renal disease , on hemodialysis on Monday , Wednesday , and Friday .
+He has multiple dialysis access sites failed .
+He has a history of hypertension ; however , now is on the lower side as far as the blood pressures are concerned .
+Also , he has a history of anemia , pancreatitis , hyperparathyroidism , and he had a motor vehicle accident in 1997 , followed by hip replacement surgery .
+Admission diagnosis in ICU was sepsis , possibly related to the Uldall catheter that the patient has on the right subclavian vein .
+The patient had a fever of 104 in the emergency department , and later on , during the ICU course , the patient was afebrile , basically the signs of sepsis resolved , the patient continued to improve .
+He underwent hemodialysis on Saturday .
+He continued to be anuric .
+He received vancomycin in the emergency department .
+His blood pressure improved with normal saline boluses .
+He was given initially vancomycin , but later on , he also received Zosyn 2.25 g IV q.8 h. which was discontinued ; for DVT prophylaxis , heparin 5000 units subcutaneously b.i.d. , PhosLo , Nephrocaps , and Os-Cal , and also Epogen 10,000 units IV every hemodialysis .
+Urine culture could not be obtained because the patient was anuric .
+Dr. **NAME[VVV] from infectious diseases was involved in the case .
+The patient received another dose of vancomycin 500 mg IV plus hemodialysis on Saturday .
+Next hemodialysis is due on Monday .
+Blood cultures revealed no growth in 2 days , so the patient was cultured just from the peripheral blood .
+He did have gram-positive cocci in cluster growth in one of 2 bottles .
+The vancomycin level was 7.7 on **DATE[Aug 6 2007] .
+The patient is due for another vancomycin level after next hemodialysis or at the end of the next hemodialysis , this will be on Monday , **DATE[Aug 8 2007] .
+Culture from the nose was negative for MRSA .
+Dr. **NAME[UUU] followed the patient as well from the nephrology standpoint .
+Dr. **NAME[VVV] wanted Dr. **NAME[TTT] __________ regarding onychomycosis .
+Dr. **NAME[TTT] saw the patient and performed the debridement of nails 1 to 5 , 6 through 10 with alcohol applied .
+The patient 's right lower extremity is definitely bigger in diameter than the left lower extremity , rule out DVT , lower extremity venous Doppler was performed , actually the preliminary report reveals right popiteal DVT .
+The patient was started on heparin protocol .
+Today upon transfer , Coumadin 500 mg p.o. daily was started with the mentioning of close monitoring of PT , PTT , and INR per infectious diseases , Dr. **NAME[VVV] saw the patient today and he believes that the fever on admission was most likely secondary to DVT .
+Another temperature reported during the ICU stay was 102 .
+Hypertension and sepsis like picture were possibly secondary to dehydration .
+The sepsis is clinically resolved .
+His blood cultures are negative , and sepsis has resolved .
+Dr. **NAME[VVV] believes that no further antibiotic therapy is necessary at this time .
+He will follow the patient on the regular floor .
+The patient is to have a vancomycin level at the end of next hemodialysis on Monday .
+Per nephrology note , all non-emergent blood work only on dialysis days .
+The patient is to continue on heparin protocol for now , we will discontinue further IV vancomycin dosing .
+The patient was transferred in stable condition .
+MEDICATIONS UPON DISCHARGE :
+1. Magnesium oxide , today and tomorrow .
+2. Nephrocaps one daily .
+3. Os-Cal one t.i.d.
+4. PhosLo one capsule t.i.d.
+5. Procrit 10,000 units and continue heparin protocol and start Coumadin 5 mg p.o. daily .
+This was a transfer note on the patient from the ICU to the regular floor .
+______________________________
+**NAME[WWW M XXX] , M.D.
+HS Job # 552745 / 38461 / 36962
+# **ID-NUM
+D :
+**DATE[Aug 07 2007] 13:10
+T :
+**DATE[Aug 08 2007] 04:54

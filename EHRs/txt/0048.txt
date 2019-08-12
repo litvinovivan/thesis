@@ -1,0 +1,165 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Pt states this AM she had another " crisis ."
+C/o Bilat UE pain .
+Pt also states , " I took my 1st step yesterday ."
+Physical Exam
+General Appearance :
+Middle aged AA female in NAD .
+Cardiovascular :
+S1 , S2 , M .
+IRRR .
+Respiratory :
+Improved breath sounds , but conts with scattered rhonchi throughout ; neg tachypnea .
+Gastrointestinal :
++ BS , soft , protuberant .
+Musculoskeletal :
++ 2 B LE edema ankle to thigh .
++ 2 B UE edema , greater RUE .
+Neurological :
+Improved mental status - AAO .
+Cont ext weakness .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 23 2007] 11:52 AM
+Glucose ( bedside ) 126 mg / dL High
+Glu ( Bedside Test ) Meter Cmt .
+RN Notified
+**DATE[Apr 23 2007] 10:33 AM
+DUPLEX SCAN , VEINS , EXTREMITY ; COMPLETE BILAT STUDY
+DUPLEX SCAN , VEINS , EXTREMITY ; COMPLETE BILAT STUDY
+**DATE[Apr 23 2007] 6:52 AM
+Glucose ( bedside ) 224 mg / dL High
+**DATE[Apr 23 2007] 5:00 AM
+Urine Volume &gt ; 10 mL
+Appearance , Urine
+Clear
+Color , Urine
+Straw
+Urine pH 6.0
+Specific Gravity , Urine 1.012
+Bilirubin , Urine Neg
+Blood , Urine 3 +
+Ketones , Urine Neg
+Leukocyte Esterase , Urine 1 +
+Nitrite , Urine Neg
+Urine Protein , Qual 30 mg / dL
+Abnormal
+Urine Glucose , Qual Neg mg / dL
+Urine Urobilinogen Normal
+WBC , Urine 9 / hpf High
+RBC , Urine 6 / hpf High
+Epithelial Cells , Urine &lt ; 1 / hpf
+Squamous Epithelial Cells , Urine None / hpf
+Bacteria , Urine None
+**DATE[Apr 23 2007] 3:00 AM
+Na 145 mEq / L
+K 3.2 mEq / L Low
+Cl 108 mEq / L
+CO2 26 mEq / L
+Anion Gap 11.0
+BUN 58 mg / dL High
+Cr 5.0 mg / dL Critical High
+GFR ( estimated ) 12.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 8.5 mg / dL
+Mg 1.6 mEq / L
+Phos 4.3 mg / dL
+CPK , Total 52 IU / L
+WBC 23.6 X10E+09 / L High
+RBC 3.33 X10E+12 / L Low
+Hgb 9.9 gm / dL Low
+Hct 30.6 % Low
+MCV 92.0 fL
+MCH 29.7 pg
+MCHC 32.3 gm / dL Low
+RDW 20.6 % Critical High
+MPV Unavailable fL
+Platelets 215 X10E+09 / L
+Platelet Comments
+Platelets Enlarged
+Neutrophils 81 % High
+Bands 11 % High
+Lymphs 3 % Low
+Monocytes 5 %
+Eosinophils 0 %
+Basophils 0 %
+Nucleated RBC 61 /100 WBC
+ABS Neutrophils 19.11 X10E+09 / L High
+ABS Bands 2.60 X10E+09 / L High
+ABS Lymphs 0.71 X10E+09 / L Low
+ABS Monocytes 1.18 X10E+09 / L High
+ABS Eosinophils 0.00 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Manual Differential
+RBC Morphology
+RBC Morphology
+Impression and Plan
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+Pallative Care assisting with the adjustment of pain meds - Oxycontin and prn IV Morphine - cont same for today .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime D/c 'd - completed full course .
+IV hydrocortisone - Cont to taper .
+HEENT - Group A Strep Throat - Completed 10 day Amoxil course .
+Otalgia / inc. hearing loss - ENT c/s - Floxin Otic - completed course .
+Improved hearing .
+Cards - A fib - Cardizem ( when BP parameters allow ) .
+FEN - Soft diet .
+GI - Hepatic encephalopathy - Lactulose BID .
+Monitor ammonia level .
+Renal - **INITIALS - Daily dosing of IV Lasix ( no IV Lasix today ) - monitor CXR .
+Appreciate Renal c/s - Renal US - IMPRESSION :
+1. ECHOGENIC KIDNEYS COMPATIBLE WITH RENAL PARENCHYMAL DISEASE , WHICH CORRELATES WITH RECENT ABDOMINAL MR FINDINGS .
+2. NO HYDRONEPHROSIS .
+3. SMALL TO MODERATE PELVIC ASCITES .
+PhosLo .
+Sodium bicarb prn b/c of concern of the sodium .
+No HD today .
+Repeat U/A , UCS due to elevated WBC .
+Neuro - Diffuse weakness of ext - CTH negative .
+PT / OT .
+Vasc - RUE swelling and pain - RUE doppler prelim neg .
+Proph - SQ Heparin .
+ID - Leukocytosis - UCS Pending .
+CXR and blood cultures ordered .
+Taper IV
+Steroids .
+? secondary to SSC .
+Disposition - Pending .
+Pt does not want to go to SNF .
+Could consider Rehab ( ie Montefiore ) for 1 wk .
+Consider PM&amp ; R consult once Pt closer to D/c .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )

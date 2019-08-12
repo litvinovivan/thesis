@@ -1,0 +1,151 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside post tunneled vaxcel HD catheter placement .
+Patient says , " I never thought they 'd put that in my neck ."
+Vital signs
+**DATE[Apr 30 2007] 12:00:00 PM .
+BP : systolic 121 , diastolic 81 .
+Pulse :
+94 beats per min .
+Resp :
+20 breaths / min .
+Weight :
+79.7 kgs .
+Intake :
+Intake / Output = 1810/1000 .
+Physical Exam
+General Appearance :
+Middle aged AA female in NAD .
+Cardiovascular :
+S1 , S2 , no gallop .
+RRR + murmur .
+Respiratory :
+Diminished sounds with fine crackles .
+No wheeze .
+Gastrointestinal :
++ BS , soft , distended .
+Musculoskeletal :
++ 2 / + 3 B LE edema ankle to thigh .
++ 2 B UE edema , greater RUE .
+Neurological :
+Alert , oriented x 3 .
+Answering questions appropriately , speech clear .
++ infusaport without erythema , edema .
+Current Medications : medication administration orders ( selected )
+albuterol - ipratropium , 3 mL , Aerosolized , Q6HRS , Drug Form : Ampul-neb , Start : **DATE[Apr 10 07] 21:10:00
+calcium acetate , 1334 mg , By Mouth , TID meals , Drug Form : Cap , Start : **DATE[Apr 19 07] 18:00:00
+darbepoetin alfa 200 mcg + REFRIGERATE 1 ea , subQ , QThursday , Drug Form : Solution , Start : **DATE[Apr 11 07] 9:00:00
+Dextrose 5% in Water 1000 mL , IV , Start : **DATE[Apr 30 07] 2:55:00 , Infuse Rate : 50 mL / hr , Administer Over :
+20 HR
+diltiazem , 60 mg , By Mouth , QID , Drug Form : Tab , Start : **DATE[Apr 10 07] 1:56:00
+epoetin alfa , 60000 units / 2ml , IV , ONCE , Drug Form : Vial , Start : **DATE[Aug 31 06] 18:00:00 , Stop :
+**DATE[Aug 31 06] 18:00:00 , HR , 0
+furosemide , 80 mg , IV , QAM , Drug Form : Vial , Start : **DATE[Apr 28 07] 17:04:00
+heparin , 5000 Unit ( s ) , subQ , TID , Drug Form : Vial , Start : **DATE[Apr 30 07] 14:00:00
+hydromorphone , 8 mg , By Mouth , Q4HRS , Drug Form : Tab , PRN , Start : **DATE[Apr 27 07] 11:32:00
+hydromorphone , 2 mg , IV , Q1H , Drug Form : Dispsyr , PRN , Start : **DATE[Apr 27 07] 11:31:00
+lactulose , 20 gm , By Mouth , Q12HRS , Drug Form : Syrup , Start : **DATE[Apr 13 07] 10:06:00
+lanthanum carbonate , 500 mg , By Mouth , TID meals , Drug Form : Chew tab , Start : **DATE[Apr 30 07] 13:00:00
+menthol topical , 1 Lozenge , By Mouth , Q6HRS , Drug Form : Loz , PRN , Start : **DATE[Apr 11 07] 17:01:00
+oxycodone , 100 mg , By Mouth , Q8HRS , Drug Form : Er tablet , Start : **DATE[Apr 27 07] 14:00:00
+predniSONE , 20 mg , By Mouth , BID meals , Drug Form : Tab , Start : **DATE[Apr 28 07] 18:00:00
+prochlorperazine , 5 mg , IV , Q8HRS , Drug Form : Vial , PRN , Start : **DATE[Apr 22 07] 17:45:00
+sodium chloride nasal , 1 Spray ( s ) , Each Nostril , QID , Drug Form : Spray , PRN , Start : **DATE[Apr 14 07] 16:10:00
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 30 2007] 4:00 AM
+Na 143 mEq / L
+K 5.6 mEq / L High
+Cl 110 mEq / L
+CO2 20 mEq / L Low
+Anion Gap 13.0 High
+BUN 78 mg / dL Critical High
+Cr 5.6 mg / dL Critical High
+GFR ( estimated ) 10.00 mL / min / 1.73 m2 Low
+( Modified )
+NH3 29 uMol / L
+WBC 16.5 X10E+09 / L High
+RBC 3.35 X10E+12 / L Low
+Hgb 10.2 gm / dL Low
+Hct 31.8 % Low
+MCV 94.8 fL
+MCH 30.4 pg
+MCHC 32.1 gm / dL Low
+RDW 21.3 % Critical High
+MPV 10.7 fL High
+Platelets 135 X10E+09 / L Low
+PT 10.8 sec High
+INR 1.2
+Impression and Plan
+Plan
+1. Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+On Oxycontin TID and prn po / IV Dilaudid .
+2. Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime d/c 'd - completed full course .
+On po prednisone - adjusted as needed .
+3. HEENT - Group A Strep Throat - Completed 10 day Amoxil course .
+Otalgia / including hearing loss - ENT c/s - Floxin Otic - completed course .
+Improved hearing .
+4. Cardiology - h/o A-Fib .
+On Cardizem 60 mg QID - continue to monitor .
+5. GI - Hepatic encephalopathy - Lactulose BID .
+Monitor ammonia , today 29
+6. Renal - **INITIALS - IV Lasix 80 mg Q AM - monitor CXR .
+Appreciate Renal c/s - Renal US - IMPRESSION :
+1. ECHOGENIC KIDNEYS COMPATIBLE WITH RENAL PARENCHYMAL DISEASE , WHICH CORRELATES WITH RECENT ABDOMINAL MR FINDINGS .
+2. NO HYDRONEPHROSIS .
+3. SMALL TO MODERATE PELVIC ASCITES .
+On phosLo .
+Sodium bicarb prn Na + 143 .
+s/p Tunneled Vaxcel HD catheter **DATE[Apr 30 07] .
+I spoke with Dr. **NAME[VVV UUU] ( 7255 ) re : K + 5.6 .
+His note anticipates HD today gently and tomorrow .
+Nurse reports that dialysis informed her that no dialysis will be done today .
+Physician will speak with HD and inform nursing to provide additional lactulose or that HD will occur .
+7. Neurological - Diffuse weakness of extremities .
+CT head negative .
+PT / OT .
+Pt 's strength is improving .
+8. Vascular - RUE swelling and pain - RUE doppler preliminarily negative .
+9. Prophylaxis - SQ Heparin , interrupted this am for TDC .
+Continue .
+10. Heme - Leukocytosis , WBC 16.5 , afebrile .
+Patient on steroid therapy .
+CXR noted and blood and urine cultures no growth .
+C-diff neg .
+11. Endocrine - h/o DM - Elevated blood sugars ~ 200 s - consider SSI .
+12. Disposition - Pending .
+Pt will need SNF placement ( HD ) .
+Family contacts :
+Daughter **NAME[TTT] **PHONE ( **PLACE ) ; Mother **PLACE **PHONE ( Arizona ) .
+Professional Services
+Credentials and Title of Author **NAME[SSS] Signing this **NAME[RRR] : CRNP
+Perform by **NAME[XXX , WWW] R
+( on **DATE[Apr 30 2007] 16:32 )
+Sign by **NAME[XXX , WWW] R
+( on **DATE[Apr 30 2007] 16:32 )
+VERIFY by **NAME[XXX , WWW] R
+( on **DATE[Apr 30 2007] 16:32 )

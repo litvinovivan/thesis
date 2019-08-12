@@ -1,0 +1,114 @@
+Medicine D/C Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Female
+DOB :
+**DATE[Sep 10 1919]
+Author :
+**NAME[XXX , WWW M]
+Discharge Information
+Discharge Date :
+**DATE[Jan 4 2008]
+Attending Physician :
+**NAME[ZZZ , YYY M]
+Discharge Diagnosis ( es ):
+Diagnosis #1 :
+KLATSKIN TUMOR .
+Diagnosis #2 :
+DUODENAL PERFORATION , STATUS POST REPAIR .
+Diagnosis #3 :
+ALZHEIMER DISEASE .
+Diagnosis #4 :
+COMMON BILE DUCT OBSTRUCTION S/P STENT PLACEMENT .
+Procedures and Tests During this Admission
+CT Scan :
+CT scan results :
+IMPRESSION :
+CT ABDOMEN :
+1. BILIARY STENT IN PLACE WITH NO EVIDENCE OF BILIARY DUCTAL DILATATION .
+2. FOCAL DILATATION OF THE MID PANCREATIC DUCT WITH ASSOCIATED ATROPHY OF THE DISTAL PANCREATIC BODY AND TAIL .
+PANCREATIC NEOPLASM CAN BE EXCLUDED .
+3. NO EVIDENCE OF FREE INTRAPERITONEAL AIR .
+CT PELVIS :
+COLONIC DIVERTICULOSIS AND A SMALL AMOUNT OF ASCITES .
+NO EVIDENCE OF LOCULATED FLUID COLLECTION OR FREE INTRAPERITONEAL AIR .
+Patient Status
+Patient is an **AGE[in 80s]-year-old white female with Alzheimer 's dementia , history of a Klatskin tumor status post stenting of her biliary system , status post duodenal rupture with repair , depression , diverticulosis , status post mastectomy for breast cancer , who presented with vomiting .
+She was diagnosed with Klatskin tumor in 2006 , when she presented with jaundice and biliary obstruction .
+She had a #7 French plastic stent placed for mid bile duct stricture at an outside hospital in **DATE[Nov] .
+She presented to **INSTITUTION for removal of the plastic stent and replacement with a metal stent , though during this procedure she suffered a duodenal perforation , at which time she was taken emergently for surgery for duodenal repair .
+The patient did well after her surgery .
+A G-tube had been placed during the surgery and she was discharged home to her daughter 's house on **DATE[Dec 16 2007] , at which time she had weakness and nonbloody / nonbilious vomiting with elevated LFT s from a common bile ducty obstruction , likely secondary to Klatskin tumor .
+Per CT scan stent was visible though there was no dilation .
+GI recommended an EGD to evaluated the duodenum to determine if patient should undergo stent replacement vs. external drainage .
+ERCP was then done with removal of the plastic stent and replacement with a metal stent .
+She was placed on zosyn post-operatively and her LFTs decreased afterwards .
+Patient was discharged to follow up with outpatient GI .
+Health Status
+General Results
+Most recent results :
+Discrete results only
+ALLSRVSECTS .
+**DATE[Jan 4 2008] 3:30 AM
+Na 135 mEq / L Low
+K 3.6 mEq / L
+Cl 105 mEq / L
+CO2 26 mEq / L
+BUN 5 mg / dL
+Cr 0.6 mg / dL
+Ca 8.2 mg / dL Low
+Mg 1.4 mEq / L
+Phos 2.4 mg / dL Low
+ALT / SGPT 31 IU / L
+AST / SGOT 27 IU / L
+Alk Phos 407 IU / L
+High gGTP 419 IU / L High
+WBC 6.7 X10E+09 / L
+RBC 3.28 X10E+12 / L Low
+Hgb 10.6 gm / dL Low
+Hct 30.9 % Low
+MCV 94.0 fL
+MCH 32.2 pg
+MCHC 34.3 gm / dL
+RDW 14.0 %
+MPV 7.6 fL
+Platelets 378 X10E+09 / L High
+**DATE[Jan 3 2008] 4:00 AM
+Amylase &lt;30 IU / L
+Lipase 38 IU / L
+**DATE[Jan 2 2008] 4:00 AM
+Cholesterol 103 mg / dL Low
+**DATE[Dec 31 2007] 4:00 AM
+PT 9.6 sec
+INR 1.1
+PTT 32.0 sec
+Discharge Plan
+Disposition
+Patient discharged to home .
+Patient Instructions
+Physical Activity
+Other : Ad Lib
+Dietary Restrictions
+other diet
+Soft Foods .
+Follow Up Instructions
+Patient is to see GI clinic in 1 - 2 weeks .
+Patient is to see Surgery in 1 - 2 weeks .
+Discharge Medications
+Discharge Medications :
+1. Exelon 3 mg PO BID
+2. Protonix 40 mg PO daily
+3. Dulcolax suppository as needed
+4. Alprazolam 0.25 PO TID PRN
+5. Actigall 200 mg PO BID
+6. Vicodin one tab PO q4h PRN
+7. Tylenol 1-2 tabs PO daily PRN for pain
+8. Augmentin 875/125 mg PO BID for 11 days ( total 14 days )
+Perform by **NAME[XXX , WWW] D ( on **DATE[Jan 04 2008] 14:46 )
+Sign by **NAME[XXX , WWW] D ( on **DATE[Jan 04 2008] 14:46 )
+VERIFY by **NAME[XXX , WWW] D ( on **DATE[Jan 04 2008] 14:46 )

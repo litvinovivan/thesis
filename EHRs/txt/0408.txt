@@ -1,0 +1,90 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M SSS]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 13 07]
+BRIEF HISTORY OF PRESENT ILLNESS
+This is an **AGE[in 80s]- year - old female with past medical history of depression , atrial fibrillation , and COPD who was transferred to the MICU on **DATE[Nov 12 2007] , from **INSTITUTION with respiratory distress .
+The patient has been in **INSTITUTION since **DATE[Oct 20 2007] , for worsening confusion without an organic cause .
+She had been receiving electroconvulsive therapy , her last treatment being on **DATE[Nov 11 2007] .
+Following this ECT , she had progressively increased work of breathing followed by extubation after her procedure .
+She had to get some Xopenex which decreased her O2 requirement .
+Saturations were 100% on 6 L of nasal cannula .
+She got a chest x-ray at that time which showed right - sided opacities suspicious for pneumonia .
+The patient was started on Zosyn and vancomycin .
+She did have a tracheal aspirate on **DATE[Nov 12 2006] , which showed moderate gram-positive cocci .
+The patient has otherwise been feeling well and she was subsequently transferred to the medicine floor for further treatment .
+Subjectively , the patient was seen lying in bed .
+She had no specific complaints for me .
+Asked me to leave her alone .
+She denied any chest pain or shortness of breath .
+No abdominal pain , nausea or vomiting .
+PHYSICAL EXAMINATION
+Vital Signs :
+Temperature of 37.1 , pulse 80 , respirations 18 , and blood pressure 110/60 .
+General :
+She is awake .
+She is alert and oriented x 2 ; although , she did think that she was at **INSTITUTION .
+HEENT Exam :
+She has moist mucous membranes .
+Her EOMs are intact .
+Neck :
+Supple .
+Heart :
+Regular rate and rhythm .
+Lungs :
+Decreased breath sounds in her right lower lobe and no wheezes or crackles .
+Abdomen :
+Positive bowel sounds .
+Soft and nontender .
+Extremities :
+Warm and well perfused .
+No clubbing , cyanosis or edema .
+Her mood is good .
+She has no visible rashes on skin exam .
+LABORATORY DATA
+She had lab work yesterday morning that showed a sodium of 138 , potassium 3.8 , chloride 103 , bicarbonate 20 , BUN and creatinine 10 and 1.6 , calcium 8.7 , magnesium 1.4 , phosphorus 3.9 , total bilirubin 0.5 , ALT 47 , AST 33 , alkaline phosphatase 128 , lactate 1.1 , amylase less than 30 , and lipase 21 .
+Troponin was less than 0.1 .
+She had a white count of 64.4 , H and H 12.1 and 37 , platelets 280 , and INR was 2.4 .
+Her UA did not show any signs of infection .
+Chest x-ray showed a large pleural-based opacity in the right mid lung consistent with atelectasis and no pneumonia .
+ASSESSMENT AND PLAN
+1. Respiratory .
+The patient has what is considered a hospital-acquired pneumonia .
+She is currently on Zosyn and vancomycin for approximately 8 more days .
+If it comes back negative for MRSA , we can likely discontinue the vancomycin ; although , with vancomycin we will check the trough prior to referring for dose .
+Otherwise , she has been breathing well and has no complaints to me today .
+2. Atrial fibrillation .
+She has therapeutic INR of 2.4 .
+We will continue with her current Coumadin dose .
+3. Depression .
+The patient __________ medical issues resolve .
+4. Prophylaxis .
+She is on Coumadin and Pepcid .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+CRM/gn
+D :
+**DATE[Nov 13 2007] 02:39:59
+T :
+**DATE[Nov 13 2007] 07:00:11
+R :
+**DATE[Nov 13 2007] 07:00:11/gn
+Job ID :
+345005 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Dec 11 2007] 04:51:51 PM

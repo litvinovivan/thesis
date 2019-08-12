@@ -1,0 +1,59 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 22 07]
+The patient is awake and alert .
+She notes some continuing problems with cough but no shortness of breath .
+No problems with chest pain .
+She notes no GI complaints and continued return of her appetite .
+She has no significant complaints of leg or groin pain today .
+PHYSICAL EXAMINATION :
+Vital signs are stable .
+She is afebrile .
+The neck shows no JVD .
+No nodes or masses .
+The lung shows few scattered rhonchi bilaterally .
+The heart is regular .
+The abdomen is soft and nontender .
+Extremities showed no cyanosis , clubbing , or edema .
+The area of hematoma in her right groin appears to be less indurated with some ecchymosis in the area continues .
+LABORATORY DATA :
+Electrolytes , BUN , and creatinine are unremarkable .
+The white count is increased slightly to 12,100 .
+Hemoglobin and hematocrit have increased to 9.4 and 27.5 .
+The INR is 1.3 .
+Chest x-ray performed today shows no evidence of infiltrate .
+IMPRESSION :
+Status post episode of respiratory failure with excellent recovery from that standpoint .
+The patient had a right groin hematoma that appears to be stabilizing .
+We see no strong evidence for continued infectious process .
+She agreed proceeding with transfer to **INSTITUTION today .
+Otherwise , I agree with plans as outlined by the rest of team and discussed with them .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 22 2007] 13:37:31
+T :
+**DATE[Nov 23 2007] 04:46:04
+R :
+**DATE[Nov 23 2007] 04:46:04/kd
+Job ID :
+356554 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 02:57:56 PM

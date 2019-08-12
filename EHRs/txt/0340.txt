@@ -1,0 +1,85 @@
+CCM Progress Note
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 60s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 17 1944]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary Statement
+I have personally managed this patient in the ICU .
+PMI :
+Sternum infection , s/p CABG
+Surgery :
+1/25 Sternectomy
+Objective
+Radiology Studies :
+Chest Radiograph :
+The lines and tubes are unchanged .
+There is stable cardiomegaly with mild to moderate pulmonary vascular congestion and interstitial edema .
+Bilateral pleural effusions persist , left greater than right , with bibasilar atelectatic changes  .
+Impression and Plan
+Respiratory / Pulmonary
+Current Respiratory Parameters :
+Patient requires mechanical ventilation and the parameters are :
+A/C .
+PEEP 5 .
+The Fi02 is 50 % .
+Diagnosis ( es ):
+Ventilator dependence .
+Respiratory Plan
+The patient 's current ventilator parameters are acceptable and will titrate the Fi02 and PEEP to maintain an oxygen saturation &gt ; 92% .
+Cardiovascular
+Exam Findings
+Normal blood pressure .
+Regular rhythm : normal sinus rhythm .
+Diagnosis ( es ):
+Acceptable hemodynamics .
+Cardiovascular Plan
+Resume home medication  .
+Renal / Electrolytes
+Diagnosis ( es ):
+The patient has clinical findings consisent with normal renal function .
+GI / Nutrition
+GI / Nutrition Plan
+The patient 's condition is acceptable to begin enteral feeding .
+Will titrate feeds to goal therapy .
+Prophylaxis :
+GI Prophylaxis with an H2 blocker .
+Infectious Diseases
+Diagnosis ( es ):
+Sternum infection  .
+Infectious Disease Plan
+Empiric treatment with vancomycin and cefepime .
+Continue to f/u on cultures .
+Neurology
+Exam Findings
+General : arousable .
+Orientation : oriented to commands .
+Motor : normal motor exam .
+Diagnosis ( es ):
+The patient remains on sedation which I have chosen to continue to maintain patient safety .
+The patient will not tolerate removal of sedation .
+Lines / Other Prophylaxis
+DVT Prophylaxis
+SCD s to bilateral lower extremities .
+Subcutaneous Heparin :
+5000 units BID .
+Disposition
+Pat. is scheduled for revision on 1/29
+I have spent 32 minutes of critical care time managing and monitoring the patient 's care and / or discussing case with patient 's family members .
+This is exclusive of any time for procedures or my teaching time
+Professional Services Credentials and Title of Author **NAME[VVV] Signing this Document : **NAME[UUU] : MD
+Title : Attending
+Perform by **NAME[XXX , WWW]
+( on **DATE[Feb 27 2007] 18:32 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Feb 27 2007] 18:32 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Feb 27 2007] 18:32 )

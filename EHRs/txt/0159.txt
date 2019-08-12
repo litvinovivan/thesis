@@ -1,0 +1,65 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 08 2007]
+TRANSFER DATE :
+**DATE[Oct 10 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+HISTORY OF PRESENT ILLNESS :
+Mr. **NAME[AAA] is a **AGE[in 20s]- year - old male who was admitted via the emergency department following multiple med ingestion .
+He indicated that he took 40 tablets of Clonidine and 20 tablets of Risperdal .
+The patient called the police prior to swallowing the pills according to the psych note and did leave a suicide note .
+PAST MEDICAL HISTORY :
+1. Asperger 's syndrome .
+2. Hypertension .
+3. Mood disorder .
+HOSPITAL COURSE :
+Toxicology .
+The patient was noted on admission to have a mild QS prolongation most likely secondary to Risperdal .
+It has corrected .
+He did experience an episode of tachycardia through the night , however , according to tox attending , this was secondary to erotic stimulation .
+He has remained stable throughout his hospitalization .
+The telemetry was discontinued .
+The patient did receive one dose of magnesium 400 mg .
+The patient has received one dose of Ativan throughout the night for some agitation , however , remains clinical stable .
+DISCHARGE DIAGNOSES :
+Multiple med ingestion and a Mood Disorder , NOS .
+Medications :
+Ativan 1 mg p.o. or IM q. 6 hours p.r.n. agitation .
+ALLERGIES :
+NONE .
+**INSTITUTION and Clinic as directed .
+Diet :
+No restrictions .
+Activity :
+No restrictions .
+Follow-up with **INSTITUTION and Clinic as directed .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Oct 10 2007] 10:29:56
+T :
+**DATE[Oct 10 2007] 10:35:19
+R :
+**DATE[Oct 10 2007] 10:35:19/jas
+Job ID :
+340211 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 15 2007] 02:44:39 PM

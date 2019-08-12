@@ -1,0 +1,22 @@
+This is a transfer progress note .
+The patient is an **AGE[in 80s]- year - old male who was admitted to the cardiovascular unit because of retroperitoneal hematoma .
+The patient sustained a retroperitoneal hematoma secondary to a fall on the regular floor , and the patient was on heparin and Coumadin during that time , which was subsequently discontinued .
+However , the patient underwent an IVC filter placement , care of Dr. **NAME[UUU] for the prevention of pulmonary embolism from his DVT of the left leg .
+During admission , the patient developed pleural effusion which was increasing in amount .
+Dr. **NAME[TTT] performed diagnostic paracentesis on this patient and withdrew bloody fluid .
+We consulted Dr. **NAME[SSS] for possible chest tube placement ; however , the patient did not want any further intervention at this time .
+Risks and benefits were weighed , and it was decided that chest tube placement will be deferred at this time .
+The patient also developed pseudocolonic obstruction and the patient was also transiently put on NPO , put on IV fluids , and had a rectal tube placed .
+A repeat KUB of the abdomen showed resolving ileus , and the patient was subsequently started on clear liquids .
+Currently , the patient is hemodynamically stable .
+Hemoglobin and hematocrit are holding up adequately , and the patient is not complaining of any abdominal or retroperitoneal pain .
+In the future , the patient might need some form of anticoagulation which is deferred for now .
+The patient is deemed ready for transfer to the regular floor .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 374884 / 37484 / 42101
+# **ID-NUM
+D :
+**DATE[Mar 08 2007] 20:23
+T :
+**DATE[Mar 09 2007] 06:26

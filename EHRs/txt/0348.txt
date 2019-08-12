@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Feb 29 07]
+I am managing this critically ill **AGE[in 60s]- year - old female who is status post sternal wound infection and debridement .
+Her hospital course has been complicated by respiratory insufficiency .
+I am seeing her for management of her infection , respiratory failure and hyperglycemia .
+I have seen and examined the patient , reviewed her laboratory , radiographic and EMTEK data , and discussed the management with the surgeons .
+PROBLEMS AND MANAGEMENT :
+1. Sternal wound infection :
+The patient is going to the operating room today for debridement .
+I have her on vancomycin and cefepime to cover her gram - negative rods and gram - positive cocci in the culture .
+White blood cell count is up today at 23,000 , which is somewhat concerning .
+There have been no fevers .
+I have given her 1 unit of packed red blood cells for hemoglobin of 8 and hematocrit of 24 .
+2. Respiratory failure :
+Chest x-ray shows some increase in the bilateral effusions and pulmonary vascular congestion .
+On the vent , I have her on assist control .
+Her peak airway pressures , minute ventilation and gas exchange have been adequate .
+In light of her trip back to the operating room today , I have left her on full mechanical ventilatory support .
+3. Hyperglycemia :
+Blood glucoses have been between the 180 and 200 range on moderate - dose sliding - scale insulin .
+I have changed her to an insulin drip for tight glycemic control .
+Total critical care time = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 29 2007] 19:37:21
+T :
+**DATE[Feb 29 2007] 23:56:07
+R :
+**DATE[Feb 29 2007] 23:56:07/gvr
+Job ID :
+367109/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:48:40 AM

@@ -1,0 +1,139 @@
+CTSurg-Discharge Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] B
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Female
+DOB :
+**DATE[Apr 12 1977]
+Author :
+**NAME[XXX , WWW]
+Discharge Information
+Admit Date :
+**DATE[Sep 17 2007]
+Operative Date :
+**DATE[Sep 17 2007]
+Discharge Date :
+**DATE[Sep 23 2007]
+Discharge Diagnosis :
+S/p tricuspid valve repair
+K annuloplasty .
+s/p atrial septal defect repair
+Primary repair .
+repair of pulmonary valve with autologous pericardium
+Post Operative Patient Care Issues
+Atrial Fibrillation
+Immediately post - operatively .
+Resolved with Cardizem gtt .
+Past Medical History
+ASD , pulmonary stenosis , trace AI
+Health Status
+Allergy / reaction profile ( all ):
+NKA
+Canceled / inactive reactions :
+Unable to Obtain
+Admission Information
+Reason for Admission
+Patient was referred to **NAME[YYY ZZZ] , MD .
+Patient was worked up as an outpatient after experiencing complaints of SOB .
+After all the risks and benefits were discussed , patient consented to proceed with tricuspid valve repair , atrial septal defect repair and repair of pulmonary valve .
+Patient was admited on **DATE[Sep 17 2007] .
+Hospital Course
+Operating Room
+On **DATE[Sep 17 2007]  , the patient was taken to the operating room .
+The patient underwent tricuspid valve repair K annuloplasty atrial septal defect repair primary closure repair of pulmonary valve using autologous pericardium .
+Surgery was performed by **NAME[YYY ZZZ] , MD .
+Surgeon was assisted by **NAME[VVV UUU] , MD .
+ICU course
+Within 24 hrs the patient was successfully extubated from mechanical ventilation , was neurologically intact and hemodynamically stable .
+The patient was taken back to the operating room later on the operative day for continued chest tube drainage / bleeding .
+Post op course
+Standard management
+Once upon unit 6D the patient received aggressive pulmonary toileting and gentle diuresis
+The following were consulted for ways of increasing ambulation and activity :
+Physical Therapy , Occupational Therapy and Cardiopulmonary Therapy .
+Diet was advanced as tolerated
+On the monitor the patient remained in normal sinus rythm ( After the short run of Afib in the CTICU immediately post - op ) .
+Post op complications
+A small pneumothorax was discovered on CXR on POD#3 .
+Since patient was asymptomatic , the patient would be watched .
+Discharge Plan
+Discharge Diagnosis :
+S/p tricuspid valve repair ( K annuloplasty ) .
+S/p atrial septal defect repair ( primary closure ) .
+Repair of pulmonary valve with autologous pericardium .
+Disposition
+Patient discharged to home .
+Discharge Orders and Instruction
+Condition : stable .
+Diet : regular .
+Discharge heart rhythm : normal sinus rhythum .
+Activity
+The patient is to increase activity slowly as tolerated
+Elevate legs when sitting
+Climb stairs as necessary
+Do not lift anything greater than 5 pounds for four weeks or until otherwise cleared by a physician
+**DATE[Jan] engage in sexual intercourse when strong enough
+**DATE[Jan] take short rides in car
+Do not return to work .
+Check with your physician on your first follow - up appointment
+Don 't drive a car until after your first doctor appointment
+Instructions
+Continue incentive spirometry treatments 4 times a day for 10 repetitions
+Please refrain from smoking
+Weigh daily ; record weight
+Use Aspirin ONLY AS DIRECTED by Doctor
+Wash incisions with a mild soap and water .
+Do not use lotions , creams , or powders on incision line
+Limit alcohol consumption
+Do not cross legs or wear tight stockings or socks
+You may use Acetaminophen for headaches or minor pains as per directions
+Call physician if ANY of the following are noted
+Heart rate greater than 110 beats / min or less than 50 beats / min
+Increased swelling , redness , or drainage at or around the incision site
+Weight gain 3 lbs / day or 5 lbs / wk
+If any signs or symptoms of infection are noted regarding the surgical incisions please call your Cardiothoracic Surgeon
+Unusual rashes
+Nausea or vomiting
+Fever associated with chills
+Temperature elevation greater than 101 F degrees or sustained low grade temperature of 100 F degrees or higher
+New onset chest pain
+Lightheaded / dizziness
+New or increased shortness of breath
+Severe calf pain
+Burning on urination
+Severe depression
+Medications
+Lopressor 25 mg po bid
+Plavix 81 mg po qd
+Colace 100 mg po bid PRN for constipation
+Vicodin one tablet po q 6 hrs PRN for pain
+Tylenol 650 mg po q 6 hrs PRN for discomfort
+Pepcid 20 mg po bid x 2 weeks
+Follow Up
+Patient to see Primary Care Physician , **NAME[TTT SSS] , MD in 2 weeks (  **PHONE )
+Patient to see Cardiologist , **NAME[RRR QQQ] , MD **PHONE in 4 weeks
+Patient to see Cardiothoracic Surgeon , **NAME[YYY ZZZ] , Md in 4 weeks .
+Home Care :
+The patient will have home health care visiting two times a week for two weeks .
+They will do a complete physical assesment , check incisions , and review medications during each visit .
+Any remaining sutures or staples must be removed in seven days .
+Laboratory work to be obtained once weekly for two weeks :
+Hemoglobin , Hematocrit , Creatinine and Potassium .
+These results go to the Primary Care Physician Dr. **NAME[TTT SSS] , MD .
+Condition upon discharge :
+The patient was stable for discharge .
+All discharge instructions were given , patient and / or family verbalized understanding
+Time spent with patient on day of discharge :
+Greater than 30 minutes .
+Professional Services
+Credentials and Title of Author **NAME[PPP] Signing this **NAME[OOO]: NNN] , CRNP
+Perform by **NAME[XXX , WWW]
+( on **DATE[Sep 23 2007] 15:37 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Sep 23 2007] 15:37 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Sep 23 2007] 15:37 )

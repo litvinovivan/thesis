@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 24 07]
+I am managing this critically ill **AGE[in 40s]- year - old male status post laparotomy and debridement in the setting of pancreatitis .
+This patient 's hospital course has been complicated by respiratory failure and ARDS .
+I am seeing him for management of this and multiple medical problems .
+I have seen and examined the patient , reviewed his laboratory , radiographic and EMTEK data and discussed the management with the surgical team and critical care house staff .
+Problems and management are as follows :
+1. Respiratory failure - The patient has unchanged bilateral infiltrates on the chest x-ray from today and we were able to maintain him on BiPAP at settings of 15/8 over last night and he maintained an oxygen saturation at about 90% .
+Unfortunately , he was not able to tolerate time off BiPAP yesterday and today we will try to keep him off the BiPAP and try to go on more scheduled on and off BiPAP cycles .
+For his respiratory failure , I am also diuresing this patient and continuing him on Lasix drip .
+My plan for the next 24 hours is to keep him negative a liter net fluid balance .
+We will watch his BUN and creatinine for his renal function .
+His BUN today is 16 and creatinine is 0.7 .
+2. Hypertension - The patient is on Captopril , Lopressor and I also added clonidine for the management of his hypertension .
+We are making gradual headway in terms of treatment of his hypertension .
+Part of the reason for his hypertension also may be agitation because of ventilator weaning trials .
+3. ICU prophylaxis - The patient is on heparin drip for prophylaxis after his SMA repair and he also is on peptic ulcer prophylaxis .
+Total critical care time spent was 36 minutes .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 02 2008] 09:10:58
+T :
+**DATE[Jan 02 2008] 09:58:15
+R :
+**DATE[Jan 02 2008] 09:58:15/jb
+Job ID :
+410246 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 26 2008] 03:05:29 PM

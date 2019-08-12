@@ -1,0 +1,70 @@
+PN
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] C
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[90+] years
+Sex :
+Male
+DOB :
+**DATE[Apr 20 1917]
+Author :
+**NAME[XXX , WWW M]
+Results Review
+General results
+Most recent results ( rw )
+History of Present Illness
+The patient presents with complaint of
+It is characterized by respiratory distress .
+Per patient 's nurse he had no overnight events .
+Patient appears to be in no NAD .
+Physical Examination
+Vital signs : normal
+Constitutional
+Alert , somewhat cooperative with the physical exam and in NAD .
+Head
+Normocephalic , atraumatic .
+Face
+Symmetrical .
+Neck
+Supple .
+Heart
+RR with no m/r/g 's appreciated .
+Lungs
+Rhonchi bilateral at the bases .
+No wheezes or rales appreciated .
+Poor respiratory effort .
+Abdomen
+Soft , nontender , nondistended with normal active BS .
+No guarding or rebound noted .
+Extremities
+No clubbing or cyanosis .
+Mental status
+Alert but not oriented to person , place or date .
+Cranial nerves
+CN II-XII grossly intact .
+Impression and Plan
+General Plan
+1- CV - Due to his EKG changes an echo was ordered .
+The echo results reflect aortic valve sclerosis , mild tricuspid valve insufficiency , mild LVH , ejection fraction of 60% with no evidence of pericardial effusion .
+We will continue his cardiac meds and his current meds for HTN .
+2- Pulm - CXR shows early patchy pneumonia .
+Patient continues to be afebrile .
+He is on Day 3 of Unasyn .
+We will continue his ABX .
+We will repeat the CXR .
+We will f/u on his sputum cultures .
+Patient 's blood cultures show NGTD .
+3. Endo - DM Continue SSI as needed .
+Restart glyburide 5mg in the AM .
+4. Renal - Urinary retention .
+Patient has a negative UA .
+Urine culture is pending .
+5. Dispo - OT / PT consult ordered to perform voiding trials once patient is able to get to the bathroom .
+6. Nutrition - Patient has Boost - diabetic liquid supplement ordered to improve his low albumin level .
+Swallowing studies showed no significant dysphagia therefore we can d/c his IVF .
+**INSTITUTION Intern Admit
+Perform by **NAME[XXX , WWW M] ( on **DATE[Dec 06 2007] 09:27 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[Dec 06 2007] 09:27 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[Dec 06 2007] 09:27 )

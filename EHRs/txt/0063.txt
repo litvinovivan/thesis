@@ -1,0 +1,71 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[May 18 2007]
+DISCHARGE DATE :
+**DATE[May 25 2007]
+PRIMARY DIAGNOSIS :
+Anxiety .
+SECONDARY DIAGNOSES :
+Urinary tract infection with hypotension with prerenal azotemia .
+HOSPITAL COURSE :
+The patient is a pleasant **AGE[in 80s]- year - old elderly woman who was admitted with hypotension , urosepsis , and prerenal azotemia .
+She was managed with intravenous fluids , oral trimethoprim and sulfamethoxazole in the hospital .
+In view of premorbid anxiety , Psychiatry opinion was obtained .
+It was decided to start her on Seroquel 12.5 p.o. q.6 h. p.r.n. along with daily dose of Lexapro for underlying depression .
+The patient has had prior reactions to alprazolam with paradoxical stimulant effect with worsening delirium in the past .
+It is not clear at this moment of time whether these reactions were secondary to the nature of the drug or due to underlying urine infection .
+DISHCARGE RECOMMENDATIONS :
+Clinical examination on discharge is stable .
+The patient has been given followup with **INSTITUTION in **DATE[Jun 2007] .
+She has had a clinical work and differential which included mild cognitive impairment versus early dementia with underlying depression and prominent anxiety in the hospital .
+She is currently on Lexapro and oral Seroquel .
+PAST MEDICAL HISTORY :
+Hypertension , anxiety , depression , hypothyroidism , dyslipidemia , history of urinary tract infection , left nasolacrimal duct obstruction with tentative mass in lacrimal sac status post dacryocystorhinostomy operation .
+DISCHARGE MEDICATIONS :
+Current medications at discharge :
+1. Atenolol 25 mg p.o. daily .
+2. Simvastatin 20 mg p.o. daily .
+3. Levothyroxine 25 mcg p.o. daily .
+4. Lexapro 10 mg p.o. daily .
+5. Clonazepam 0.25 mg p.o. q.6 h. p.r.n.
+6. Losartan 50 mg p.o. daily .
+7. Quetiapine 12.5 mg p.o. q.6 p.r.n.
+8. Bactrim 1 tablet p.o. b.i.d.
+9. Cephalexin 250 mg p.o. q.6 h. for 7 days .
+The patient had a left lacrimal sac mass , underwent dacryocystorhinostomy and DCR operation performed by Oculoplastic and has a follow up with Oculoplastic Surgery for lacrimal sac mass .
+Surgery was done by Dr. **NAME[XXX WWW] .
+No further recommendations .
+___________________________________
+**NAME[YYY]
+**NAME[ZZZ]
+Dictator :
+**NAME[YYY ZZZ] , M.D.
+AN/s
+D :
+**DATE[May 25 2007] 15:34:06
+T :
+**DATE[May 25 2007] 23:07:36
+R :
+**DATE[May 25 2007] 23:07:36/s
+Job ID :
+361715/**ID-NUM
+Cc:
+**NAME[XXX CCC WWW] , M.D.
+The patient 's primary physician .
+**INSTITUTION
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[ZZZ , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 28 2007] 10:13:55 PM

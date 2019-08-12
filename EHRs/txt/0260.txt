@@ -1,0 +1,41 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 12 2007]
+EVALUATION DATE :
+**DATE[Jul 28 07]
+I personally managed Mr. **NAME[AAA] in the ICU , an **AGE[in 80s]- year - old man with a history of respiratory failure , ARDS , pneumonia and also an underlying history of dementia .
+The patient continues to be mottled and with poor cardiac output .
+His urine output now is decreasing on Lasix .
+His chest x-ray is continuing to show evidence of severe ARDS .
+He is growing strep for which he is on appropriate antibiotics .
+We have not been able to aggressively reverse this situation .
+He appears to be in poor condition .
+We are now discussing with the family the possibility of comfort measures as the patient is not responding to aggressive treatment .
+We are continuing to discuss this with the family and the attending physician .
+Critical care time / 30 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 28 2007] 18:02:36
+T :
+**DATE[Jul 29 2007] 05:23:19
+R :
+**DATE[Jul 29 2007] 05:23:19/crl
+Job ID :
+365576/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 04 2007] 08:50:46 PM

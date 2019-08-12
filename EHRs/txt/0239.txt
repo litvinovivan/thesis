@@ -1,0 +1,49 @@
+FINAL DIAGNOSES :
+1. Retroperitoneal hematoma , large .
+2. Acute renal failure .
+3. Deep venous thrombosis , left lower extremity .
+4. Congestive heart failure .
+5. Status post inferior vena cava filter .
+6. Benign prostatic hypertrophy .
+7. Right inguinal hernia , reducible .
+8. History of depression .
+9. History of bipolar disorder .
+10. Status post **PLACE filter .
+PROCEDURE :
+Thoracentesis , left chest .
+OTHER WORKUP :
+A CT scan of the abdomen on **DATE[Feb 30 2007] , showed impression :
+No evidence of a bowel obstruction or ileus .
+Multiple cholelithiasis , prostate enlargement , moderately large right inguinal hernia containing nonobstructed bowel loops , and bilateral small multiple diaphragmatic intrathoracic pleural calcifications .
+A chest x-ray on **DATE[Mar 1 2007] , showed a normal chest .
+??? A CT of the abdomen on **DATE[Mar 4 2007] ; impression :
+Bilateral small pleural effusions , minimal ascites , cholelithiasis , moderately enlarged soft - tissue density in the left retroperitoneal region suggestive of hematoma , enlarged prostate , and right inguinal hernia .
+HOSPITAL COURSE :
+This is an **AGE[in 80s]- year - old gentleman who was admitted to the **INSTITUTION through the emergency room when he was brought there complaining of generalized weakness , excessive swelling of the lower extremities , and some abdominal discomfort of minimal degree .
+The patient has a history of bipolar disorder , depression , prostatic hypertrophy , and chronic anemia .
+He was evaluated and was placed on diuretics ; subsequently , the venous Doppler studies did confirm DVT affecting the left lower extremity .
+The patient was placed on subcutaneous Lovenox .
+He also was treated with elevation of the feet .
+On **DATE[Mar 4 2007] , he became confused , disoriented , hypotensive , and was transferred to CVU .
+His hemoglobin did drop significantly also and a transfusion was undertaken .
+A subsequent CT scan did confirm retroperitoneal hematoma .
+He was evaluated by vascular surgery service , Dr. **NAME[XXX] , and pulmonary service was also consulted .
+The surgical service , Dr. **NAME[WWW] , was consulted .
+The patient was monitored closely in the intensive care unit , where hemoglobin and hematocrit were closely monitored and transfusions were given to maintain hemoglobin around 10 grams .
+He had abdominal pain relieved with morphine .
+He had no reversible obstructive bowel process ; however , he gradually did improve although he was noted to have a left pleural effusion which was tapped and was noted to be hemorrhagic .
+A thoracic surgical consultation was asked from Dr. **NAME[VVV] and he thought that no surgical intervention was necessary at this point .
+The patient was also not very keen to undergo any such surgical intervention .
+His respiratory status remained fairly stable and he did gradually improve .
+His abdominal pain subsided .
+He was able to tolerate some liquids .
+His hemoglobin and hematocrit also remained stable .
+He was transferred to TCU for continued monitoring and care in stable condition .
+______________________________
+**NAME[YYY ZZZ] , M.D.
+HS Job # 341703 / 42623 / 29913
+# **ID-NUM
+D :
+**DATE[Apr 21 2007] 13:30
+T :
+**DATE[Apr 21 2007] 15:49

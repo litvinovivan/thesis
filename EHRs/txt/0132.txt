@@ -1,0 +1,140 @@
+CRNP Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jan 28 1949]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt is a **AGE[in 50s] year old with NICM , EF 10-15% , S/ ) BiVICD/Pacer , DM , Hypothyroidism , Psoriasis who presented to the **INSTITUTION today with increased adbominal girth , cough , orthopnea , PND and LE Edema .
+Wt gain of 25 + pounds .
+Her last hospitalization was in **DATE[Dec 15 22] , 2006 for decompensated HF .
+She was discharged on Lasix 120 BID , however was only taking Lasix 80-120 daily .
+Subjective / Events Overnight : slept well .
+c/o abd distention .
+Vital signs
+BP : systolic 84 , diastolic 50 .
+Pulse :
+90 beats per min .
+Resp :
+18 breaths / min at rest .
+Weight :
+65.5 kgs with clothes .
+Intake by PO : 350 ( ML ) .
+Output , urine : 325 ( ML ) .
+Net : 25 ( ML ) .
+Physical Exam
+General Appearance :
+NAD , up in room to BR .
+Cardiovascular :
+S1 S2 RRR
+II / VI systolic murmur.
+increased JVP .
+Respiratory :
+CTA .
+Gastrointestinal :
+Abd distended , increased from **DATE[Feb 8 07] , + ascites , nontender + BS .
+Genitourinary : decreased urine output .
+Musculoskeletal :
+**NAME[VVV] .
+Skin : psoriatic lesions covering most of body .
+Neurological : alert , oriented X 3 .
+Psychiatric : mood calm , pleasant .
+Hematologic / Lymphatic :
+2 + LE edema , feet warm , + DP .
+Tele : paced  .
+Medications :
+Lasix 120 IV BID
+Zaroxolyn 5 mg po BID
+Synthroid 112 mcg po daily
+MagOx 800 mg po BID
+Low Dose SSI
+Aldactone 25 mg po daily
+Wellbutrin XL 150 mg QAM
+Dovonex Oint 0.005% BID to affected areas
+Clobetasol 0.05% oint BID to affected areas on body ( not face or skin folds )
+BID x 2 weeks -- D/C **DATE[Feb 23 07]
+Desowen Cream BID x 2 weeks to affected area on face .
+D/C **DATE[Feb 23 07]
+5 am **DATE[Feb 9 07]--extra Lasix 120 IV given .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Feb 9 2007] 5:47 AM
+Glucose ( bedside ) 92 mg / dL
+**DATE[Feb 9 2007] 3:50 AM
+Na 139 mEq / L
+K 5.5 mEq / L High
+Cl 90 mEq / L Low
+CO2 36 mEq / L High
+Anion Gap 13.0 High
+BUN 42 mg / dL High
+Cr 2.4 mg / dL High
+GFR ( estimated ) 22.00 mL / min / 1.73 m2 Low
+( Modified )
+Mg 2.3 mEq / L High
+ALT / SGPT 26 IU / L
+AST / SGOT 25 IU / L
+TG 59 mg / dL Low
+Cholesterol 90 mg / dL Low
+LDL 44 mg / dL Low
+HDL 37 mg / dL Low
+VLDL 9 mg / dL Low
+Impression and Plan
+Impression
+**AGE[in 50s] yo female admitted with decompensated heart failure secondary to NICM and noncompliance to medications .
+Diuresis with Lasix and Zaroxolyn .
+Now with decreased renal function .
+Consider inotropes .
+Plan
+1. Decompensated HF due to NICM .
+EF 10-15% .
+Severe TR and mod - sev MR .
+She presented to the HF clinic with fluid overload **DATE[Feb 4 07] , and admitted for diuresis .
+Lasix 120 IV BID , Zaroxolyn , Aldactone .
+Lisinopril d/c 'd .
+She is has a h/o BB intolerance .
+Wt down 7.4 Kg since adm .
+I/O + 25 yesterday .
+Extra Lasix 120 IV given at 5 am with little increase in urine output .
+Cr increased 2.4 .
+Monitor wts , I/O , fld restriction and low Na food plan .
+Consider Inotropes &amp ; hold aldactone .
+2. BiVICD .
+Guidant .
+Implanted 7/06
+3. Hypothyroidism .
+TSH 19.734 .
+Cont Synthroid 112 mcg daily .
+Recheck in 6 weeks .
+4. DM .
+Accuchecks and SSI .
+Appreciate J **PLACE CDE consult .
+BG 92-146 .
+Cont to monitor .
+5. Severe Psoriasis .
+Pt has refused intervention in past , " nothing works " .
+Yesterday agreeable to derm consult .
+Consult appreciated .
+Ointments ordered and pt to f/u as OP .
+6. Renal .
+Cr increased to 2.4 ( 1.2 on adm ) .
+Hold aldactone , consider inotropes .
+7. Depression .
+Pallative care and Behavioral Medicine consults appreciated .
+Psych consult **DATE[Feb 8 07] appreciated .
+Effexor d/c 'd and Wellbutrin stated **DATE[Feb 9 07] .
+8. Disp. consider inotropes , Cont to Diurese , monitor renal function ,
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Feb 09 2007] 10:53 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Feb 09 2007] 10:53 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Feb 09 2007] 10:53 )

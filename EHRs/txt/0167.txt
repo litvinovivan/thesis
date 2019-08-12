@@ -1,0 +1,54 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Jul 13 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRINCIPAL DIAGNOSIS :
+Headache .
+SECONDARY DIAGNOSES :
+1. Accelerated hypertension .
+2. Anxiety .
+3. Thrombopenia .
+4. Hypokalemia .
+5. Obesity .
+CONSULTANTS :
+Cardiology , Dr. **NAME[VVV] , et al .
+H and P is as written .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is admitted again for accelerated hypertension .
+He had had some medication changes , felt that his headache was possibly a side effect to the use of central - acting anti - hypertensive .
+Blood pressures continued to elevate during his hospital stay with changes in his regimen .
+He was seen by Cardiology who made some suggestions and blood pressures did improve .
+Headache :
+Workup was negative for any findings .
+The patient did report increased anxiety which is also common with his admissions with some resolution with combination of Klonopin and doxepin .
+The patient is being discharged in improved condition .
+DISCHARGE MEDICINES :
+1. Zestoretic 12.5/20 , 2 tablets daily .
+2. Inderal LA 120 mg 1 twice a day .
+3. Potassium 20 mEq twice a day .
+4. Plendil 10 mg daily .
+5. Doxepin 10 mg at night .
+6. Catapres patch 0.1 mg topically for 1 more week .
+7. Klonopin 0.25 mg b.i.d. p.r.n.
+8. Aspirin 325 mg daily .
+The patient is asked to follow up in 2 weeks .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 699128 / 38808 / 29252
+SHY # **ID-NUM
+D :
+**DATE[Jul 13 2007] 14:02
+T :
+**DATE[Jul 14 2007] 14:49
+**CARBON-COPY

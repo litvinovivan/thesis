@@ -1,0 +1,99 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] F
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Male
+DOB :
+**DATE[Jun 14 1922]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 80s] year old , widowed , white male with h/o NPH , CAD , s/p CABG presents to ED with h/o difficulty with ambulation , urinary incontinence and worsening dementia per family .
+Past Medical History :
+Dementia
+NPH
+CAD , s/p CABG
+HTN
+A-fib , on Coumadin
+Hyperlipidemia
+TIA
+Carotid stenosis
+Spinal stenosis
+BPH
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Patient lying in bed states , " I 'm tired ."
+Vital signs
+**DATE[Jul 16 2007] 4:00:00 AM .
+BP : systolic 149 , diastolic 77 .
+Pulse :
+78 beats per min .
+Resp :
+20 breaths / min .
+Temp :
+36.9 degrees Celsius .
+Pulse Oximetry ( O2 Sats ) :
+95% on RA .
+Physical Exam
+General Appearance :
+Elderly male in NAD with vest restraint .
+Cardiovascular :
+S1 , S2 , no gallop .
+Irregular .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Musculoskeletal :
+MAE s .
+Skin :
+Warm and dry .
+Neurological :
+Alert , oriented to self .
+Pleasant .
+Hematologic / Lymphatic :
+LLE to shin .
+Current Medications : medication administration orders ( selected )
+atenolol , 12.5 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Jul 13 07] 9:00:00
+famotidine , 20 mg , By Mouth , At Bedtime , Drug Form : Tab , Start : **DATE[Jul 13 07] 1:15:00
+furosemide , 40 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Jul 13 07] 9:00:00
+lisinopril , 10 mg , By Mouth , BID , Drug Form : Tab , Start : **DATE[Jul 13 07] 1:23:00
+pravastatin , 40 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Jul 13 07] 9:00:00
+tamsulosin , 0.4 mg , By Mouth , Daily , Drug Form : Cap , Start : **DATE[Jul 13 07] 9:00:00
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 16 2007] 4:10 AM
+PT 23.9 sec High
+INR 2.7
+PTT 39.0 sec High
+Impression and Plan
+Plan
+1. Neurological - h/o dementia , NPH , TIA .
+Admitted with worsening dementia and ambulation .
+Neurology consulted - input appreciated .
+Patient was on Aricept in past with no benefit , but side effects per attending , therefore , will not resume at this time .
+MRI C-Spine :
+IMPRESSION : MULTILEVEL DEGENERATIVE CHANGES OF THE CERVICAL SPINE AS ABOVE WHICH ARE MOST SIGNIFICANT AT THE C5-C6 LEVEL WHERE THERE IS CORD COMPRESSION AND MILD CENTRAL CANAL STENOSIS BUT NO ABNORMAL CORD SIGNAL .
+B-12 level pending .
+Neurosurgery consulted ( 7897 ) to evaluate for trial of CSF removal and their impression of compression .
+2. Cardiology - h/o CAD , s/p CABG , A-fib .
+Coumadin currently on hold in anticipation of removal of CSF .
+Continue other meds and observe .
+3. Disposition - PT / OT consulted .
+Social Services consulted re : placement per family .
+Case discussed with Dr. **NAME[VVV] .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this **NAME[TTT] : CRNP
+Perform by **NAME[XXX , WWW] R
+( on **DATE[Jul 16 2007] 10:46 )
+Sign by **NAME[XXX , WWW] R
+( on **DATE[Jul 16 2007] 10:46 )
+VERIFY by **NAME[XXX , WWW] R
+( on **DATE[Jul 16 2007] 10:46 )

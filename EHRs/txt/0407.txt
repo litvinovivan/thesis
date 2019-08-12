@@ -1,0 +1,76 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6A/621
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Apr 21 2007]
+DATE OF DISCHARGE :
+**DATE[May 05 2007]
+DISPOSITION
+Health South Harmarville .
+ADMISSION DIAGNOSIS
+Shortness of breath .
+DISCHARGE DIAGNOSES
+1. Chronic obstructive pulmonary disease exacerbation .
+2. Respiratory failure .
+3. History of emphysema secondary to chemical exposure .
+HOSPITAL PROCEDURES
+1. Intubation and ventilation **DATE[Apr 23]rd to the 28th .
+2. PICC line insertion #6-French triple lumen on **DATE[Apr] the 23rd , 2007 .
+CONSULTANTS
+1. Dr. **NAME[VVV] , Pulmonary Critical Care .
+2. Dr. **NAME[UUU TTT] , Psychiatry .
+3. Dr. **NAME[SSS RRR] , Ophthalmology .
+HOSPITAL COURSE
+This patient is a **AGE[in 50s]-year-old gentleman with a past medical history of COPD secondary to chemical exposure , who presented to the hospital with complaints of shortness of breath .
+He was admitted to the hospital with a chronic obstructive pulmonary disease exacerbation .
+The usual nebulizer treatments , IV steroid , and antibiotic were initiated .
+On **DATE[Apr] the 23rd , at 2:00 in the morning , a condition A was called secondary to the patient becoming unresponsive and hypoxic .
+This was preceded by the patient becoming very anxious and tachypneic .
+He was emergently intubated and transferred to the Intensive Care Unit for further management of his respiratory failure .
+While in the Intensive Care Unit he did develop an ICU psychosis and Psychiatry was consulted .
+{ Due a prolonged QT this patient is NOT to receive Haldol .}
+Over the course of his hospitalization his condition has improved .
+He is on a very slow steroid taper .
+He has completed a ten day course of IV Rocephin .
+He does not have an oxygen requirement at rest , however does require oxygen with activity .
+He is currently being treated with Advair and Spiriva as directed by the Pulmonary Service .
+A the time of discharge his prednisone he was at 20 mg daily with taper to continue slowly .
+Given his lengthy hospitalization , the patient has agreed to transfer to acute rehabilitation .
+He will continue physical therapy and occupational therapy to increase his strength and mobility .
+Ultimately he wishes to return home .
+LABORATORY / DIAGNOSTICS
+Laboratory values :
+BMP is within normal limits , BUN of 20 , creatinine 0.7 , glucose 84 .
+WBC 11.5 , hemoglobin 12.3 , hematocrit 36 , platelet count 248 .
+DISCHARGE INSTRUCTIONS
+1. Regular diet .
+2. Physical therapy and occupational therapy .
+3. Oxygen at two liters nasal cannula PRN to keep saturations greater than 90-92% .
+4. Routine PICC line care .
+5. Fall precautions .
+6. Consult Dr. **NAME[VVV] , Pulmonary .
+7. Consult Deer Lakes Medical for medical management , Dr. **NAME[YYY] .
+8. CBC , BMP on Wednesday and weekly .
+DISCHARGE MEDICATIONS
+1. Tylenol PRN .
+2. Albuterol inhalation every two hours as needed for wheeze .
+3. Tums every six as needed for heartburn .
+4. Colace 100 mg two times a day .
+5. Advair Diskus 500/50 one puff two times a day .
+6. Robitussin 200 mg syrup by mouth every four hours as needed .
+7. Routine PICC line care with saline and heparin .
+8. Heparin 5000 Units subcutaneously every 12 hours for deep venous thrombosis prophylaxis , discontinue once mobilized .
+9. Ativan 0.5 mg orally three times a day as needed for anxiety .
+10. Prednisone 15 mg by mouth daily to continue a slow taper .
+11. Spiriva two inhalations one cap daily .
+12. Sliding scale insulin AC and HS .
+DISPOSITION
+The patient is being transferred by a wheelchair van to Health South Harmar
+Village in stable condition .
+***FOOTER-BLOCK

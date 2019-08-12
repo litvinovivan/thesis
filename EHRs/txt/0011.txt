@@ -1,0 +1,20 @@
+PREOPERATIVE DIAGNOSIS :
+Symptomatic cholelithiasis .
+OTHER DIAGNOSES :
+1. Morbid obesity .
+2. Gastroesophageal reflux disease .
+3. Polycystic ovarian syndrome .
+4. Fatty liver .
+5. Asthma .
+PROCEDURES PERFORMED :
+Laparoscopic cholecystectomy by Dr. **NAME[ZZZ] on **DATE[Jan 26 2008] .
+HOSPITAL COURSE :
+The patient was admitted to the hospital through the emergency department with a severe right upper quadrant pain and nausea .
+She underwent a preoperative workup in the emergency department on the floor , and she underwent a laparoscopic cholecystectomy on **DATE[Jan 26 2008] , which was uneventful .
+She was then discharged home in the morning of **DATE[Jan 27 2008] , in good condition to follow up with Dr. **NAME[ZZZ] in 1 week , and she is on pain medications .
+______________________________
+**NAME[YYY ZZZ] , M.D.
+HS Job # 462081 / 38463 / 32008
+# **ID-NUM
+D : **DATE[Feb 13 2008] 11:41
+T : **DATE[Feb 14 2008] 04:12

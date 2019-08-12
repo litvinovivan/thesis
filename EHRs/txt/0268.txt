@@ -1,0 +1,29 @@
+PERTINENT CONSULTATIONS :
+1. Dr. **NAME[UUU] .
+2. Dr. **NAME[TTT] .
+The patient is an **AGE[in 80s]- year - old Caucasian male who was admitted from **INSTITUTION due to respiratory distress .
+On presentation to the ER , the patient was noted to be having labored breathing .
+He was started on BiPAP on account of his code status .
+The patient also was started on antibiotics for a possible pneumonia .
+A chest x-ray done revealed bilateral infiltrates .
+He also had elevated WBCs with bands of 20 .
+The patient was started on Avelox .
+Today is his third day on Avelox .
+He also at presentation had a rapid ventricular response of atrial flutter and was given IV Cardizem .
+He is also to continue his daily dosing of p.o. Cardizem .
+The patient was not started on Coumadin on account of previous consults , considering that the patient had a recent fall with bleeding .
+During the course of his CVU stay , he remained clinically stable , and his clinical improvement was sustained .
+He was considered stable to be transferred to a regular floor .
+The patient is also back in a normal sinus rhythm on 90 mg q.i.d. of Cardizem .
+Today is his third day on Avelox .
+The plan is to have Avelox for the next five to seven days .
+Also , steroids are presently being tapered off , and this is to be done over the next three days .
+Overall clinical improvement has been sustained for transfer .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 130393 / 35282 /
+# **ID-NUM
+D :
+**DATE[Nov 29 2007] 13:28
+T :
+**DATE[Nov 30 2007] 08:13

@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+CARDIOPULMONARY RESUSCITATION NOTE :
+INDICATION :
+CARDIOPULMONARY COLLAPSE .
+Phoned to Condition A on 10 South .
+ACLS protocol was started immediately .
+CPR was underway .
+The initial rhythm was PEA and then subsequently asystole and then ventricular fibrillation .
+The patient was given a total of 4 mg of epinephrine .
+He was given 40 units of vasopressin and was shocked five times .
+The first time was 150 joules and then subsequently 200 joules .
+The patient was treated empirically for hyperkalemia and was given one gram of calcium chloride and was given twice .
+He was also given indulin and D50 and was given sodium bicarbonate .
+CPR was continued throughout .
+He had a nice femoral pulse with the CPR ; however , once the CPR stopped , the patient did not have any pulse .
+Due to the futility of care , it was felt that the effort for resuscitation should be stopped .
+No objection was made in the room from the physicians or the nursing staff , so we stopped resuscitation .
+Time of death was 22:28 .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+**INITIALS
+D :
+**DATE[Jan 15 2008] 23:40:42
+T :
+**DATE[Jan 16 2008] 07:31:34
+R :
+**DATE[Jan 16 2008] 07:31:34/msz
+Job ID :
+347748/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:16:45 PM

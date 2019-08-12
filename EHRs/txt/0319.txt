@@ -1,0 +1,75 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Dec 16 2007] 00:01:00
+DISCHARGE DATE :
+DISCHARGE DIAGNOSES :
+1. Syncope .
+2. Transient ischemic attack .
+3. Left ventricular dysfunction .
+4. Hypertension .
+5. Neuropathy in lower extremities .
+6. Status post pacemaker placement .
+7. Hypothyroidism .
+The patient is an **AGE[in 80s]- year - old female who was admitted with a history of passing out .
+She also has recurrent dizziness .
+The patient was admitted with a diagnosis of syncope ; rule out TIA , rule out cardiac arrhythmia .
+CBC and BMP were unremarkable .
+Troponin was unremarkable .
+Chest x-ray did not reveal any acute disease .
+Head CAT scan did not reveal any acute CVA .
+The patient was admitted for further investigations .
+Cardiology evaluation was called .
+Pacemaker was checked and adjusted .
+The patient had a carotid Doppler done which revealed a right - sided 40% and left - sided 41% to 59% block .
+EEG was unremarkable .
+Echocardiogram did not reveal any __________ except some mild mitral stenosis and some mild LV dysfunction .
+The patient continued to improve .
+There were no more episodes of dizziness or syncope .
+Started her on p.o. Coumadin and subcutaneous Lovenox .
+The patient had a CT angiogram of the carotid , which revealed right ICA has 30% block and left ICA only 40% block .
+The patient was also seen by a neurologist , Dr. __________ .
+The patient is clinically stable .
+INR was 1.1 today .
+We will discharge the patient home with subcu Lovenox and Coumadin .
+Examination finding at the time of discharge as per my progress note .
+DISCHARGE MEDICATIONS :
+1. Aspirin 325 mg daily .
+2. Lipitor 20 mg daily .
+3. Digoxin 0.125 daily .
+4. Lovenox 90 mg subcu b.i.d. until INR is more than 2 .
+5. Synthroid 37.5 mcg daily .
+6. Lyrica 25 by mouth b.i.d.
+7. Coumadin 3 mg daily .
+We will discontinue aspirin once the INR is 2 .
+DISCHARGE INSTRUCTIONS :
+Take medications regularly .
+__________ on Monday .
+PT / OT , increase activity , and follow up in office in 7 to 10 days .
+_____________________________________
+**NAME[YYY]
+**NAME[ZZZ]
+DICTATED BY :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Dec 19 2007] 09:35:28
+T :
+**DATE[Dec 19 2007] 12:33:17
+R :
+**DATE[Dec 19 2007] 12:33:17/ja
+Job ID :
+352877/**ID-NUM
+CC:
+*** Dictated By :
+002558-**NAME[ZZZ , CCC M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 06 2008] 09:56:45 PM

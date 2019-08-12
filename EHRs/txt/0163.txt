@@ -1,0 +1,70 @@
+**INSTITUTION
+ORTHOPEDIC SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 30 2007]
+DISCHARGE DATE :
+**DATE[Nov 03 2007]
+ADMISSION DIAGNOSIS :
+L5-S1 isthmic spondylolisthesis and chronic back pain .
+DISCHARGE DIAGNOSIS :
+L5-S1 isthmic spondylolisthesis and chronic back pain status post L5-S1 decompressive laminectomy , posterior lumbar interbody fusion , posterior spinal instrumental fusion , and L5-S1 iliac crest bone graft .
+INDICATIONS FOR PROCEDURE :
+The patient is a **AGE[in 30s]- year - old gentleman with longstanding history of back pain , radiculopathy in his buttocks , and noted isthmic spondylolisthesis .
+He had fair preoperative workup and discussed the risks and benefits of surgery with Dr. **NAME[ZZZ] including but not limited to bleeding , infection , neural trauma , possible chronic pain , possible recurrence of symptoms , junctional stenosis , and possible chronic numbness , weakness , or pain .
+He understood these concerns and opted for operative treatment .
+The patient was admitted on **DATE[Oct 30 2007] , and underwent L5-S1 decompressive laminectomy , posterior spinal fusion , and posterior lumbar interbody fusion with iliac crest bone graft .
+The procedure was tolerated without complication .
+Postoperatively he was doing well .
+He was transferred to the floor .
+He did have a high pain medication regimen preoperatively and he was restarted back on his baseline OxyContin levels .
+He was relatively comfortable with this as well as oxycodone for breakthrough pain .
+He was otherwise tolerating a regular diet .
+He was ambulating with physical therapy .
+He did require a wheeled walker , but was doing well and was stable to get to and from the bathroom up and down the hallway without significant help .
+He was otherwise stable for discharge to home .
+**INSTITUTION .
+DISCHARGE INSTRUCTIONS :
+Follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks .
+Call for an appointment at **PHONE .
+Please call sooner or immediately if he should develop fevers , chills , redness , warmth , or discharge from the incision .
+Please wear an abdominal binder when out of bed and ambulating .
+He can wear it to go to and from the bathroom and __________ wear while sleeping .
+Keep the incision clean , dry , and covered , replace with dry sterile gauze daily .
+Do not soak the incision .
+He may begin to shower in 2 days covering the incision with saran wrap and then pat dry after the shower .
+DISCHARGE MEDICATIONS :
+1. OxyContin 60 mg p.o. b.i.d.
+2. Oxycodone 5 mg 1 to 3 tablets p.o. q.4 hours p.r.n. breakthrough pain .
+3. Lyrica 75 mg p.o. b.i.d.
+4. Metformin 500 mg p.o. b.i.d.
+5. Amaryl 4 mg p.o. daily .
+6. TriCor 145 p.o. daily .
+7. Elavil 100 mg p.o. daily .
+8. Reglan 10 mg 3 times a day with meals .
+9. Colace 100 mg p.o. b.i.d.
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 03 2007] 10:36:10
+T :
+**DATE[Nov 03 2007] 12:17:00
+R :
+**DATE[Nov 03 2007] 12:17:00/jat
+Job ID :
+373780 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 07 2007] 06:48:24 PM

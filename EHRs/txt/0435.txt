@@ -1,0 +1,55 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT]
+**NAME[VVV UUU]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Nov 24 07]
+I am managing this critically ill **AGE[in 40s]- year - old male status post repair of an SMA false aneurysm .
+Hospital course has been complicated by malnutrition , respiratory insufficiency , fluid overload , and postoperative cholestasis .
+I am seeing him for management of these issues .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and Emtek data , and discussed the management with the vascular and general surgeons .
+Problems and management are as follows :
+1. Respiratory insufficiency .
+Chest x-ray continues to show pulmonary vascular congestion .
+I have given him another 20 mg of Lasix today .
+Clinically , his respiratory pattern is improved and I am weaning his oxygen down .
+He is diuresing nicely with Lasix and we will keep him the intensive care unit for pulmonary toileting .
+2. Status post SMA repair .
+We will continue a five - day course of Cipro , Flagyl , and vancomycin empirically .
+Hemoglobin and hematocrit have been stable .
+I have discontinued the q.6 hourly hematocrit checks .
+He does have a little bit of what I think is postoperative cholestasis with an increase in his total bilirubin from a preoperative level of 6 to a postoperative level of 10 .
+We will check that on a daily basis .
+Right upper quadrant shows no signs of ductal dilatation .
+Gastroenterology is following closely .
+3. Malnutrition .
+I have started him back up on his TPN .
+He did not do well on trickle tube feeds last night and had an episode of vomiting , and I have discontinued his tube feeding .
+Total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 24 2007] 17:32:21
+T :
+**DATE[Nov 24 2007] 17:53:40
+R :
+**DATE[Nov 24 2007] 17:53:40/hms
+Job ID :
+360397 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:07 PM

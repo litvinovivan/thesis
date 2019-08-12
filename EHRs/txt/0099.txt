@@ -1,0 +1,48 @@
+FINAL DISCHARGE DIAGNOSES :
+1. Upper gastrointestinal bleed .
+2. Gastroesophageal reflux disease .
+3. History of esophagitis .
+4. Left lower lobe pneumonia .
+5. Hypertension .
+6. Chronic obstructive pulmonary disease .
+7. Abdominal aortic aneurysm .
+8. Decubitus ulcers .
+9. Anemia of chronic disease .
+10. Malnutrition .
+11. Dehydration .
+12. History of cerebrovascular accident .
+DISCHARGE MEDICATIONS :
+1. Acetaminophen 650 mg q. 6h. p.r.n.
+2. Augmentin 875 mg q. 8h. for 5 days .
+3. Ascorbic acid 500 mg daily via the G tube .
+4. DuoNeb breathing treatments as needed .
+5. Procrit 10000 units every week for 1 month .
+6. Cephulac syrup via the G tube twice a day .
+7. Prevacid 30 mg twice a day .
+8. Zestril 5 mg via the G tube daily .
+9. Reglan 5 mg via the G tube 4 times a day .
+10. Therapeutic - M tablet daily .
+11. Zinc oxide ointment daily .
+PERTINENT CONSULTATIONS :
+1. Dr. **NAME[UUU] .
+2. Dr. **NAME[TTT] .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year-old African American male who presented on account of coffee - ground emesis .
+The patient is wheelchair bound and nonverbal at baseline .
+He was recently discharged when he presented with the same situation .
+The patient aspirated about 200 mg of coffee - ground aspirate via the G tube .
+There was no associated abdominal pain .
+On examination at admission , he had decreased air entry in the left basal lung fields , and he had coarse crackles .
+Stool GU done in the ER was negative , but the aspirate from the G tube was guaiac positive .
+The patient was made n.p.o. and was started on IV Protonix , and his hematocrit and hemoglobin were monitored .
+He also had an elevated BUN while he was admitted .
+BUN was 42 .
+The patient was hydrated , and he had no recurrence of the GI bleed while on admission .
+G-tube feeds were restarted , and the patient did not have any repeat episodes .
+He was discharged home stable to follow up in the **INSTITUTION in three days .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 885655 / 35282 /
+# **ID-NUM
+D : **DATE[May 22 2007] 18:05
+T : **DATE[May 24 2007] 17:29

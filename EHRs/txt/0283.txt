@@ -1,0 +1,39 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Sep 16 2007] 16:01:00
+DISCHARGE DATE :
+**DATE[Sep 29 2007]
+**NAME[BBB] is a **AGE[in 60s]- year - old white male admitted with a pulmonary embolus .
+He was treated with heparin but the morning after admission , he developed back pain .
+We were aware that the patient had an abdominal aneurysm , fortunately because of that we examined him immediately and we had to send him to the OR because the aneurysm ruptured .
+Dr. **NAME[UUU] performed the surgery .
+The patient did beautifully .
+He recovered uneventfully and he is transferred to the Rehabilitation Unit for further care and __________ rehabilitation .
+_____________________________________
+**NAME[YYY]
+**NAME[ZZZ] , M.D.
+DICTATED BY :
+**NAME[YYY ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 13 2007] 09:22:40
+T :
+**DATE[Nov 13 2007] 14:36:37
+R :
+**DATE[Nov 13 2007] 14:36:37/lmm
+Job ID :
+425006/**ID-NUM
+CC:
+*** Dictated By :
+084093-**NAME[ZZZ , CCC] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 14 2007] 07:56:46 AM

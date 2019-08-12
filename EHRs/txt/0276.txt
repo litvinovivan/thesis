@@ -1,0 +1,98 @@
+Progress Report
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] C
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[90+] years
+Sex :
+Male
+DOB :
+**DATE[Apr 20 1917]
+Author :
+**NAME[XXX , WWW M]
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Dec 4 2007] 9:00 AM
+Temperature Conversion 35.7 Deg C
+Temperature 96.3 Deg F
+Temperature Site Oral
+Pulse 73 BPM
+Respiratory Rate 18
+Systolic BP 109 mmHg
+Diastolic BP 54 mmHg
+BP Site Left Arm
+**DATE[Dec 4 2007] 8:53 AM
+Glucose ( bedside ) 125 mg / dL High
+**DATE[Dec 4 2007] 7:10 AM
+Admission height conversion 182.9 cm
+Admission Height ( in ) 72.00 in
+Admission weight conversion ( kg ) 68.7 kg
+Admission weight ( lb ) 151.1 lb
+Admission weight method Bedscale
+**DATE[Dec 4 2007] 6:37 AM
+Temperature Conversion 36.6 Deg C
+Temperature 97.8 Deg F
+Temperature Site Oral
+Pulse 75 BPM
+Respiratory Rate 20
+Systolic BP 106 mmHg
+Diastolic BP 62 mmHg
+BP Site Left Arm
+History of Present Illness
+The patient presents with complaint of
+It is characterized by respiratory distress .
+Patient follows simple commands but does not answer questions .
+Patient has dementia .
+Patient appears to be in NAD .
+Physical Examination
+Vital signs : normal
+Constitutional
+Alert , somewhat cooperative with the physical exam and in NAD .
+Head
+Normocephalic , atraumatic .
+Face
+Symmetrical .
+Neck
+Supple .
+Heart
+RR with no m/r/g 's appreciated .
+Lungs
+Rhonchi bilateral at the bases .
+No wheezes or rales appreciated .
+Abdomen
+Soft , nontender , nondistended with normal active BS .
+No guarding or rebound noted .
+Extremities
+No clubbing or cyanosis .
+Mental status
+Alert but not oriented to person , place or date .
+Cranial nerves
+CN II-XII grossly intact .
+Impression and Plan
+General Plan
+1- CV - Due to his EKG changes we will repeat the EKG and order a cardiac echo .
+We will f/u on his troponins .
+We will continue his cardiac meds and his current meds for HTN .
+2- Pulm - possible aspiration pneumo .
+Patient continues to be afebrile .
+His CXR was normal in the ER .
+We will repeat the CXR .
+We will f/u on his sputum cultures .
+We will d/c his 2L of NC as his O2 sats are 98-100% .
+Patient 's blood cultures show NGTD .
+3. Endo - DM Continue SSI as needed .
+Restart glyburide when the patient is able to eat .
+4. Renal - Urinary retention .
+Patient has a bladder scan ordered .
+We will f/u on the results .
+Patient has a UA with cultures pending to r/o a UTI .
+Patient to have a straight cath performed to reduce his urinary retention .
+5. Dispo - OT / PT consult ordered .
+6. Discussed with Dr. **NAME[VVV] .
+**INSTITUTION Intern Admit
+Perform by **NAME[XXX , WWW M] ( on **DATE[Dec 04 2007] 16:19 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[Dec 04 2007] 16:19 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[Dec 04 2007] 16:19 )

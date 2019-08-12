@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 12 2007]
+EVALUATION DATE :
+**DATE[Jul 27 07]
+I personally managed Mr. **NAME[AAA] in the ICU .
+He is an **AGE[in 80s]- year - old man with aspiration , ARDS , respiratory failure , pneumonia , now growing out
+Streptococcus viridans .
+He is on adequate antibiotics in the form of Zosyn .
+He continues to show poor cardiac function , somewhat improved today on Levophed to keep his blood pressure up .
+His chest x-ray shows continued bilateral aspiration .
+The echocardiogram of his heart does not show any evidence of anything substantially new .
+His lactate level is 2 indicating poor perfusion from poor cardiac output combined with poor pulmonary function .
+His blood pressure is 158/81 with a heart rate of 82 .
+He is now on propofol .
+He passes air reasonably well over both sides of his chest with some distant sounds .
+Heart sounds are distant .
+His belly is soft with positive bowel sounds .
+His condition continues to be poor .
+His family is now considering their options in terms of possibility of withdrawal of life support on the basis of poor outcome from this major medical situation .
+Critical care time 30 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 27 2007] 19:46:16
+T :
+**DATE[Jul 27 2007] 19:52:47
+R :
+**DATE[Jul 27 2007] 19:52:47/kll
+Job ID :
+364792/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 04 2007] 08:50:41 PM

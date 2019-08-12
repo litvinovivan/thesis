@@ -1,0 +1,96 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A3B/1
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Oct 12 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 16 2007]
+ADMISSION DIAGNOSIS :
+Atrial fibrillation .
+DISCHARGE DIAGNOSES :
+1. Intermittent atrial fibrillation .
+2. Hepatocellular carcinoma .
+3. Diabetes .
+4. Valvular heart disease .
+5. Congestive heart failure .
+6. Thrombocytopenia .
+7. Hypertension .
+8. Anemia .
+HISTORY OF PRESENT ILLNESS :
+Mr. **NAME[AAA] is an unfortunate **AGE[in 70s]- year - old white male with past medical history of cirrhosis , hepatocellular CA , coronary artery disease , atrial fibrillation , chronic renal insufficiency , thrombocytopenia , anemia , aortic stenosis , and peptic ulcer disease who had one of many recurrent admissions to **INSTITUTION secondary to multiple falls .
+He also is having intermittent confusion .
+He was found to be in paroxysmal atrial fibrillation and was admitted for further management .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] has had multiple hospitalizations recently secondary to his multiple complex medical problems .
+He has been recommended to have placement on multiple occasions and that the family has not wanted to do so .
+He has intermittent episodes of confusion at home and has had recurrent falls .
+He was admitted at this time with atrial flutter .
+He was unable to be anticoagulated secondary to thrombocytopenia and high bleeding risk secondary to his gastric varices , which he has had multiple banding procedures done .
+He was seen in consultation with cardiology and initially was continued on metoprolol and Cardizem was added .
+He has some significant bradycardia with this and so the beta blocker was discontinued and his rate fluctuated between 60 and 90 on Cardizem 120 a day .
+He was felt that he did not require pacemaker and was a candidate for a pacemaker secondary to his significant medical problems .
+He also was seen by Dr. **NAME[VVV] , the patient 's regular gastroenterologist .
+Mr. **NAME[AAA] 's recent MRI s show reoccurrence of the previous ablated area of his hepatocellular CA .
+He had evidence of macrovascular involvement in terms of invasion of his portal vein , which make him not a candidate for the potential of a transplant .
+In addition , the patient has pretty severe valvular heart disease and is not a candidate for a valve replacement surgery secondary to his liver cancer .
+He also has diabetes , which is intermittently controlled and when he goes home he does not check his sugars .
+His wife sometimes also gives his medications including Xanax and other medications , which causes him intermittent episodes of delirium .
+While in the hospital , the patient was stabilized .
+Atrial flutter issues are discussed as above .
+His sugars were well controlled and his glipizide was titrated up to 10 mg b.i.d.
+Additionally , his lower extremity edema was fairly well controlled and TED hose were added on the day of discharge .
+[_______________]*** episodes of bleeding .
+His blood count on the day of discharge was stable with hemoglobin of 10.2 , which is near his baseline .
+He has chronically low WBC count and his white blood cell count was 3 on discharge and platelets were 45 , which is near his baseline .
+His creatinine was 1.7 .
+He does have baseline renal insufficiency .
+His creatinine was high as 2.4 during his hospitalization , but had stabilized .
+After multiple discussions with the family , it was again recommended that he would be placed for at least short term secondary to risk of falls and his overall deconditioning .
+The family was in agreement at this time for pacemaker at the **INSTITUTION .
+His code status was adjusted during his hospitalization , where he is for chemical code basically only secondary to the poor prognosis of his diseased state .
+He certainly is at very high risk for variceal bleed .
+It was most likely will be his biggest problem , but is currently has no evidence of any active bleeding .
+He has a very significant fall risk and so therefore anticoagulation is not a consideration especially with his low platelet count .
+He is to receive physical therapy and occupational therapy with his long - term placement , issues are not currently decided .
+He needs to be monitored closely for episodes of CHF and to wear TED hose at all times secondary to his chronic lower extremity edema .
+Additionally , he was on potassium supplementation .
+His potassium ranged from 5.3 to 3.6 during his hospitalization and stated he should have BMP monitored routinely .
+He is not being discharged on any potassium medications .
+DISCHARGE MEDICATIONS :
+His medications on discharge are
+1. Vicodin 500/5 1 q.6 h. p.r.n. on use of this medication the patient gets delirious with it .
+He has had large left flank hematoma , for which he was using it , but that has been significantly decreased .
+2. Additionally Celexa 20 mg a day .
+3. Cardizem CD 120 mg a day .
+4. Ferrous sulfate 325 daily .
+5. Lasix 80 mg tablet daily .
+6. Glipizide 10 mg b.i.d.
+7. Sliding scale insulin .
+8. Protonix 40 mg b.i.d.
+9. Xifaxan 200 mg t.i.d.
+10. Spironolactone 50 mg b.i.d.
+11. Carafate 1 g tablet by mouth a.c. and nightly .
+He is to wear TED hose at all time .
+He has an occasional urinary retention and can have postvoid residual or straight catheterization p.r.n.
+He will be discharged in 2 L of O2 .
+Again he should have BMP and CBC on **DATE[Oct 18 2007] in a weekly basis .
+He should have followup with Dr. **NAME[VVV] , his gastroenterologist in **DATE[Nov 2007] and Dr. **NAME[UUU] , his cardiologist in **DATE[Nov 2007] .
+His code status is as above .
+I spent an hour in terms of family discussion , discharge planning , and coordination of care for this patient for discharge to nursing home .
+___________________
+**NAME[WWW M. XXX] , M.D.
+Dict :
+**DATE[Oct 16 2007] 09:54:24
+Tran :
+**DATE[Oct 17 2007] 06:29:53
+**INITIALS
+R :
+**DATE[Oct 17 2007] 06:29:53/km
+**CARBON-COPY

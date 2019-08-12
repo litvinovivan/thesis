@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT]
+**NAME[VVV UUU]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Nov 25 07]
+Mr. **NAME[AAA] has done reasonably well overnight .
+He is complaining of some thirst this morning and would like to eat .
+He has had some nausea last night but no vomiting .
+On exam , he is afebrile .
+His vital signs are stable .
+His abdominal distension is decreased .
+He is breathing comfortably between 14 and 18 times a minute .
+Oxygen saturations are in the mid 90 's on nasal cannula O2 .
+Ins and outs are overall net negative after the diuretics that I gave him yesterday .
+His laboratory examination is significant for a slight increase in his total bilirubin yesterday to 11 .
+Bilirubin today is pending .
+The surgeons are arranging for a contrast study through the percutaneous cholecystostomy tube to evaluate his jaundice .
+His transaminases are unremarkable , as is his GGT and alkaline phosphatase .
+Right upper quadrant ultrasound does not show any signs of ductal dilatation .
+I suspect most likely diagnosis is cholestasis from the surgery but will continue to follow along closely .
+He is diuresing nicely with Lasix and still has some vascular congestion on radiographs , as well as edema on exam , and I have given him some more Lasix today .
+The patient should be stable for transfer to a monitored surgical bed today .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 25 2007] 21:39:10
+T :
+**DATE[Nov 25 2007] 22:02:17
+R :
+**DATE[Nov 25 2007] 22:02:17/nes
+Job ID :
+362428 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:09 PM

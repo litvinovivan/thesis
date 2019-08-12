@@ -1,0 +1,44 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Mar 31 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+The patient was admitted with unstable angina .
+She underwent catheterization on **DATE[Mar 30 2007] .
+She was found to have normal left main .
+She had a long area of 60% to 70% disease in the proximal and mid LAD .
+The circumflex gave rise to two obtuse marginal arteries .
+There was at least 70% disease in the proximal portion of the OM1 as well as the mid portion .
+The culprit appeared to be the right coronary which is a largest dominant vessel .
+He had a 99% stenosis in the mid portion also involving a long area of at least 60% to 70% mid right coronary disease .
+This was stented with a 3.5 x 33 Cypher stent .
+There was no residual stenosis .
+LV function was normal .
+She appeared to have at least 1 to 2+ mild to moderate MR .
+DISCHARGE MEDICATIONS :
+Same as she was admitted on .
+She will need long term aspirin and Plavix .
+FINAL DIAGNOSES :
+1. Unstable angina .
+2. Coronary artery disease .
+3. Hypertension .
+4. Hyperlipidemia .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 147857 / 37776 / 31461
+SHY # **ID-NUM
+D :
+**DATE[Mar 30 2007] 07:58
+T :
+**DATE[Mar 31 2007] 13:19
+**CARBON-COPY

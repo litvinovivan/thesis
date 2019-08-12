@@ -1,0 +1,163 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] F
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Male
+DOB :
+**DATE[Jun 14 1922]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 80s] year old , widowed , white male with h/o NPH , CAD , s/p CABG presents to ED with h/o difficulty with ambulation , urinary incontinence and worsening dementia per family .
+Past Medical History :
+Dementia
+NPH
+CAD , s/p CABG
+HTN
+A-fib , on Coumadin
+Hyperlipidemia
+TIA
+Carotid stenosis
+Spinal stenosis
+BPH
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+No specific complaints this AM .
+Pt. 's daughter at bedside .
+Vital signs
+**DATE[Jul 22 2007] 4:00:00 AM .
+BP : systolic 126 , diastolic 61 .
+Pulse :
+62 beats per min .
+Resp :
+20 breaths / min .
+Temp :
+36.7 degrees Celsius .
+Pulse Oximetry ( O2 Sats ) :
+99% on RA .
+Physical Exam
+General Appearance :
+Elderly male sitting on side of bed in NAD .
+Cardiovascular :
+Distant heart tones .
+RRR without murmurs .
+Respiratory :
+CTA throughout .
+Gastrointestinal :
+NABS x 4 .
+Soft , nontender , nondistended .
+Skin :
+Warm , dry , and intact .
+Skin on back + blanched macular rash .
+Neurological :
+Pt. awake and alert .
+Oriented to person only .
+Pleasant and cooperative .
+Extremities : no e/c/c in BLE .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 22 2007] 4:00 AM
+Na 139 mEq / L
+K 4.6 mEq / L
+Cl 107 mEq / L
+CO2 22 mEq / L
+Anion Gap 10.0
+BUN 36 mg / dL High
+Cr 1.6 mg / dL High
+GFR ( estimated ) 44.00 mL / min / 1.73 m2 Low
+( Modified )
+WBC 7.3 X10E+09 / L
+RBC 4.02 X10E+12 / L Low
+Hgb 11.9 gm / dL Low
+Hct 34.3 % Low
+MCV 85.4 fL
+MCH 29.5 pg
+MCHC 34.6 gm / dL
+RDW 14.9 %
+MPV 8.1 fL
+Platelets 209 X10E+09 / L
+Neutrophils 57 %
+Lymphs 27 %
+Monocytes 10 %
+Eosinophils 5 %
+Basophils 1 %
+ABS Neutrophils 4.20 X10E+09 / L
+ABS Lymphs 1.90 X10E+09 / L
+ABS Monocytes 0.70 X10E+09 / L
+ABS Eosinophils 0.40 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+PT 8.5 sec
+INR 0.9
+PTT 27.4 sec
+Other Studies :
+MRI / MRA 1/17 :
+SMALL VESSEL DISEASE CHANGES ARE SEEN ALONG WITH SOME PROMINENCE OF THE VENTRICULAR SYSTEM .
+MR ANGIOGRAM INTRACRANIAL VESSELS :
+FINDINGS :
+3-D time - of - flight sequences of the intracranial vessels were obtained .
+There is some minimal vessel irregularity of most intracranial branches in particular , the posterior cerebral arteries .
+No major vessel cut off or occlusion is identified .
+No suggestion of intracranial aneurysm is seen .
+Mild irregularity , probably representing minor atheromatous disease is seen in the carotid siphon bilaterally .
+The distal vertebral arteries and basilar artery are unremarkable .
+IMPRESSION :
+MILD INTRACRANIAL ATHEROMATOUS CHANGES ARE NOTED .
+Impression and Plan
+Impression
+**AGE[in 80s] yo male admitted with worsening dementia , urinary incontinence , and difficulty ambulating ; pt. to undergo lumbar drain trial for NPH evaluation .
+Plan
+1. Neurological - h/o dementia , NPH , TIA .
+Admitted with worsening dementia and ambulation .
+Neurology consulted - input appreciated .
+Patient was on Aricept in past with no benefit , but side effects per attending , therefore , will not resume at this time .
+MRI C-Spine :
+IMPRESSION : MULTILEVEL DEGENERATIVE CHANGES OF THE CERVICAL SPINE AS ABOVE WHICH ARE MOST SIGNIFICANT AT THE C5-C6 LEVEL WHERE THERE IS CORD COMPRESSION AND MILD CENTRAL CANAL STENOSIS BUT NO ABNORMAL CORD SIGNAL .
+B-12 level 372 .
+Pt. with continued confusion this AM .
+Neurosurgery consulted ( 7897 ) to evaluate for trial of CSF removal and their impression of compression .
+Recommended NPH evaluation with lumbar drain trial .
+Geriatric Psych c/s for acute change in dementia - appreciate input .
+Recommended MRI brain for further w/u of ischemic etiology and to eval. for TIA .
+Also rec. to replace Vit. B12 due to low end nml level .
+Consider further eval. for Parkinson 's disease .
+No psychiatric indication for a diagnostic spinal tap .
+Attending waiting for input then will address with son , **NAME[VVV , UUU].
+Pt. seen by psych 1/18 - feel that the pt. somewhat improved .
+He was able to name objects and state days of the week .
+Feel that pt. may have a worsening delerium superimposed upon upon his baseline dementia .
+Rec. to avoid benzos and anticholinergics .
+Appreciate input .
+MRI 1/17 revealed small vessel changes ; MRA 1/17 revealed mild changes .
+Will proceed with lumbar drain trial for NPH evaluation , to be done today .
+IR to place today , called and on the schedule .
+PT following for DGI testing .
+Will call NSG to further evaluate when drain in place .
+Will give Restoril for sleep , but will hold next week as it may interfere with eval .
+2. Cardiology - h/o CAD , s/p CABG , A-fib .
+Coumadin currently on hold in anticipation of removal of CSF .
+Per attending , no need to bridge with Heparin .
+Continue other meds and observe .
+3. Renal - Pt. found to have + protein in urine upon admission .
+Repeat U/A to R/O UTI contributing to altered MS .
+1/18 revealed 30 + protein as well as blood noted .
+BUN / Cr increased as well .
+4. Disposition - PT / OT following for DGI testing .
+Social Services consulted re : placement per family .
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this **NAME[SSS] : CRNP PA-C
+Perform by **NAME[XXX , WWW]
+( on **DATE[Jul 22 2007] 09:51 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Jul 22 2007] 09:51 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Jul 22 2007] 09:51 )

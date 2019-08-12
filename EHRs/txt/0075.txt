@@ -1,0 +1,86 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 07 2007]
+DISCHARGE DATE :
+**DATE[Sep 11 2007]
+DISCHARGE DIAGNOSIS :
+Giant cell arteritis .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Anemia of chronic disease .
+**INSTITUTION ADMISSION :
+This is a **AGE[in 60s]- year - old female who presents with multiple generalized complaints of fatigue , weakness , headache , weight loss , shortness of breath , palpitations , muscle aches , numbness , and tingling who was recently hospitalized with low - grade fevers and leukocytosis for which an extensive workup was undertaken with no source or etiology of her leukocytosis or symptoms identified .
+This workup included a tagged white blood cell scan , a EMG , and a PET scan .
+Of note , the patient was scheduled to have an outpatient temporal artery biopsy , but failed to follow up with this appointment .
+HOSPITAL COURSE :
+1. Giant cell arteritis .
+The patient carried a questionable diagnosis of systemic lupus erythematosus for which she had not been treated recently .
+Given her multiple complaints and history of vitiligo , we continued to pursue an autoimmune explanation for her constellation of symptoms .
+We did obtain a Rheumatology consult who recommended temporal artery biopsy while an inpatient .
+The patient underwent temporal artery biopsy on **DATE[Sep 10 2007] .
+The procedure was a bilateral temporal artery biopsy and was without complications .
+Pathology performed on this specimen was consistent with giant cell arteritis .
+The patient was started on prednisone 30 mg p.o. b.i.d. and was scheduled for followup with Rheumatology .
+2. Dizziness .
+The patient continued to complain of significant dizziness , which appeared to be positional in nature .
+Her symptoms and signs are most consistent with benign positional vertigo , but given Rheumatology 's assessment that she had some asymmetric sensory abnormality on exam , we evaluated the patient with MRA of the internal auditory canals which revealed nonspecific signal changes seen in the pons in the hemispheric white matter consistent with small vessel disease .
+No specific evidence of intracanicular acoustic neuroma was identified .
+The patient is to have followup with **INSTITUTION .
+3. Hypertension .
+The patient has a history of hypertension .
+We will resume the patient 's home medications , which she was probably not taking and her hypertension was well controlled while an inpatient .
+4. Anemia .
+The patient was felt to be anemic .
+It was felt that her anemia was likely secondary to anemia of chronic disease .
+However , she also had some component of iron - deficiency anemia .
+We did start the patient on iron supplements and counseled her that she is to have age - appropriate cancer screening .
+DISCHARGE MEDICATIONS :
+1. Prednisone 30 mg p.o. b.i.d.
+2. Actonel 35 mg p.o. q. Fridays .
+3. Iron sulfate 300 mg p.o. t.i.d.
+4. Prilosec 30 mg p.o. q. day .
+5. Hydrochlorothiazide 25 mg p.o. q. day .
+6. Os - Cal D 2 tablets p.o. q. day .
+7. Valsartan 40 mg p.o. q. day .
+8. Vicodin 1 tablet by mouth q.6 hours as needed for pain .
+DISCHARGE INSTRUCTIONS :
+1. Disposition :
+The patient is discharged home .
+2. Condition :
+The patient 's condition is good .
+3. Activity :
+The patient is to resume activity as tolerated .
+4. Diet :
+The patient is to resume a heart healthful diet .
+5. Followup :
+The patient is to have followup with Dr. **NAME[VVV UUU] , who we will establish as the patient 's PCP .
+She will have an appointment on **DATE[Sep 19 2007] , and is to call to verify the time .
+The phone number will be **PHONE .
+The patient will also have outpatient followup with Rheumatology .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+PB/ss
+D :
+**DATE[Oct 20 2007] 21:14:26
+T :
+**DATE[Oct 20 2007] 22:50:06
+R :
+**DATE[Oct 20 2007] 22:50:06/ss
+Job ID :
+396823/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 04 2007] 05:56:07 PM

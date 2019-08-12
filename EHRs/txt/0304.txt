@@ -1,0 +1,51 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 28 2007]
+EVALUATION DATE :
+**DATE[Nov 02 07]
+I am managing this critically - ill **AGE[in 60s]- year - old male who is status post laparoscopic colon infection in the setting of severe ischemic heart disease with a cardiomyopathy status post mitral valve replacement and pulmonary hypertension .
+I am seeing him for management of his respiratory insufficiency , ischemic cardiomyopathy , pulmonary hypertension , and fluid overload .
+I have seen and examined the patient , reviewed his laboratory , radiograph intake data , and discussed the management with the general surgeons .
+The problems and their management are as follows :
+1. Respiratory failure :
+A chest x-ray shows pulmonary vascular congestion and bilateral effusions in the tracheal tube and pulmonary artery catheter in good position .
+The PA pressures are in the 45-60 range over 20s .
+Today , I have discontinued his propofol drip , cut his fentanyl drip in half , and after a two hour pressure support have been able to wean and extubate him .
+Subsequently , I have discontinued his fentanyl completely and left him on intermittent doses of narcotics for pain control .
+He will need to stay in the intensive care unit for pulmonary toileting .
+2. Ischemic heart disease :
+**PLACE , PA pressures have been relatively high , but stable over the course of the evening after extubation .
+His PA pressures have increased with PA systolics in the 70s and 80s and central venous pressures around 8 .
+His heart rate is gone from the 70s to the 90s .
+Cardiac output has increased as well and is currently about 7.5 liters with a mixed venous oxygen saturation of 74% .
+Given the fact that he appears to maintain adequate forward flow despite the elevation in his pulmonary artery pressures , I have decided to gradually diurese him over the course the day .
+I have left him on a Lasix drip , which I am titrating up in order to make sure he remains overall net negative .
+I have started some gentle beta blockade in light of his adequate cardiac output as well and we will try to get his heart rate down today .
+Currently , he remains off heparin , but will need to be reanticoagulated shortly in light of his decreased left ventricular function and his mitral valve .
+Total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 02 2007] 22:43:01
+T :
+**DATE[Nov 03 2007] 12:09:23
+R :
+**DATE[Nov 04 2007] 20:59:37/rs
+Job ID :
+373456/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 19 2007] 07:32:16 PM

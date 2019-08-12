@@ -1,0 +1,124 @@
+**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , M M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M] JR **NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Sep 15 2007] 17:44:00
+DISCHARGE DATE :
+**DATE[Sep 19 2007]
+DIAGNOSES :
+1. Right middle lobe pneumonia .
+2. Chronic obstructive pulmonary disease .
+3. History of myocardial infarction .
+4. Atrial fibrillation .
+5. History of gastrointestinal bleed .
+6. Carotid stenosis , status post endarterectomy .
+7. Arthritis in multiple joints .
+8. Chronic congestive heart failure .
+9. Hyperlipidemia .
+10. Hypertension .
+11. Hypokalemia .
+12. Right pleural effusion .
+MEDICATIONS AT DISCHARGE :
+1. Aspirin 81 mg daily .
+2. Avodart 0.5 mg daily .
+3. Feratab 300 mg twice a day with meals .
+4. Hydralazine 50 mg daily .
+5. Lopressor 12.5 mg twice a day .
+6. Protonix 40 mg daily .
+7. K-Dur 20 mEq daily .
+8. Sertraline 50 mg daily .
+9. Diovan 40 mg daily .
+10. Atarax 50 mg daily .
+11. Colace 100 mg daily .
+12. Hydrocortisone cream as needed .
+13. Lasix 40 mg daily .
+14. Zoloft 50 mg daily .
+15. Oxygen at 2 L as needed .
+16. MiraLax as needed .
+REASON FOR ADMISSION :
+This is an **AGE[in 80s]- year - old male brought to the emergency room because of increasing weakness and shortness of breath along with chronic edema of the lower extremities .
+He denied any chest pain or fever or chills .
+Admission chest x-ray showed evidence of right middle lobe and right lower lobe pneumonia .
+Blood cultures were drawn .
+He was started on IV Zithromax and Rocephin .
+It was also noticed that he had an elevated white count .
+He does have a prior history of pneumonia 2 years ago , COPD , bronchitis , coronary artery disease , prior myocardial infarction , and atrial fibrillation for which he could not be on Coumadin because of history of GI bleed .
+He has also had esophageal strictures and he has undergone recurrent dilatations by Dr. **NAME[VVV] .
+He has carotid stenosis and has had endarterectomy and he has been treated for cellulitis and depression as well .
+The patient denies any alcohol and tobacco products .
+It was also noted on arrival that his BNP level was 723 , suspected secondary to chronic congestive heart failure .
+ADDITIONAL LABORATORY :
+Initial electrolytes were normal at one point .
+Potassium was low and was repleted .
+BUN and creatinine was 17 and 1.5 .
+Glucose 138 .
+Hemoglobin and hematocrit were 13 and 39.2 .
+White count was 12,400 .
+INR 1.0 .
+BNP 723 .
+Blood cultures showed no growth .
+At discharge , glucose was 106 , BUN and creatinine 15 and 1.4 , potassium level was 3.2 , which was repleted , and white count was down to 8300 .
+Initial chest x-ray in the emergency department showed evidence of right middle lobe and right lower lobe pneumonia .
+CAT scan of the chest showed fibrotic changes , which were felt to be old .
+No pulmonary embolism .
+HOSPITAL COURSE :
+The patient was admitted because of weakness and shortness of breath and diagnosed with pneumonia .
+Blood cultures were negative .
+He was started on IV antibiotics of Rocephin and Zithromax with aggressive pulmonary toilet .
+O2 saturations were monitored closely and a pulmonary evaluation was requested to Dr. **NAME[UUU] .
+In addition , Dr. **NAME[UUU] did order a CAT scan of the chest , which showed old fibrotic changes .
+WBC count was monitored as well and he also added oxygen in addition to aggressive pulmonary toilet .
+BNP level was elevated .
+The patient does have a history of congestive heart failure and was continued on cardiac regimen of weight and taken output along with aspirin , hydralazine , Lopressor , Diovan , and Lasix .
+Electrolytes were followed and repleted .
+Potassium was replaced and BUN and creatinine were monitored .
+Hypertension was controlled .
+He also had arthritis at multiple joints and anemia for which iron supplements were continued .
+The patient responded well to cardiac and pulmonary regimen .
+At discharge , he was free of chest pain and shortness of breath .
+He remained afebrile .
+Atrial fibrillation was controlled .
+The patient also had hyperglycemia and Accu-Cheks were monitored .
+Glucose was 106 at discharge .
+White count was normal .
+O2 saturation was 97% .
+Dr. **NAME[UUU] felt that the patient at this time was stable for discharge .
+He will continue to use oxygen at 2 L along with following a cardiac diet .
+No heavy lifting over 10 pounds .
+His PCP , Dr. **NAME[ZZZ] , will see him within 2 weeks .
+**INSTITUTION **PLACE and Home Health nurses will follow for both cardiac and pulmonary assessments and continue with physical therapy .
+Electrolytes , BUN , and creatinine will be done weekly .
+If the patient does experience any further chest pain , shortness of breath , hemoptysis , or fever over 101 , Dr. **NAME[ZZZ] is to be notified .
+The patient understood all instructions .
+_________________________
+**NAME[YYY M] JR **NAME[ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+SC/nks
+D :
+**DATE[Sep 22 2007] 14:26:32
+T :
+**DATE[Sep 22 2007] 17:48:06
+R :
+**DATE[Sep 22 2007] 17:48:06/nks
+Job ID :
+356671/**ID-NUM
+&lt;start header&gt;**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , M M]
+ACCOUNT# :
+**ID-NUM
+Page 3 of 3
+&lt;end header&gt;
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ] JR
+**DATE[Sep 26 2007] 08:27:40 AM

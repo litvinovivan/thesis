@@ -1,0 +1,93 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Oct 03 2007]
+Discharged :
+**DATE[Nov 01 2007]
+Dict :
+**NAME[WWW , VVV]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTATIONS :
+Consultations were made to :
+1. Dr. **NAME[UUU] of ID .
+2. Dr. **NAME[TTT] of GI .
+3. Dr. **NAME[SSS] of Neurology .
+4. Dr. **NAME[RRR] of Colorectal Surgery .
+5. Dr. **NAME[QQQ] of Psychiatry and Behavioral Health .
+PRINCIPAL DIAGNOSES :
+1. Relapsed acute myelogenous leukemia .
+2. Hemorrhoids .
+3. Neutropenic fever .
+4. Pancytopenia .
+5. Delirium .
+6. Mucositis .
+7. Clostridium difficile colitis .
+BRIEF HISTORY :
+Ms. **NAME[AAA] is a **AGE[in 50s]- year - old female sent to Dr. **NAME[ZZZ] for her AML which was initially diagnosed in **DATE[Mar 2005] and underwent consolidation and had complete remission .
+Relapse occurred in **DATE[Mar 2006] , and she was treated by mitoxantrone and VP - 16 and 2 cycles of consolidation .
+Unfortunately , she was not able to undergo stem cell transplant and then had recurrence again in **DATE[Mar 2007] .
+At this point , she had 2 cycles of Mylotarg .
+Her disease continues to progress , and she will be admitted for FLAG .
+On admission , her vital signs were within normal limits , and her physical exam was unremarkable .
+Further details can be found in the complete H and P .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] was admitted to the hospital for treatment of her AML .
+For her relapsed AML , she was started on the FLAG protocol .
+The disease and the treatment caused constant pancytopenia , and she required frequent blood transfusions especially with platelets .
+She was also started on growth factor support with Neupogen .
+Due to her prolonged neutropenia , Infectious Disease was consulted , and they started her on pentamidine for PCP pneumonia prophylaxis .
+During her chemotherapy and the weeks following it , she needed diligent electrolyte correction , and this was performed by Dr. **NAME[PPP] who also coordinated her treatment plan .
+She did develop problems with severe hemorrhoids , and GI was consulted .
+They could not find any infection or abscesses associated with the hemorrhoids and treated her with conservative measures such as sitz baths and Anusol .
+She does have an anxiety disorder at baseline , and it was increased during her stay .
+Behavioral Health was consulted , and Ativan dose required adjusting .
+Later , Xanax was added .
+She did develop fevers from her prolonged neutropenia and had positive blood cultures .
+She was started on cefepime and acyclovir by Infectious Disease .
+Later , daptomycin was started .
+Her infections were thought to be just from the sepsis , and perhaps , the port was infected ; and frequent cultures were followed .
+On day 19 , caspofungin was also added for her continued fevers .
+She developed some mucositis , and this was treated with acyclovir and ( _______________ ) .
+On day 23 , she became confused .
+She had difficulties performing her activities of daily living and required assistance with walking .
+Dr. **NAME[SSS] of Neurology was consulted as well as Psychiatry with Dr. **NAME[QQQ] .
+She had a stat CT scan to look for any abnormalities , especially since she had thrombocytopenia , to rule out a bleed .
+She was diagnosed with delirium and treated with many medications , and several medications were discontinued including her Xanax , Ativan , and pain medication .
+Also throughout her stay , diarrhea was a consistent problem .
+Flagyl was added to treat the Clostridium difficile colitis .
+GI was on board for the hemorrhoids and did follow her for the diarrhea as well .
+She also had increased liver function tests , and this was secondary to cholestasis and resolved at this time .
+With this treatment plan , Ms. **NAME[AAA] improved , she became afebrile , the hemorrhoids resolved , the mucositis resolved , and she returned to her baseline of mental status .
+She became less transfusion dependent and was able to be discharged .
+DISPOSITION :
+Ms. **NAME[AAA] was discharged to home .
+Her condition on discharge is fair .
+She is able to perform activities of self - care .
+DIET :
+Unrestricted .
+ACTIVITY :
+As tolerated .
+She is being discharged on the following medications :
+1. Acyclovir 400 mg two times a day .
+2. Neupogen 480 subcutaneously every evening .
+3. Anusol topical cream one application per rectum three times a day .
+4. Ativan 1 mg every 6 hours as needed .
+5. Flagyl 500 mg four times a day for 10 days .
+She is to follow up with Dr. **NAME[ZZZ] in 2 weeks with CBC s ( _______________ ) within 30 days that will be faxed to the office .
+She is to present to the hospital sooner if she has any fever , chills , diarrhea , nausea , or bleeding .
+______________________________
+**NAME[VVV WWW] , PA
+HS Job # 923921 / 34458 / 33106
+SHY # **ID-NUM
+D :
+**DATE[Dec 06 2007] 16:24
+T :
+**DATE[Dec 07 2007] 10:15
+**CARBON-COPY

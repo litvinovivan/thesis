@@ -1,0 +1,83 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Jan 15 2008]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE MEDICATIONS :
+1. Aspirin 81 mg a day .
+2. Plavix 75 a day .
+3. Depakote 500 b.i.d.
+4. Effexor 150 a day .
+5. Atenolol 50 a day .
+6. Cardizem CD 240 a day .
+7. Imdur 30 a day .
+8. Bactrim DS one p.o. b.i.d.
+9. Nitroglycerin p.r.n.
+DISCHARGE DIAGNOSES :
+1. Acute myocardial infarction due to intense coronary spasm .
+2. Urinary tract infection .
+3. Obesity and deconditioning .
+4. History of cigarette smoking .
+5. Remote history of crack cocaine abuse .
+6. History of use of Depakote and Effexor , I believe , for what she says maybe bipolar disorder .
+Mrs. **NAME[AAA] is a very pleasant **AGE[in 40s]- year - old African American lady who works at **INSTITUTION , she apparently did not go to again .
+The night that she came to the ER , she was having chest pain on and off all day .
+When she came to the emergency room , she was found to have significant ST elevation inferiorly and anterolaterally .
+I was called to see her around 2 o 'clock and I came in to see her .
+I was concerned about an acute coronary syndrome .
+Her first troponins were negative .
+We took her to the catheterization laboratory where she had a totally occluded diagonal .
+I was preparing to do an angioplasty .
+In the usual fashion , I was placing a guide catheter in the left main coronary artery .
+I injected some nitroglycerin and took another picture , and the diagonal dramatically opened up .
+The tombstone ST elevation in the inferolateral and anterolateral leads dramatically came down , and this patient 's chest pain dramatically subsided .
+I watched **NAME[BBB] in the catheterization laboratory for about 15 to 20 minutes , and I kept looking at this artery , and it stayed opened .
+At that point , I did not see any plaque or any lesion that required dilatation or angioplasty , so I ended the procedure .
+I did a ventriculogram that showed segmental wall motion abnormality at the distal diaphragmatic wall with an EF of about 50% .
+End - diastolic pressure was high , but a suspected risk due to the acute spasm would come down .
+I placed this patient on the floor .
+She did have a very mild pain in her right groin .
+Clinically , she did not have a hematoma ; although , she complained of some pain there .
+We have given her some narcotics for that time , but it is now better , and she is going to go home this morning .
+She understands that she cannot smoke .
+She needs to diet , exercise , and lose weight .
+I explained to her that she had intense coronary spasm .
+I did do a tox screen to rule out cocaine abuse , and there was no cocaine on board .
+There were some narcotics on board , but we had given her morphine in the emergency room ; so , I am not surprised about that .
+I am not exactly sure what the etiology of his coronary spasm is , but it is clearly coronary spasm when you look at the films , one of the most dramatic cases I have seen in my 20 years of practice .
+This patient has a CPK of over 3000 , but her vessel was now open .
+She has not developed any Q waves on her electrocardiogram , although she does have nonspecific ST-T abnormalities .
+She is going to go home on a combination of Cardizem and nitrates .
+I have given her beta blocker because of tachycardia and hypertension as well .
+She is going to remain on her Depakote and remain on her Effexor .
+I did order a lipid profile that is pending at this time .
+I will probably want to treat her with cholesterol - lowering medicines , but I will make that decision on an outpatient basis .
+This patient understands that she needs to take a week off .
+She will see me in the office .
+I will get an echocardiogram and a stress test ; and hopefully , clear her for going back to work in a week or two .
+Finally , this patient complained on the day of discharge about burning on urination .
+We did not put a Foley into her during her catheterization or during her hospital stay .
+However , I did send off the urine and C and S , and I did empirically place her on Bactrim .
+I will follow that up in my office as well .
+This patient understands that should she have any chest pain , shortness of breath , or other medical problems , she should call immediately .
+CONDITION AT THE TIME OF DISCHARGE :
+Stable .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 716986 / 37635 / 33277
+SHY # **ID-NUM
+D :
+**DATE[Jan 15 2008] 06:32
+T :
+**DATE[Jan 15 2008] 07:52
+**CARBON-COPY

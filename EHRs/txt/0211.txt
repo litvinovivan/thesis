@@ -1,0 +1,57 @@
+FINAL DIAGNOSES :
+1. Hypoglycemia .
+2. Transient ischemic attacks .
+3. Status post bioprosthetic aortic valve .
+4. Status post coronary artery bypass graft .
+5. Status post bilateral knee replacement .
+6. Diabetes mellitus , insulin - dependent .
+7. History of hyperlipidemia .
+8. History of spinal stenosis .
+9. Status post laminectomy .
+10. Low back pain .
+11. Acute febrile illness , transient , resolved .
+CURRENT MEDICATIONS :
+Include :
+1. Humulin 70/30 , 25 units in the morning , and 10 units in the evening .
+Blood sugar is monitored t.i.d. , fasting , 4 p.m. , and at bedtime .
+2. Vicodin ES q.6 h. p.r.n. for pain .
+3. Lidoderm patches once a day for 12 hours a day .
+4. Zantac 150 mg daily .
+5. Zocor 20 mg daily .
+6. Tylenol p.r.n. for pain .
+7. Maalox p.r.n. for indigestion .
+8. Aggrenox capsule b.i.d.
+9. Feratab 300 mg once day .
+HOSPITAL COURSE :
+This **AGE[in 80s]- year - old lady with above medical problems was brought to emergency room **INSTITUTION following an episode at home which was witnessed by her son with rather sudden onset of generalized weakness , difficulty with her speech , unable to find words , some drooping at the left face , and some disorientation .
+She was noted to have blood sugar was in the 60s ; however , in emergency room , glucose was 47 mg% .
+She was given D-50 .
+She improved , and she has a generalized weakness ; however , had complete normalization of her speech .
+No other focal neurological deficit was noted .
+She remained fairly stable .
+Neurology consultation was asked .
+MRI and MRA was done , and they were unremarkable for carotid disease or intracranial disease .
+IMPRESSION :
+1. MRI of Brain , no acute intracranial abnormality .
+MRA of the intracranial vessels via an axial CT time - of - flight technique , there is no definite evidence of a focal stenosis or aneurysm .
+MRI of the neck , impression , possible moderate stenosis of the left proximal to mid internal carotid artery .
+L-S spine x-rays showed laminectomy defect with a posterior fixation device .
+The patient was maintained on usual medication ; however , her hypoglycemic episodes were noted , and her insulin dosage was adjusted .
+2. She started to have low back pain for which Dr. **NAME[XXX] was consulted .
+The patient had an MRI of the back and no significant abnormality for any intervention was deemed necessary .
+She was given Lidoderm patches which improved her pain significantly , and also Vicodin was quite helpful .
+She was ambulatory with a walker .
+3. Her course was also complicated with a short episode of febrile illness lasting 2 to 3 days .
+Blood cultures were negative .
+Urine cultures were negative .
+Chest x-ray was unremarkable .
+She clinically remained stable , and no therapy was instituted ; however , her temperature defervesced and she remained stable .
+She is ambulatory , fairly stable , and being discharged on above therapy to be followed in the office in two weeks in stable condition .
+______________________________
+**NAME[YYY ZZZ] , M.D.
+HS Job # 836116 / 39810 /
+# **ID-NUM
+D :
+**DATE[Mar 19 2007] 17:41
+T :
+**DATE[Mar 22 2007] 02:49

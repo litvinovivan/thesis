@@ -1,0 +1,83 @@
+**INSTITUTION
+SURGICAL ONCOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 26 2007]
+DISCHARGE DATE :
+**DATE[Mar 01 2007]
+ADMITTING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DIAGNOSIS ( ES ):
+Carcinoma of the pancreatic body .
+DISCHARGE DIAGNOSIS ( ES ):
+Carcinoma of the pancreatic body status post distal pancreatectomy with splenectomy as well as cholecystectomy .
+**INSTITUTION STAY :
+The patient is **AGE[in 50s]- year - old woman who was found to have a pancreatic carcinoma of the pancreatic body .
+On preoperative imaging , it was felt that this lesion was localized to the distal part of the pancreas .
+Therefore , she was admitted on **DATE[Feb 25 2007] , to undergo an extended radical distal pancreatectomy with splenectomy and cholecystectomy .
+The patient tolerated the procedure well and was admitted to the floor for postoperative evaluation .
+Postoperatively , the patient did well .
+The only complications were pain and some nausea .
+The nausea resolved over the course of a few days and the pain was under control by postoperative day #2 .
+However , she was slow to move her bowel .
+Her bowel function slowly returned .
+She advanced her diet from clears to full liquids .
+She was discharged home on hospital day #6 in good condition .
+DISCHARGE INSTRUCTIONS :
+1. Discharge Followup Appointments :
+a. The patient is to follow up with Dr. **NAME[M. M. ZZZ] in 2 weeks at the **INSTITUTION , third floor , **INSTITUTION , phone number is **ID-NUM .
+b. She is to follow up with Dr. **NAME[VVV] who is her PCP in 1 to 2 weeks in the clinic at **INSTITUTION , the patient has phone number and is instructed to call and make an appointment .
+2. Activity :
+The patient is instructed to avoid any strenuous activity including lifting no items greater than 10 pounds .
+She is instructed to avoid driving while taking pain medications .
+She is permitted to shower but it is recommended that she do not soak in tub due to the fact that she is discharged home with JP drains .
+3. Patient Care :
+For the patient 's wound , the patient is instructed that she is to keep the incision clean and dry .
+She may run water over it but pat it dry .
+She is discharged home with drains in place .
+She is to perform routine JP drain care .
+This includes emptying the JP bulb at least once a day and recording its output .
+She is to record its output and bring it to her follow up appointment with Dr. **NAME[ZZZ] .
+4. Homecare :
+Homecare was consulted for JP drain care as well as glucose monitoring .
+5. Nutritional Services and Diet :
+The patient is discharged home on a full liquid diet .
+She is to resume full liquid diet for roughly 1 to 2 weeks .
+She is to advance it as tolerated once she is having normal bowel movements .
+MEDICATIONS :
+The patient is discharged home on :
+1. Protonix 40 mg p.o. q. day .
+2. Vicodin 1 to 2 tablets p.o. q.4 hours , p.r.n. for pain .
+3. Combivent 2 puffs inhaled b.i.d. and p.r.n.
+4. Paxil 40 mg p.o. b.i.d.
+5. Colace 100 mg p.o. b.i.d.
+ADDITIONAL INSTRUCTIONS :
+Glucose Monitoring :
+The patient is to check her serum glucose levels 5 times a day or when feeling anything abnormal such as dizziness , lightheadedness , etc , she is to keep a record of her glucose and bring this record along with her JP drain record to her next appointment .
+Additional Information :
+The patient is instructed that should she develop any fevers or chills , any severe prolonged nausea , vomiting , diarrhea , or constipation , or any bleeding from her wounds , any increased redness around her wounds or any foul smelling drainage from her wounds , or if she should develop any lightheadedness , dizziness , leg pain , leg swelling , chest pain , or difficulty breathing , she is to return to the emergency room as soon as possible .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. M. XXX] , M.D.
+ABJT/pn
+D :
+**DATE[Mar 02 2007] 20:13:03
+T :
+**DATE[Mar 03 2007] 05:00:23
+R :
+**DATE[Mar 03 2007] 05:00:23/pn
+Job ID :
+373324/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , UUU M. M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 06 2007] 04:15:36 PM

@@ -1,0 +1,44 @@
+ADMISSION DIAGNOSES :
+1. Healthcare - associated pneumonia .
+2. Acute myocardial ischemia .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Hyperlipidemia .
+PERTINENT CONSULTS :
+1. Dr. **NAME[VVV] from Pulmonology in view of healthcare-associated pneumonia .
+2. Dr. **NAME[UUU] from Cardiology in view of acute myocardial ischemia .
+**INSTITUTION :
+The patient was admitted with features suggestive of lower respiratory tract infection with an elevated white count .
+However , labs at that time did show an increase in the troponin levels with the highest being around 29 .
+The patient was in the hospital recently and therefore was treated as healthcare - associated pneumonia with Zosyn and ciprofloxacin .
+Dr. **NAME[TTT M. SSS] , who saw the patient in view of elevated troponins wanted the patient to be started on full dose Lovenox along with aspirin , beta - blocker , and nitrates .
+The patient 's infection was fairly well - controlled during her stay in the hospital as the white cells started coming down and also the patient became afebrile .
+Also there is a symptomatic improvement in the patient 's breathing and cough .
+It was decided to schedule the patient for a catheterization with the **INSTITUTION on Tuesday .
+Today , the patient is being discharged to **INSTITUTION for a short stay for catheterization .
+MEDICATIONS UPON DISCHARGE :
+Include :
+1. Vasotec 5 mg oral daily .
+2. Lopressor 5 mg IV q.12 hourly .
+3. Nitroglycerin patch 1 inch off at night .
+4. Protonix IV 40 mg IV daily .
+5. K-Dur 20 mEq oral twice a day .
+6. Evista 60 mg daily .
+7. Zosyn 4.5 g IV every 6 hours .
+8. Ciprofloxacin 400 mg IV q.8 hourly .
+9. Cepacol lozenges as needed .
+10. DuoNeb breathing treatment 4 times a day .
+11. Aspirin 81 oral daily .
+The patient is being discharged to the **INSTITUTION .
+She is to be n.p.o. for catheterization .
+She is to follow up with the PCP as scheduled .
+She needs to get oxygen delivery via the nasal cannula 3 L and oxygen saturations has to be titrated accordingly .
+There are no more active medical issues in this patient during this admission .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 741797 / 41251 /
+# **ID-NUM
+D :
+**DATE[Oct 16 2007] 08:00
+T :
+**DATE[Oct 17 2007] 20:29

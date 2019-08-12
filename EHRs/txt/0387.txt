@@ -1,0 +1,70 @@
+**INSTITUTION
+CARDIOTHORACIC SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Dec 21 2007]
+DISCHARGE DATE :
+**DATE[Dec 24 2007]
+ADMITTING DIAGNOSIS( ES ) :
+Dislodged tracheostomy .
+DISCHARGE DIAGNOSIS( ES ) :
+Status post placement of new tracheostomy and status post bronchoscopy .
+PROCEDURES PERFORMED :
+On **DATE[Dec 22 2007] , the patient underwent a flexible bronchoscopy and insertion of tracheostomy tube .
+SUMMARY :
+This patient is a **AGE[in 70s]- year-old female who presented to the emergency room on **DATE[Dec 21 2007] , with a dislodged tracheostomy tube .
+It was decided by Dr. **NAME[ZZZ] that the patient go to the OR for bronchoscopy and evaluation of her airways and also for reinsertion of her tracheostomy .
+The patient underwent the above named procedures and tolerated theses procedures very well .
+While the patient was in the hospital , she was worked up by vascular surgery for her gangrenous right foot .
+__________ have been done and MRI done today , on **DATE[Dec 24 2007] , is without any evidence of osteomyelitis .
+The patient will be discharged home in stable condition .
+She was encouraged to follow up with her primary care physician whom she sees for her right foot .
+DISCHARGE INSTRUCTIONS :
+Her discharge instructions are as follows :
+1. Diet :
+She has no restrictions .
+She may resume a regular diet .
+2. Activity :
+She has no restrictions .
+SPECIAL INSTRUCTIONS :
+She is to call our office at **PHONE if she has increased shortness of breath , increased mucus production , fevers greater than 101 degrees Fahrenheit , or difficulty swallowing .
+If these symptoms are severe , she was encouraged to go to emergency room immediately .
+MEDICATIONS :
+The patient was encouraged to resume all of her previous prescribed medications .
+She was also prescribed Augmentin 875 mg p.o. b.i.d. x10 days for which a prescription was given to the patient .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[VVV XXX , WWW-M]
+**INITIALS
+D :
+**DATE[Dec 24 2007] 14:48:16
+T :
+**DATE[Dec 24 2007] 15:38:34
+R :
+**DATE[Dec 24 2007] 15:38:34/nks
+Job ID :
+360065 /**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Dec 21 2007]
+DISCHARGE DATE :
+**DATE[Dec 24 2007]
+Page 2 of 2
+&lt;end header&gt;
+*** Dictated By :
+-**NAME[XXX , WWW-UUU] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 05 2008] 03:15:11 PM

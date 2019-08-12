@@ -1,0 +1,24 @@
+The patient is a **AGE[in 50s]- year-old female who comes to the hospital with what appeared to be an acute exacerbation of her COPD .
+The patient will be discharged now with a final diagnosis of acute asthmatic bronchitis with chronic obstructive pulmonary disease .
+The patient will be discharged on the following medications :
+1. Tylenol 650 p.o. q.i.d. p.r.n.
+2. One baby aspirin a day .
+3. Guaifenesin 2 teaspoons q.6 hours p.r.n.
+4. Nasonex 1 spray to each nostril twice a day .
+5. Prednisone 10 mg p.o. b.i.d.
+6. Advair 250/50 one puff b.i.d.
+7. Spiriva 18 mcg 1 inhalation in the morning .
+8. She will be on Proventil HFA 2 puffs q.i.d. p.r.n.
+9. Chentex has been started for smoking sensation at 1 mg p.o. b.i.d.
+10. Zithromax will continue at 250 mg once a day for the next 4 days .
+The patient has had a relatively prolonged stay due to the severe nature of her asthmatic bronchitis and the COPD complication .
+Her blood pressures have remained fairly well controlled in spite of the therapies and the patient at this point is relatively free of disease .
+The patient 's chest x-ray does not show any evidence of pneumonia , but the patient does have crepitations at both bases , more pronounced on the left , and this will need to have further followup to make sure that she is not still harboring some degree of congestion .
+The patient will be seen within the week .
+Consult with Dr. **NAME[XXX] has been appreciated .
+______________________________
+**NAME[YYY M ZZZ] , M.D.
+HS Job # 179108 / 28711 /
+# **ID-NUM
+D : **DATE[Oct 31 2007] 11:17
+T : **DATE[Nov 01 2007] 19:45

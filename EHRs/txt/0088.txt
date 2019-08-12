@@ -1,0 +1,26 @@
+Medicine D/C Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW]
+Discharge Information
+Patient Status
+Discharged to home
+Discharge Summary done
+JOB ID# 374099
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this **NAME[UUU]: CRNP
+Perform by **NAME[XXX , WWW]
+( on **DATE[May 03 2007] 16:07 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[May 03 2007] 16:07 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[May 03 2007] 16:07 )

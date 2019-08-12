@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 25 07]
+I am managing this critically ill **AGE[in 40s]- year - old male status post laparotomy and debridement in the setting of pancreatitis .
+His hospital course has been complicated by respiratory failure , ARDS. I am seeing this patient for the management of respiratory failure and multiple medical issues .
+I have seen and examined this patient , reviewed his laboratory , radiographic , and Emtek data and discussed the management with his surgical team .
+PROBLEMS AND MANAGEMENT ARE AS FOLLOWS :
+1. Respiratory failure :
+The patient 's chest x-ray has an ongoing stable bilateral infiltrates .
+I am maintaining the patient on BIPAP gently 12/8 and with a goal of oxygen saturation in the range of 90 to 95% .
+The patient today could not tolerate any time off BIPAP .
+One of the approaches I will take today is I will diureses him with Lasix drip for a goal of ( - ) 1 liter and this may help his time off the BIPAP machine .
+2. Hypertension :
+The patient 's blood pressure seem to be improving gradually with multiple medications trying to manage his blood pressure .
+He is currently on Captopril , clonidine , and Lopressor for his hypertension .
+3. ICU prophylaxis :
+The patient is currently on heparin infusion for his SMA repair , and he is also on peptic ulcer disease prophylaxis with Famotidine .
+__________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 07 2008] 14:37:19
+T :
+**DATE[Jan 07 2008] 15:18:03
+R :
+**DATE[Jan 07 2008] 15:18:03/hmj
+Job ID :
+417578 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 26 2008] 03:05:52 PM

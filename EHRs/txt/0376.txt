@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Jan 02 08]
+**INSTITUTION VISIT
+Mr. **NAME[AAA] has done well overnight .
+He is without complaints this morning .
+On examination , he is afebrile .
+Vital signs are stable .
+He is breathing comfortably at 12 - 14 times a minute .
+Oxygen saturations are good on 6 liters nasal - cannula .
+Chest is clear .
+Abdomen is soft .
+Extremities are warm .
+Laboratory examination is unremarkable .
+BUN and creatinine are stable .
+In 's and out 's were overall net positive .
+Urine output has been adequate .
+Today , I am weaning off his blood pressure medications .
+I am weaning down his oxygen and I have ordered a C. difficile toxin in light of a little bit of diarrhea that he has continued to complain of .
+He should be stable for transfer to the floor today .
+I have discussed his case with the general surgeons who will be assuming his care .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 02 2008] 18:41:00
+T :
+**DATE[Jan 02 2008] 19:19:17
+R :
+**DATE[Jan 02 2008] 19:19:17/ncm
+Job ID :
+411382 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:29 PM

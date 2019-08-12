@@ -1,0 +1,104 @@
+**INSTITUTION
+GERIATRIC MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Sep 18 2007]
+TRANSFER DATE :
+**DATE[Sep 25 07]
+TRANSFERRED TO :
+TCU
+TRANSFERRED TO CARE OF :
+TRANSFER DIAGNOSIS ( ES ) :
+STATUS POST METASTATIC CANCER , ORIGIN UNKNOWN .
+SECONDARY DIAGNOSIS ( ES ):
+1. GLAUCOMA .
+2. HISTORY OF BLADDER CANCER .
+3. TRANSIENT ISCHEMIC ATTACK .
+4. PNEUMONIA .
+5. ACUTE RENAL FAILURE .
+6. RIGHT LUNG NODULE .
+7. COGNITIVE IMPAIRMENT .
+STUDIES :
+The following studies were done : x-ray of the knee shows osteopenia with chondrocalcinosis .
+X-ray of the femur shows moderate osteoarthritic changes of the medial joint space with a chondrocalcinosis .
+No acute abnormality of the distal and proximal femur .
+Last chest x-ray showed no acute infiltrates .
+It was done on **DATE[Sep 19] .
+CT of the abdomen shows a 1 cm low density lesion in the anterior segment of the right lobe of the liver which likely represents a cyst .
+Also 1.6 cm low density lesion in the medial segment of the left lobe of the liver which probably represents hemangioma .
+Spleen , pancreas , adrenals and kidneys are normal .
+In pelvis , fibroid in the uterus .
+There is no lymphadenopathy or free fluid .
+Also in pelvis there is sclerotic destructive lesion at L5 , in right iliac wing , and in right greater trochanter consistent with the patient 's known history of metastatic disease .
+There is also pathologic left femur fracture .
+MRI brain shows no evidence of metastatic disease on the current examination .
+MRI of the L - spine shows a diffuse infiltrate process consistent with metastatic disease .
+MRI joint lower extremity showed ( 1 ) diffuse marrow replacement with more confluent metastatic foci involving the left greater trochanter , right sacroiliac joint and the L5 vertebral body , ( 2 ) a fracture through the greater trochanter , left femur and an impending intratrochanteric region left femur , ( 3 ) possible cortical breakthrough and local spread of neoplastic disease involving the soft tissues and muscles surrounding the left greater trochanter .
+Bone scan showed ( 1 ) multiple foci concerning for metastatic disease , mainly in the right fifth rib , left medial scapula , L4 and L5 vertebral bodies , right iliac wing , left greater trochanter and right femoral diathesis , ( 2 ) multiple foci of abnormal uptake in the left of L1 and L3 vertebral bodies likely due to arthritic disease .
+ISSUES :
+Metastatic cancer , origin unknown .
+The patient 's left lower extremity had severe pain which rendered the patient immobile .
+Oncology team was consulted and orthopedics team was consulted .
+Oncology was consulted due to highly suspicious that lesion at left side and also lung is metastatic in nature and the origin of the cancer is unknown .
+Orthopedics was consulted because the patient cannot ambulate due to severe pain and also due to possibility of further fracture of the left lower extremity .
+Orthopedics decided to take the patient to the surgery and to stabilize the patient and also to do biopsy to find out origin of the cancer .
+Pulmonary nodules .
+As I said , the patient has pulmonary nodules which are enlarging and spiculated and highly suspicious of the cancer .
+No actions were taken for pulmonary nodules .
+As I said above , oncology team was consulted which will follow the patient .
+Cognitive impairment .
+Currently , the patient is alert and oriented .
+She has been cognitively confused in the mornings but during the day she has been alert .
+Anxiety , depression .
+The patient sometimes appears anxious during the hospital stay .
+She is on Remeron .
+The patient during hospital stay has been stable medically .
+The patient is nonweightbearing and is on bed rest due to high risk of fracture .
+Physical Therapy and Occupational Therapy were consulted to strengthen her upper extremities .
+No activity for lower extremities again .
+TRANSFER MEDICATIONS :
+The patient is transferred to TCU on following medications :
+1. Remeron 15 mg p.o. at hour of sleep .
+2. Namenda 10 mg p.o. b.i.d.
+3. Atenolol _________  , hold if the heart rate is lower than 60 , systolic blood pressure is less than 100 .
+4. Travoprost 0.004% one drop right eye once a day .
+5. Timoptic - XE 0.5% one drop left eye once a day .
+6. Heparin 5,000 units subcu q. eight for DVT prophylaxis .
+7. Tylenol 650 p.o. q. six hours .
+8. Lactulose 30 mL p.o. b.i.d. for constipation .
+9. Percocet one tablet p.o. q. four hours p.r.n. for pain .
+Consult Medical Oncology , also Orthopedic Surgery in Shady - side .
+Also on **DATE[Sep 29] , please call the following number to find out the OR scheduled time : the number is **PHONE .
+It is important to arrange the patient 's transportation .
+Again , on **DATE[Sep 29] please call **PHONE to find out the time of the surgery and arrange transportation next day .
+TRANSFER INSTRUCTIONS :
+The patient is in stable condition .
+Disposition :
+TCU .
+The patient is to follow up with Oncology after getting orthopedic surgery when the patient arrives to **INSTITUTION .
+___________________________________
+**NAME[YYY XXX ZZZ] , M.D.
+Dictator :
+**NAME[VVV WWW] , M.D.
+PK/lek
+D :
+**DATE[Sep 25 2007] 15:26:42
+T :
+**DATE[Sep 25 2007] 15:42:33
+R :
+**DATE[Sep 25 2007] 16:49:48/rs
+Job ID :
+361674 /**ID-NUM
+CC :
+Faxed to Unit 10 South
+*** Dictated By :
+-**NAME[WWW , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 08 2007] 10:32:27 AM

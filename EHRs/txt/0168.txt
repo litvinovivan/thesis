@@ -1,0 +1,79 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 08 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+A **AGE[in 70s]- year - old male .
+Overnight events reviewed .
+Medications and laboratories reviewed .
+Condition stable at **INSTITUTION 10 D .
+ASSESSMENT :
+1. Heme .
+CML - AML , non - candidate for CTX / surgery .
+Pain control , supportive measures .
+No signs of opportunistic infection .
+2. End - stage renal disease .
+Continue HD , Monday , Wednesday , and Friday .
+Volume control per HD .
+Salt poor albumin p.r.n. for edema .
+3. Left parotiditis .
+Continue local measures , moist heat .
+ENT consult .
+4. Diabetes mellitus .
+Accu-Chek sliding scale insulin .
+No diabetic foot lesions , ketoacidosis , hypoglycemia , dehydration .
+5. Coronary artery disease , cardiomyopathy , atrial fibrillation .
+S1 variable .
+No audible S3 or S4 gallop .
+Flow murmur stable .
+MR murmur stable .
+No cardiovascular decompensation .
+Left anterior hemiblock , right bundle branch block .
+6. Hypothyroidism .
+Euthyroid stable .
+Synthroid .
+7. Hypercholesterolemia .
+Asymptomatic .
+No abdominal pain .
+No pancreatitis .
+8. GERD .
+Asymptomatic .
+Continue PPI .
+Abdomen soft , nontender .
+No nausea , vomiting , or GI bleed .
+9. CVA .
+Cerebellar ICH .
+Cognitive function stable .
+Tracking commands , protective reflexes intact .
+DVT , ulcer , seizure prophylaxis .
+10. C. difficile colitis , remote .
+Stool pending .
+11. ___________ , remote .
+No signs of recurrence of postherpetic neuralgia .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Jan 15 2008] 11:33:04
+T :
+**DATE[Jan 15 2008] 23:56:55
+R :
+**DATE[Jan 15 2008] 23:56:55/rr
+Job ID :
+347017/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 08 2008] 07:52:46 PM

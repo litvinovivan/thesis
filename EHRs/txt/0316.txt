@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 26 07]
+I am managing this critically ill **AGE[in 40s]- year - old male status post laparotomy and debridement in the setting of pancreatitis .
+Hospital course has been complicated by respiratory failure from ARDS .
+I am seeing him for management of this and his multiple medical problems .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data and discussed the management with the surgical team .
+Problems and management are as follows :
+1. Respiratory insufficiency .
+Chest x-ray continues to show stable bilateral infiltrates .
+Last night he was on BiPAP at a setting of 12/8 with FIO2 titrated to maintain oxygen saturations of greater than 94% .
+He was unable to tolerate any time off the BiPAP yesterday .
+This morning I have taken him off the BiPAP and he has done well on a nonrebreather face mask through most of the day but is becoming somewhat tachypneic later in the afternoon and I plan to place him back on BiPAP at these same settings overnight .
+He is diuresing reasonably well and I have discontinued his Lasix drip and changed him to Lasix 40 mg q. 12 hourly in order to keep him overall net negative .
+We will watch his BUN and creatinine closely which are at 20 and 0.7 today and his bicarbonate is up to 33 .
+2. Hypertension .
+I suspect that some of his hypertension is related to the weaning efforts .
+He is currently on captopril , Lopressor , and clonidine for that .
+3. ICU prophylaxis .
+I have discontinued the fentanyl drip as he is not complaining of any pain and started him on some intermittent Dilaudid .
+He is on a heparin drip for prophylaxis after his SMA repair .
+I have ordered an albumin and prealbumin today to assess his nutritional status and he seems to be tolerating his tube feeds at his current rate .
+Total critical care time = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 26 2007] 21:08:11
+T :
+**DATE[Dec 27 2007] 06:41:09
+R :
+**DATE[Dec 27 2007] 06:41:09/ksc
+Job ID :
+404704 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:20 PM

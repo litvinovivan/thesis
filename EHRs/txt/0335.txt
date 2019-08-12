@@ -1,0 +1,50 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 27 2007]
+DISCHARGE DATE :
+**DATE[Aug 29 2007]
+Briefly , this is a **AGE[in 50s]- year - old gentleman who had undergone previous lumbar laminectomy by Dr. **NAME[ZZZ] on **DATE[Aug 18]th .
+He had done quite well , however , presented to the office last week with some superficial redness of his wound and a minimal amount of serous drainage .
+The patient was given prophylactic antibiotics for this and sent home , at which time he stated over the weekend he had a drop of what he felt was pus on his dressing and was subsequently readmitted in the hospital for reevaluation of possible superficial wound infection .
+He was subsequently admitted and due to poor IV access required placement of PICC line and started on both Cipro as well as vancomycin prophylactic antibiotics for suspected superficial wound infection .
+He underwent an MRI , which showed a small collection in the wound , and he was scheduled for possible wound debridement .
+However , following further evaluation of his wound on **DATE[Aug 29]th , he is noted to have no further redness of his wound and a previous rash has now dissipated .
+There is no drainage of his wound , as well , and his staples have been removed .
+Throughout this time he has had no fever or chills , and his white count has remained normal at 7.0 .
+His sedimentation rate was slightly elevated at 30 .
+The patient , per Infectious Disease Service , will be recommended the following antibiotics :
+Zyvox 600 mg b.i.d. and Cipro 500 mg b.i.d. for an additional 10 days .
+He is also recommended to have weekly CBC and platelet count and instructed to watch for any wound drainage , swelling , or pus , any chills or fever , any other symptoms with increasing pain and to immediately contact the office or go to the local Emergency Room .
+The patient is agreeable and he can be discharged home later today following removal of PICC line .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[VVV XXX , WWW]
+**INITIALS
+D :
+**DATE[Aug 29 2007] 08:30:45
+T :
+**DATE[Aug 29 2007] 11:51:26
+R :
+**DATE[Aug 30 2007] 19:42:28/gg
+Job ID :
+365898/**ID-NUM
+Cc :
+**NAME[YYY M. ZZZ] , M.D.
+**INSTITUTION
+5th Floor C-Wing
+**PLACE , PA
+**ZIP-CODE
+*** Dictated By :
+-**NAME[XXX , WWW-VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 01 2007] 12:30:42 PM

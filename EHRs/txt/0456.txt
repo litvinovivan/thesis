@@ -1,0 +1,80 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[RRR]
+**NAME[TTT SSS]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 11 07]
+I was called to see Mr. **NAME[AAA] emergently as part of a condition C response .
+The condition C was called for hypertension , tachycardia , rigor , and dyspnea .
+When I arrived , the patient was being attended to by the critical care fellow and ICU nurse and the patient 's bedside nursing staff as well as a surgery resident .
+The patient 's blood pressure was 220/120 .
+His pulse was 146 in what appeared to be sinus tachycardia .
+His respiratory rate was 44 .
+he was on a rebreather face mask at 15 liters and he was 100% saturated .
+The patient was awake , alert , and oriented .
+He denied pain or chills .
+He had rigor of the upper extremities but not of the lower .
+The patient denied pain or difficulty breathing .
+He had no chest pain .
+There was no cough .
+On my examination , the patient was somewhat pale but his color was not cyanotic ; in fact , he was slightly pink .
+He was not flushed .
+There was no skin rash .
+His neurologic exam was intact .
+His lungs were clear bilaterally .
+His heart rate was rapid and regular .
+His abdomen was slightly distended and reported as not being different from previous .
+It was nontender .
+There was no rebound .
+There were bowel sounds .
+He had no peripheral edema and no acrocyanosis .
+We checked the patient 's morning labs which had been drawn only several hours earlier and noted no significant abnormalities .
+I did note that the white blood cell count had increased from roughly 3000 to roughly 5000 .
+We drew a blood gas which was not abnormal , and I decided to treat the patient 's hypertension and tachycardia with Lopressor .
+I dosed him 2.5 mg every 3 minutes or so , giving him ultimately a total dose of 25 mg .
+With this intervention , the patient 's pulse decreased from 146 down to 115 .
+His blood pressure decreased down to 142/80 .
+His respiratory rate decreased from 46 to 30 and the patient said that he did feel more comfortable with his breathing after the infusion of these medicines .
+The surgery resident ordered 4 grams of magnesium which was infused as well .
+We were concerned that this may be a medication event; however , the patient has only received Dilaudid since midnight .
+He has tolerated Dilaudid well in the past and this did not appear to be a histamine reaction in any case , so I discount this as a possibility .
+I was able to rapidly wean the patient 's FiO2 down to 4 liters of nasal cannula with 100% saturation .
+He had no pulmonary complaints , so I do not believe pulmonary embolus is a cause .
+It appears rather that this was some sort of catecholamine storm .
+I am unclear as to the etiology but my best suspicion is that he may be having incipient sepsis .
+His temperature is 38.5 .
+There has been a bump in his white count and this occurred about an hour or so after having his biliary duct catheter flushed .
+I spoke to the surgery fellow and we agreed to resume treatment with antibiotics .
+I have asked for either Zosyn or Unasyn along with Flagyl , treating abdominal pathogens as well as C. difficile .
+The patient has been complaining of diarrhea .
+A CT scan has also been ordered by us , looking for an abdominal fluid collection which , if found , should be tapped .
+I have moved the patient to the Intensive Care Unit because of his vital sign abnormalities and because it is unclear to me what the etiology of such a severe vital sign derangement is .
+A chest x-ray has been ordered and has only just been taken ; I will check that .
+I personally assisted transporting the patient to the 6G Intensive Care Unit and making sure he was stabilized there prior to leaving .
+The total time taken in the care of this critically ill patient was 75 minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 11 2007] 07:03:30
+T :
+**DATE[Dec 11 2007] 09:43:25
+R :
+**DATE[Dec 11 2007] 09:43:25/dlv
+Job ID :
+383957 /**ID-NUM
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 16 2008] 01:19:13 PM

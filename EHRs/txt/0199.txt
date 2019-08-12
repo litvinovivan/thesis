@@ -1,0 +1,50 @@
+DISCHARGE DIAGNOSES :
+1. Acute asthmatic bronchitis , rule out underlying chronic obstructive pulmonary disease .
+2. History of coronary artery disease , status post myocardial infarction x 3 , status post angioplasty .
+3. History of ischemic cardiomyopathy with left ventricular ejection fraction of 20% to 25% .
+4. History of benign prostatic hypertrophy .
+5. History of cardiac arrhythmia .
+6. History of pacemaker .
+DISCHARGE MEDICATIONS :
+1. Nitro - Dur patch 0.2 mg per hour .
+2. __________ extended release tablets 300 mg with five tablets daily .
+3. Zocor 40 mg daily .
+4. Cozaar 50 mg daily .
+5. Plavix 75 mg daily .
+6. Potassium supplement 20 mEq daily .
+7. Lasix 40 mg daily .
+8. Coreg 3.125 mg b.i.d.
+9. Aspirin 81 mg a day .
+10. Proscar 5 mg daily .
+11. Nexium 40 mg a day .
+ALLERGIES :
+The patient is allergic to ,
+1. Penicillin .
+2. Procainamide .
+3. Iodine based dyes .
+HOSPITAL COURSE :
+This is a **AGE[in 60s]- year - old white male with the abovementioned medical condition , who was admitted with cough , shortness of breath , and a chest congestion .
+The patient had symptoms of 1 week , was treated as an outpatient with IV Levaquin , did not resolve , came to the emergency room , was evaluated .
+The patient with bilateral expiratory wheeze .
+Chest x-ray by ER physician showed pneumonia , was started on Avelox .
+The patient was also started on breathing treatment , felt better .
+At this point , he is doing much better .
+No chest pain .
+No shortness of breath .
+Chest x-ray is unremarkable .
+Pulmonary consultation was obtained .
+The patient was seen by Dr. **NAME[XXX] .
+The patient was started on albuterol inhaler .
+Avelox was continued .
+The patient is also being discharged on Avelox , tapering doses of prednisone , and albuterol inhaler .
+The patient was advised to follow up with Dr. **NAME[XXX] in 2 weeks ' time in his office .
+He will need pulmonary function tests to rule out underlying COPD .
+At the time of discharge , the patient is asymptomatic .
+______________________________
+**NAME[YYY ZZZ] , M.D.
+HS Job # 576848 / 41125 / 12667
+# **ID-NUM
+D :
+**DATE[Jun 08 2007] 15:53
+T :
+**DATE[Jun 11 2007] 05:11

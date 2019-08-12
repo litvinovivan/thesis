@@ -1,0 +1,59 @@
+This is an **AGE[in 80s]- year-old Caucasian male admitted to the **INSTITUTION with chief complaint of congestive heart failure .
+HISTORY :
+This patient presented to the **INSTITUTION Emergency Room , extremely short of breath .
+It started rather abruptly at home , and brought into the ER , appeared to be __________ failure and was subsequently admitted .
+PAST MEDICAL HISTORY :
+The patient had an myocardial infarction in 2005 , had PTCA and stenting .
+He has a known history of hypothyroidism , hypercholesterolemia , hyperlipidemia , and remote history of non-Hodgkin lymphoma in the past .
+ALLERGIES :
+None .
+HOSPITAL COURSE :
+The patient was admitted to the 5M cardiac stepdown , and he was diuresed .
+He showed good improvement with his failure .
+We have repeated his echo , still has a very low ejection fraction around 30% .
+There was no evidence of recurrent MI .
+Troponins were all negative .
+The patient had some slight increase in his BUN and creatinine .
+We are going to need to watch that closely as an outpatient .
+The patient 's condition has stabilized and could be discharged today to be followed as an outpatient .
+LABORATORY DATA :
+Chemistries on admission ; BUN was 30 and creatinine 1.7 .
+Had a slight rise to 40 and 2.3 , and I will watch it very closely as an outpatient .
+Electrolytes were normal .
+Troponin was negative on admission .
+CBC :
+Hemoglobin 13.2 , hematocrit 38.4 , and white blood cell count 5600 .
+BNP was elevated at 1030 on admission .
+TSH was elevated at 38.26 , and cardiology did increase his thyroid supplement .
+CT of the head was done by neurology services because of benign tremor and that was unremarkable .
+Ventilation profusion scan showed no evidence of pulmonary emboli .
+Echocardiography done during this admission showed dyskinetic wall motion and left ventricular function around 30% .
+FINAL DISCHARGE DIAGNOSES :
+1. Congestive heart failure .
+2. Ischemic cardiomyopathy with an ejection fraction of 30% .
+3. Hypothyroidism .
+4. Benign essential tremor .
+5. Chronic renal failure .
+DISCHARGE PLANNING AND INSTRUCTIONS :
+The patient will be discharged today , **DATE[Aug 5 2007] , to home in improved condition .
+MEDICATIONS :
+I will continue on the following medications
+1. Aspirin 325 mg daily .
+2. Lipitor 10 mg nightly .
+3. Coreg 3.125 mg b.i.d.
+4. Lasix 40 mg daily .
+5. Levothyroxine 200 mcg daily .
+6. K-Dur 10 mEq daily .
+7. Lanoxin 0.125 mg Monday , Wednesday , and Friday .
+The patient will maintain a healthy heart , low-sodium diet .
+We will have a homecare nurse see the patient for congestive heart failure followup .
+The patient is going to have a basic metabolic profile done on Thursday , **DATE[Aug 11 2007] .
+The patient will follow up in my office on Friday , **DATE[Aug 12 2007] , at 4 p.m. for reevaluation .
+______________________________
+**NAME[YYY M. ZZZ] , D.O.
+HS Job # 511421 / 41125 / 31782
+# **ID-NUM
+D :
+**DATE[Aug 05 2007] 08:25
+T :
+**DATE[Aug 07 2007] 00:06

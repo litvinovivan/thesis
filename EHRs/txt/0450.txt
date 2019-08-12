@@ -1,0 +1,96 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] M
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 20s] years
+Sex :
+Male
+DOB :
+**DATE[Sep 29 1979]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary of Hospitalization :
+This is a **AGE[in 20s] yo AA male admitted with LBP , low grade fever X 2 days , nasal congesion , productive cough and sore throat .
+Past Medical History :
+Sickle Cell DZ
+Subjective / Events Overnight :
+Pt states that he is not having pain .
+He continues to have sore throat but is able to eat today .
+Pt is C/O nasal congestion .
+Chart and labs reviewed .
+Vital signs
+**DATE[Oct 12 2007] 4:00:00 AM .
+BP : systolic 109 , diastolic 53 .
+Pulse : 99 beats per min , regular .
+Resp : 20 breaths / min .
+Temp : 38.8 degrees Celsius , 38.1 .
+Pulse Oximetry ( O2 Sats ) : 100 % .
+Physical Exam
+General Appearance :
+Middle aged sitting in bed in NAD .
+Head :
++ erythema pharynx with edematous tonsils .
+Cardiovascular :
+S 1 S 2 REG .
+Respiratory : decreased BS on R side .
+Gastrointestinal : soft , NT , +BS .
+Neurological :
+Awake , alert , and oriented .
+Speech clear and appropriate .
+- LE edema , + HL site unrem .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Oct 12 2007] 11:49 AM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Oct 12 2007] 4:00 AM
+Na 138 mEq / L
+K 4.0 mEq / L
+Cl 97 mEq / L
+CO2 25 mEq / L
+Anion Gap 16.0 High
+BUN 9 mg / dL
+Cr 1.1 mg / dL
+Mg 1.7 mEq / L
+RBC 4.30 X10E+12 / L
+RBC 4.30 X10E+12 / L
+Hgb 12.6 gm / dL Low
+Hct 37.7 % Low
+MCV 87.6 fL
+MCH 29.2 pg
+MCHC 33.4 gm / dL
+RDW 18.6 % High
+MPV 8.7 fL
+Platelets 306 X10E+09 / L
+Impression and Plan
+Impression
+**AGE[in 20s] yo admitted with SCC and complicated by CAP .
+Plan
+1. HEME - SC C- Pt admitted and placed on dilaudid PCA .
+Pt has improvemnt of pain and currently denies pain .
+Will continue dilaudid at 1 mg q 8 min prn .
+Pt also is on folic acid , bowel regimen , and completing toradol .
+2. ID -
+Pt admitted with CAP .
+Day # 3 Azithromycin / ceftriaxone .
+Pt still with fever and HA .
+Will RX with tylenol prn .
+Sent throat CX for strept was negative but sputum growing Heavy Group B Strept , will need to await sensitivites .
+Cepacol mouth lozenges prn .
+check cbc in am .
+3. FEN - Continue to hydrate .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this **NAME[UUU] :
+CRNP
+Perform by **NAME[XXX , WWW]
+( on **DATE[Oct 12 2007] 16:02 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Oct 12 2007] 16:02 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Oct 12 2007] 16:02 )

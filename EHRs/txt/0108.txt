@@ -1,0 +1,62 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 17 2007]
+EVALUATION DATE :
+**DATE[Aug 21 07]
+I am seeing Mr. **NAME[AAA] for critical care at the request of Dr. **NAME[ZZZ] and the General Surgery Service .
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old gentleman found down with a small subdural hematoma and in the hospital was found to have some evidence of seizure disorder .
+He also has a DDD pacemaker in place .
+His temperature is 37.6 , blood pressure 112/55 , pulse is 70 and sinus rhythm .
+He also has frequent atrial and ventricular pacing spikes .
+He has 40% FiO2 and 100% saturated .
+We have been ventilating him in the CPAP mode effectively .
+He is awake , he opens his eyes to voice and follows commands briskly .
+When I asked him to do a forced vital capacity maneuver , he participated well .
+He has a 1.2 liter vital capacity of forceful cough that is effective in clearing secretions .
+His heart showed no S3 or murmur .
+Lungs were clear and equal bilaterally .
+His secretions are mucoid , and decreased compared to yesterday .
+Abdomen is soft , nontender , nondistended , positive bowel sounds .
+He has trace peripheral edema .
+His I 's and O 's are 3.1 liters in and 1.8 liters out for a mildly positive fluid balance of just over a liter .
+His potassium is 3.3 , this is in spite of receiving spironolactone for diuretic and potassium replacement .
+His magnesium is in normal range but his phosphate is low .
+I am going to continue to supplement this patient 's potassium orally / IV .
+I am also giving him some potassium phosphate to bump up his phosphate level , as well as his potassium .
+I am going to continue him on the spironolactone to try to spare some potassium , but he did have a fluid balance .
+I am planning on extubating him and so I gave him a dose of Lasix as well .
+I did extubate the patient .
+Her has a very nice cough afterwards .
+His voice is only slightly horse and he is appropriate .
+I have asked Respiratory Therapy to deliver chest PT and assist him with cough .
+His free Dilantin level is in the therapeutic range .
+He is tolerating Keppra well .
+His glucoses are controlled , less than 150 , so no additional medication changes were warranted .
+Total time taken in the care of this critically - ill patient was 45 minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 21 2007] 11:34:30
+T :
+**DATE[Aug 21 2007] 12:11:07
+R :
+**DATE[Aug 21 2007] 12:11:07/dlb
+Job ID :
+355230/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 30 2007] 01:43:51 PM

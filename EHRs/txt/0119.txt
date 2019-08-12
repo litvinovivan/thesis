@@ -1,0 +1,51 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+AIMA/320
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Apr 17 2007]
+DATE OF DISCHARGE :
+**DATE[Apr 21 2007]
+PRINCIPAL DIAGNOSIS :
+Atrial fibrillation , new onset .
+SECONDARY DIAGNOSES :
+1. Transient ischemic episode .
+2. Hematuria secondary to Foley trauma .
+3. Multivalvular heart disease .
+4. Alzheimer dementia .
+5. History of prior cerebrovascular accident .
+6. Chronic low back pain .
+7. Benign prostatic hypertrophy .
+CONSULTATIONS :
+With Dr. **NAME[UUU] , Dr. **NAME[TTT] , and Dr. **NAME[SSS] .
+HOSPITAL COURSE :
+This elderly gentleman from extended care facility was brought to the emergency room because he was found on the floor with unwitnessed syncope .
+Examination in the emergency room revealed normal CT of the head with significant volume loss and small vessel ischemic changes .
+His EKG , however showed atrial fibrillation .
+Apparently , there is no previous documentation of similar arrythmia .
+The patient was admitted to the hospital with atrial fibrillation , possible TIA .
+He was evaluated by cardiology and he had further testing done , which revealed no major abnormalities .
+The patient 's dementia was unchanged while in the hospital .
+He did have catheter trauma because of Foley , which was eventually removed .
+Initially he was put on heparin with Coumadin overlap , but secondary to the catheter trauma he had problems with bleeding and it was decided because of his advanced dementia that he may not be an ideal candidate for anticoagulation therapy .
+He was put on rate control for his atrial fibrillation along with antiplatelet therapy .
+He did very well while he was in the hospital and ultimately he was discharged back to personal care home .
+Discharge medications included Tylenol 650 mg by mouth q.6 hours p.r.n. , aspirin 81 mg by mouth daily , Cipro 250 mg by mouth b.i.d. to stop on **DATE[Apr 25 2007] , digoxin 0.25 mg to alternate with 0.125 mg daily , Aricept 10 mg daily , metoprolol 25 mg by mouth b.i.d. , Protonix 40 mg daily , and potassium 20 mEq daily .
+The patient will be followed at the personal care home for ongoing management of his multiple issues .
+Family is well aware of his general condition .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[May 21 2007] 08:43:34
+Tran :
+**DATE[May 21 2007] 09:52:05
+UG/ss/397144/**ID-NUM/**ID-NUM
+R :
+**DATE[May 21 2007] 09:52:05/ss
+**CARBON-COPY

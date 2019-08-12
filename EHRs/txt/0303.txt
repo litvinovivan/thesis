@@ -1,0 +1,78 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 24 2007]
+Discharged :
+**DATE[Nov 28 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Transfer Summary
+DISCHARGE DIAGNOSIS :
+Status post left total hip arthroplasty .
+PROCEDURES DONE DURING HOSPITALIZATION :
+Left total hip arthroplasty by Dr. **NAME[ZZZ] on **DATE[Nov 24 2007] .
+**INSTITUTION STAY :
+1. The **NAME[VVV] and **NAME[UUU] Medical Group .
+2. Physical and Occupational Therapy .
+3. Perioperative Pain Service .
+BRIEF HISTORY :
+Mrs. **NAME[AAA] is an **AGE[in 80s]- year - old female who had been dealing with chronic left hip pain for some time .
+She was seen by Dr. **NAME[ZZZ] and followed in the office for degenerative joint disease and after exhausting all conservative measures and having all the risks and benefits of operative intervention explained to her , the patient elected to undergo her procedure .
+HOSPITAL COURSE :
+The patient was admitted through same day surgery and underwent her procedure without any preoperative or perioperative complications .
+Following a short stay in the recovery room , she was transferred to the floor for postoperative management where she did well and was without complication except for the following :
+The patient did have an issue with Coumadin dosing .
+Her INR went up to 4.0 and she was given 10 mg of vitamin K on **DATE[Nov 27 2007] .
+After this , the following morning her INR was back down to 1.4 and she was redosed with her Coumadin .
+She suffered no other problems and throughout her hospital stay was covered with perioperative antibiotics , DVT prophylaxis and prior discharge , she was tolerating a p.o. diet and doing well on p.o. pain medications and voiding spontaneously .
+At this time , she is deemed stable for discharge .
+DISCHARGE DISPOSITION :
+The patient will be discharged in good condition .
+She should remain weight bearing as tolerated on the left lower extremity and should have physical and occupational therapy at least once daily .
+She should have dry dressing changes to the wound every day until it is completely clean , dry and intact for 48 hours , at which point she may begin to shower and replace with dry dressings as needed .
+She should wear TED hose every day for 4 weeks and these should be removed 3 times a day every day for 20 minutes each time .
+In addition , she should use SCD s while in bed while at rehab .
+She should call Dr. **NAME[ZZZ] 's office immediately to confirm her appointment to be seen in 2 to 3 weeks ' time , and she is to call the office early for any increasing redness , pain , swelling or discharge from or around the incision site , any new numbness , tingling or weakness in any of her extremities or any other problems not specifically mentioned on her discharge instruction sheet .
+If none of these problems occur , we will see her in 2 to 3 weeks as instructed .
+DISCHARGE MEDICATIONS :
+1. Vicodin 5/500 mg 1-2 tablets p.o. q.6 hours p.r.n. pain .
+2. Zofran 4 mg IV q.6 hours p.r.n. nausea or vomiting .
+3. Colace 100 mg p.o. b.i.d.
+4. Milk of magnesia 30 mL p.o. q.day p.r.n. constipation .
+5. Iron sulfate 325 mg p.o. q.day.
+6. Accupril 20 mg p.o. q.day.
+7. Norvasc 10 mg p.o. q.day.
+8. Nabumetone 500 mg p.o. b.i.d.
+9. Hydrochlorothiazide / triamterene 25/37.5 one tablet p.o. q.day.
+10. Diovan 160 mg p.o. d.day.
+11. Nizoral 200 mg p.o. d.day.
+12. Procrit 10,000 units subcu q.week.
+13. Fosamax 70 mg p.o. q.week.
+14. Coumadin 2 mg p.o. q.p.m.
+This is subject to change based on lab work and should be titrated to an INR of between 2 and 3 .
+She should have at least twice weekly INR s drawn to titrate her Coumadin .
+______________________________
+**NAME[WWW XXX] , Resident
+HS Job # 109648 / 41736 / 32922
+SHY # **ID-NUM
+D :
+**DATE[Nov 28 2007] 10:23
+T :
+**DATE[Nov 28 2007] 11:30
+*** Transcribed On :
+**ID-NUM ***
+*** Dictated By :
+015590^**NAME[XXX^WWW] ***
+*** Clinical Date
+:
+**ID-NUM ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 28 2007] 01:40:58 PM

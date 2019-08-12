@@ -1,0 +1,108 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Oct 21 2007]
+Discharged :
+**DATE[Oct 24 2007]
+Dict :
+**NAME[XXX , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+ADMITTING PHYSICIANS :
+1. Dr. **NAME[XXX] .
+2. Dr. **NAME[WWW] .
+3. Dr. **NAME[VVV] .
+4. Dr. **NAME[XXX] .
+REFERRING PHYSICIAN :
+Dr. **NAME[UUU TTT] , MD
+FINAL DIAGNOSES :
+1. Acute non-Q wave myocardial infarction which began on the evening of **DATE[Oct 27 2007] .
+2. Severe multivessel coronary artery disease .
+3. The patient has a history of 5 previous myocardial infarctions .
+4. In **DATE[Apr 2005] , the patient underwent multivessel coronary artery bypass surgery .
+5. The patient had several coronary interventions done prior to his bypass surgery in 2004 .
+6. Hypertension , treated .
+7. Hypercholesterolemia .
+8. Hypothyroidism .
+9. Persistent tobacco abuse .
+10. Status post cervical laminectomy .
+11. The patient is relatively noncompliant .
+HISTORY :
+This patient is a **AGE[in 50s]- year - old gentleman with severe premature coronary artery disease .
+Apparently , his father had a myocardial infarction at the age of **AGE[in 40s] , and he had a brother who also suffered a myocardial infarction at 48 .
+All the siblings in the family have a history of hypertension .
+This patient developed a symptomatic coronary artery disease several years ago .
+He had coronary stents placed by another cardiologist but neither apparently maintained satisfactory patency and subsequently , the patient underwent multivessel bypass surgery in **DATE[Apr 2005] .
+We were told it was 7 - vessel bypass surgery but the exact grafts were not currently available .
+The patient developed chest pain on the evening of **DATE[Oct 21 2007] .
+It began at rest .
+It was fairly significant .
+He presented to the emergency room where his first enzymes were really not elevated but the patient had ST - T wave changes in the lateral leads of the electrocardiogram .
+Subsequent to that , he was admitted to the hospital for further evaluation .
+PHYSICAL EXAMINATION :
+Please check the admitting note .
+There are no additions to that note .
+HOSPITAL COURSE :
+After admission to the hospital , the patient was started on heparin and oral Plavix or clopidogrel .
+He had a repeat troponin I done at 10:30 a.m. on **DATE[Oct 22 2007] , and that clearly showed a marked elevation in his troponin to 17.5 .
+For that reason , a decision was made to take the patient to the catheterization laboratory .
+The patient went to the cardiac catheterization laboratory on **DATE[Oct 22 2007] .
+Despite his very ominous finding past medical history including the history of five previous myocardial infarctions , this patient still has an ejection fraction estimated at 50% .
+His grafts include the following :
+The patient has a patent sequential LIMA to the diagonal and to a left anterior descending artery .
+No progression of the disease in the native left anterior descending artery beyond this LIMA graft .
+He has a dominant circumflex artery .
+There is a totally occluded vein graft to a medium sized ramus intermedius artery .
+This is presumably the acute event .
+He had a patent vein graft to fairly large obtuse marginal artery but this obtuse marginal artery had proximal 80% stenosis which prevented adequate retrograde filling of the dominant circumflex artery .
+The same circumflex artery has a long segmental distal 80% stenosis which is a critical lesion which will require attention in the near future .
+The right coronary artery is a codominant vessel in that it supplies a small posterior descending branch .
+There is a remote stent in the proximal portion of the right coronary artery which has abruptly occluded shortly after the stent .
+There is a small vein graft into a right ventricular branch which sends some collaterals to the distal portion of the occluded right coronary artery but the amount of collateralization is not very prominent .
+Finally , a prominent proximal conus branch which is fairly large caliber vessel has segmental 90% lesions .
+On this occasion , we were able to reopen the totally occluded vein graft to the ramus intermedius artery .
+This graft was filled with thrombus .
+We had to use a thrombectomy catheter with multiple passes before I put in 2 sequential Taxus 3.5 mm drug eluting stents with good results in the graft but this vein graft has distal anastomotic 50% stenosis .
+The patient had adequate flow through the vein graft into the obtuse marginal artery .
+He was treated with intravenous eptifibatide and continued on potent antiplatelet agents .
+The day after the procedure , he was completely asymptomatic even with ambulation in the hall and was chomping at the bid to go home .
+He has normal sinus rhythm at 74 per minute .
+His total CPK peaked at 482 with an MB fraction that peaked at 23.7.
+This would fit with the fact that the ramus intermedius artery is not a very large vessel and even occlusion of this vessel would not be expected to produce a large infarct .
+The patient will be allowed to go home on a good medical therapy , and he will follow up in 3 to 4 weeks at which time I will reassess the stented vein graft , and I plan on putting a drug eluting stent in the distal portion of the dominant circumflex artery as this is the more worrisome lesion with his current anatomy .
+The patient actually forgot to tell the staff when I came in that he was on thyroid replacement therapy , so he did not get his medicine for a couple of days .
+When I mentioned this to he and his girlfriend , I got the impression he had not been taking it faithfully at home .
+This may account for the fact that his lipids have been too elevated .
+In addition , the patient was back to smoking cigarettes and tells me he has now stopped smoking completely .
+I hope that he sticks to that resolution as this patient has fairly significant diffuse disease and if the progression is not stopped , his long - term outlook will be guarded .
+DISCHARGE MEDICATIONS :
+The discharge medications on this occasion are the following :
+1. Acetaminophen 650 mg p.r.n.
+2. Enteric - coated aspirin 325 mg daily .
+3. Plavix 75 mg daily .
+4. Lipitor 80 mg daily .
+5. Add omega-3 fish oil supplement 2000 mg daily .
+6. Add lisinopril 10 mg daily at bedtime .
+7. Metoprolol 25 mg b.i.d.
+8. Multivitamin 1 daily .
+9. Nitroglycerin 0.4 mg tablet sublingually p.r.n.
+10. Protonix 40 mg daily or omeprazole 20 mg daily as needed for reflux esophagitis .
+Because of the institution of lisinopril , he will need to check his BUN , creatinine and electrolytes in 2 to 3 weeks .
+ACTIVITY :
+I told the patient he could not return to work or do heavy lifting until he returns to get stenting of the circumflex artery which will be approximately 3 weeks .
+I made it a point to explain to him the importance of taking his medicines exactly as prescribed and to stop smoking cigarettes completely .
+______________________________
+**NAME[YYY M XXX] , MD
+HS Job # 913985 / 38636 / 16547
+SHY # **ID-NUM
+D :
+**DATE[Oct 23 2007] 19:27
+T :
+**DATE[Oct 24 2007] 15:32
+**CARBON-COPY

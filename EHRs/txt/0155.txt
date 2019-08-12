@@ -1,0 +1,108 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5A/1
+CORRECTED REPORT PHYISICAN NAME
+SERVICE OF :
+**NAME[VVV M. WWW] , M.D ,
+DATE OF ADMISSION :
+**DATE[Jun 02 2007]
+DATE OF DISCHARGE :
+**DATE[Jun 05 2007]
+ADMISSION DIAGNOSIS
+Fall .
+DISCHARGE DIAGNOSES
+1. Acute sinusitis .
+2. Hypertension .
+3. Diabetes mellitus type II .
+4. Status post cerebrovascular accident .
+5. Status post fall .
+6. Urge incontinence .
+7. Weakness .
+8. Dehydration .
+CONSULTANT
+Dr. **NAME[UUU] - Psychiatry .
+PROCEDURES
+1. Head CT .
+2. Chest CT PE protocol .
+3. Echocardiogram .
+HISTORY
+Mrs. **NAME[AAA] is a **AGE[in 70s]- year - old female patient known to Dr. **NAME[TTT] at the **INSTITUTION who was originally admitted through the emergency room of **STREET-ADDRESS **NAME[SSS] on **DATE[Jun 2 2007] .
+The patient lives at home by herself and is checked on routinely by neighbors and Meals On Wheels .
+Neighbors found the patient seated on the floor in front of the couch upon their visit on the day of admission .
+It was unknown how long the patient had been on the floor .
+Paramedics were called and the patient was transferred to the emergency room at **STREET-ADDRESS **NAME[SSS] .
+On discussion with the neighbors , it was discovered that this same incident occurred the day prior as well , only at this time the patient was found seated on the floor beside the bed .
+Paramedics were called at this time as well and the patient refused treatment and transport at that time .
+On admission to the emergency room , the patient was noted to be stable .
+The patient denied any symptoms of light - headedness , dizziness , loss of consciousness , palpitations , fevers , or chills .
+The patient had been suffering from congestion , rhinorrhea , and cough for the past several days .
+She noted that she had been getting increasingly weak with this viral syndrome that she had been experiencing the past few days , but denied ever becoming light - headed , dizzy , or short of breath .
+On admission workup , the patient was noted to have a white count of 14.8 and the remainder of her admission laboratory workup was negative .
+Head CT was performed , which noted small vessel disease , mucosal changes in the sinuses , and no evidence of intracranial hemorrhage or stroke .
+A chest x-ray at that time was negative for any acute disease in the chest .
+HOSPITAL COURSE
+In light of this unwitnessed fall along with white count , dehydration , and weakness , the patient was admitted to **STREET-ADDRESS **NAME[SSS] for treatment of acute sinusitis .
+She was initiated with a five-day course of azithromycin .
+The patient was also rehydrated with IV fluids initially .
+The patient responded well to antibiotic therapy and rehydration .
+Physical therapy and occupational therapy were consulted and it was felt that the patient would be a good candidate for acute rehab given the patient 's deconditioning and functional status .
+The patient was adamant about wishing to return home in lieu of going to an outpatient rehab facility , skilled nursing facility , nursing home , or assisted living facility .
+The patient was approved for acute inpatient rehab in 4A .
+The patient was transferred there .
+SUMMARY
+1. Sinusitis .
+Treatment was initiated with Zithromax as described above .
+The patient clinically improved throughout the hospital course .
+Congestion and cough were relieved on the day of discharge to acute rehab .
+2. Tachycardia .
+The patient was noted to be slightly tachycardic in the upper 110 s on admission .
+The patient was to be taking Lopressor 25 milligrams two times a day at home .
+The patient had not been taking this medication for the past six months .
+The dosing on the Lopressor was increased to 50 milligrams two times a day and the patient responded well to this with a heart rate in the 80s to 90s .
+An echocardiogram was checked during this admission , which showed an ejection fraction of 50% to 55% .
+There was no evidence of pericardial effusion .
+There was also mild tricuspid and mitral valve insufficiency noted .
+There was also aortic valve sclerosis noted .
+3. Diabetes mellitus type II .
+The patient again had not been taking Actos 45 milligrams as was prescribed by Dr. **NAME[TTT] .
+The patient had not been taking this medication at all .
+The patient reported that she was unable to tolerate the Actos due to diarrhea .
+Treatment with a lower dose of Actos to 15 milligrams was initiated during this stay .
+The patient responded favorably to this and did not have complaints of intolerance of this dosing .
+The patient was also covered with an insulin sliding scale .
+The patient responded favorably to this .
+A hemoglobin A1C was checked and was found to be 6.2 .
+4. Hypertension .
+The patient was to be taking Prinzide 12.5/20 as well as metoprolol 25 two times a day .
+The patient had not been taking these prior to admission for the past six months .
+The patient was restarted on these medications and responded favorably .
+The Lopressor was increased to 50 milligrams two times a day during this stay and the patient 's blood pressure responded favorably .
+5. Hyperlipidemia .
+The patient was restarted on Lipitor 10 milligrams , which she should have been taking at home , but had not been taking for the past six months .
+6. Coronary artery disease .
+The patient is taking aspirin 81 milligrams .
+She had been taking this at home and this was continued in house .
+This is stable at this time .
+DISPOSITION
+The patient was having prior home visits by Dr. **NAME[TTT] via the **INSTITUTION .
+The last visit from Dr. **NAME[TTT] was on **DATE[Oct 30 2006] .
+The patient reported at that time that she did not see a need for Dr. **NAME[TTT] to revisit her and in the home .
+The patient was to make a follow - up appointment in the clinic and never did .
+During this admission , discussion was had to resuming those home visits with Dr. **NAME[TTT] and the patient was willing to do this once discharged .
+In the meantime , the patient will be discharged to 4A Rehab for reconditioning .
+Dr. **NAME[TTT] has been aware of the hospital course .
+The patient is discharged to acute rehab in **STREET - ADDRESS **NAME[SSS] .
+DISCHARGE CONDITION
+Stable .
+DISCHARGE INSTRUCTIONS
+Upon discharge from 4A Rehab , arrangements will be made for home visits to be resumed with Dr. **NAME[TTT] through the **INSTITUTION .
+FOLLOW UP
+The family health center team will continue to follow this patient during her stay in acute rehab on 4A .
+___________________
+**NAME[VVV M. WWW] , M.D.
+***FOOTER-BLOCK

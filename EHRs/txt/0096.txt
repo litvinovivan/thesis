@@ -1,0 +1,75 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 21 07]
+I saw the patient on rounds with the ICU team .
+I interviewed and examined the patient at the bedtime .
+I reviewed his data on EMTEK data including vital signs , I&amp;Os , laboratory data , and medication list .
+I reviewed the House staff 's note .
+I discussed the management plan with the Critical Care Team and with the Vascular and General Surgical Team .
+The patient is a **AGE[in 40s]- year - old male with severe biliary pancreatitis , who initially had cholecystomy tube , had a gangrenous gallbladder , status post exploratory laparotomy and drainage of abdominal abscesses related to his pancreatitis and gangrenous gallbladder .
+He also had repair of an SMA aneurysm with PTFE graft with reimplantation .
+This was done **DATE[Nov 19] .
+His abdominal abscess drainage was on **DATE[Dec 16 2007]; at that time he also had placement of a transgastric jejunostomy tube .
+His fascia was closed at that time , but his skin was left open .
+He also had a PTC catheter placed on **DATE[Dec 14 2007] draining bowel .
+Overnight the patient had increased blood pressure .
+Temperature max 37.6 .
+Heart rate 70s to 100s .
+Blood pressure 127 to 176 systolic over 70 to 80s diastolic , on assist control ventilation , 40% FIO2 , PEEP of 5 .
+He is breathing slightly over the ventilator , which is set at a rate of 12 .
+The patient is Oxepa tube feeds at 40 ml per hour via his J - tube .
+Blood sugars range 80 to 134 .
+His urine output is 1.3 Liters for 24 hours .
+Potassium is 3.8 .
+BUN 19 .
+Creatinine 0.8 .
+White blood count 5.5 .
+Hemoglobin 10.2 .
+The patient was sedated but easily arousable , answering simple yes / no questions .
+He denied any significant pain .
+He has rhonchi bilaterally but is moving air well .
+His abdomen is distended , soft .
+His wound , which is packed , is clean .
+His fascia is intact .
+From a respiratory standpoint , we will proceed with spontaneous breathing trials and CPAP pressure support .
+For the patient 's hypertension , he is on Lopressor 100 mg twice a day .
+We will add Captopril as a second agent as during my evaluation , the patient 's heart rate was in the 70s .
+The patient is anticoagulated with a heparin drip for his SMA aneurysm , which we will continue .
+We will not coumadinize as of yet , as he is likely to require some procedures along the way .
+The patient is continuing on meropenem and linezolid with eight more days left to complete his course for his abdominal sepsis .
+He continues on his Wellbutrin , elanzepine and Remeron for his underlying psychiatric disorders .
+I am continuing Pepcid for GI prophylaxis .
+He will continue on his fentanyl drip , which was decreased to 100 mcg per hour the previous day .
+We are giving the patient a suppository as he has not had a bowel movement since his abdominal operation .
+From a Nutritional standpoint , we will continue with the present tube feed regimen .
+We will add protein supplementation to his enteral feeds .
+We will continue wet - to - dry dressing changes of his abdominal wound , and we will continue to infuse the patient 's bile from his PTC catheter along with his tube feeds .
+Critical Care 31 minutes .
+__________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 27 2007] 04:33:55
+T :
+**DATE[Dec 27 2007] 07:33:11
+R :
+**DATE[Dec 27 2007] 08:24:20/dv
+Job ID :
+404960 /**ID-NUM
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 16 2008] 10:34:23 AM

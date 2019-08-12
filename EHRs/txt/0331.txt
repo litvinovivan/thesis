@@ -1,0 +1,49 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5B/547
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Jun 30 2007]
+DATE OF DISCHARGE :
+**DATE[Jul 02 2007]
+REASON FOR ADMISSION :
+Inability to void .
+DISCHARGE DIAGNOSES :
+Acute renal failure and dehydration .
+HOSPITAL COURSE :
+The patient was admitted and found to have a creatinine of 5.8 with a BUN of 51 .
+Her blood pressure was 152/81 at the time of admission .
+A Foley catheter was placed and an IV was placed , and she was started on IV fluids .
+She was rehydrated aggressively .
+At times , her blood pressure did drop down into the 70 systolic , but other than being a little bit somnolent , she remained alert and oriented throughout , and with fluids , her blood pressure improved appropriately .
+At the time of discharge , her creatinine is now 0.7 .
+She is able to void without any assistance , and she is in good condition .
+DISCHARGE MEDICATIONS :
+1. Lipitor .
+2. Senokot p.r.n.
+3. NPH 10 units subcu b.i.d.
+4. Metoprolol 25 b.i.d.
+5. OxyContin 60 mg q.12 hours .
+6. Protonix 40 mg a day .
+DISCHARGE INSTRUCTIONS :
+K-Dur is stopped because she is no longer taking Lasix .
+She is specifically told not to take Lasix or lisinopril at home as per the nephrologist who saw here while here in the hospital .
+She is not having any restricted diet except a heart-healthy and diabetic diet .
+Physical activity is unrestricted .
+She is to follow up with Dr. **NAME[YYY] in 2 weeks and Dr. **NAME[VVV] 's group in 2 weeks .
+___________________
+**NAME[WWW M. XXX] , M.D.
+Dict :
+**DATE[Jul 02 2007] 09:39:37
+Tran :
+**DATE[Jul 02 2007] 10:53:15
+JAP/as/372286/**ID-NUM/**ID-NUM
+R :
+**DATE[Jul 02 2007] 10:53:15/as
+**CARBON-COPY

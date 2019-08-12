@@ -1,0 +1,48 @@
+VOMITING ALONE
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jun 31 2007]
+Discharged :
+**DATE[Jul 03 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+SUMMARY OF STAY :
+Mr. **NAME[AAA] is a **AGE[in 40s]- year - old Caucasian male with nonsmall - cell lung cancer which was diagnosed in 2005 .
+He has metastatic disease and is status post chemotherapy and external beam radiation as well as whole - brain radiation .
+He was admitted to the hospital on **DATE[Jun 3 2007] , with a fever of 38.1 .
+He is known to have widely metastatic disease .
+We were contacted on **DATE[Jun 31 2007] , in consult for abdominal pain .
+He was found to have a marked dilated and thick - walled appendix with surrounding inflammation and fat stranding on CT scan .
+He was taken to the operating room on **DATE[Jun 31 2007] , with Dr. **NAME[VVV] , who performed a laparoscopic appendectomy .
+Please refer to the operative report for full outline of the details .
+He tolerated the operative procedure well and was discharged to home on **DATE[Jul 3 2007] .
+DIET :
+Diet as tolerated .
+ACTIVITY :
+He is not to lift more than 10 pounds .
+He should call for any bleeding or opening of his port sites or any signs of inflammation .
+MEDICATIONS :
+He is to resume his home medications .
+FOLLOWUP :
+He should follow up with his medical oncologist and radiation oncologist as scheduled .
+He should see Dr. **NAME[VVV] in 2 weeks for followup ; the phone number is **PHONE .
+He should call to arrange the appointment .
+He should also contact his PCP to schedule followup .
+______________________________
+**NAME[WWW XXX] , CRNP
+HS Job # 168463 / 37383 / 36132
+SHY # **ID-NUM
+D :
+**DATE[Aug 13 2007] 13:41
+T :
+**DATE[Aug 14 2007] 09:26
+**CARBON-COPY

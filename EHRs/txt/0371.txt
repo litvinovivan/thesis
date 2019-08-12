@@ -1,0 +1,92 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Feb 30 2007]
+DISCHARGE DATE :
+**DATE[Mar 01 2007]
+DISCHARGE DIAGNOSIS ( ES ) :
+1. URINARY TRACT INFECTION .
+2. MULTIPLE SCLEROSIS EXACERBATION LIKELY SECONDARY TO URINARY TRACT INFECTION .
+STUDIES COMPLETED :
+MRI of the brain with extensive white matter abnormalities with features compatible with the patient 's known diagnosis of multiple sclerosis .
+There are no new lesions or areas of contrast enhancement of today 's study .
+REASON FOR ADMISSION :
+Ms. **NAME[AAA] is a **AGE[in 60s]- year-old African-American female who presented to the Emergency Department on **DATE[Feb 30 07] complaining of increasing falls and ataxia over the last several days .
+She has a past medical history of multiple sclerosis diagnosed in 1995 , hypertension , status post hysterectomy .
+Again she really only complains of increasing falling at home but denied any fever , chills , chest pain , dysuria and diarrhea .
+She did endure some increased urinary frequency and generalized weakness .
+LABORATORY DATA :
+Sodium 139 , potassium 4.0 , chloride 102 , CO2 29 , BUN 11 , creatinine 0.7 , calcium 8.7 , magnesium 1.9 , phosphate 3.5 , B12 351 , folate 557 .
+White count 3.4 , hemoglobin 10.3 , hematocrit 30.7 , platelet count 255 , TSH 2.3 .
+Urinalysis showed 2 + leukocytes , positive for nitrites , protein , 397 white blood cells in clumps .
+Blood cultures were negative x 1 day .
+Urine culture grew greater than 100,000 colonies of E. coli and it was resistant to Bactrim and Doxycycline .
+HOSPITAL COURSE :
+She was admitted to the floor for further treatment of her urinary tract infection and for PT evaluation .
+She was initially started on Cipro ; however , the IV antibiotic management team recommended that she should be on Unasyn and told to narrow her antibiotics .
+She stayed on Unasyn for close to 2 days and when her urine sensitivities were back , we discharged her on Amoxicillin .
+The patient did endorse that she was feeling a bit more steady on her feet and having less weakness .
+We were concerned that she may be having worsening of her multiple sclerosis with her history of increasing falls .
+A MRI of her brain was checked as noted above .
+We did speak with her neurologist , Dr. **NAME[UUU] and he does not want to start her on any steroids and recommended outpatient follow up .
+She was evaluated by Physical and Occupational therapy and they thought that she could benefit from even outpatient physical therapy .
+The patient adamantly refuses any therapy upon discharge .
+She does have a supportive family with multiple children and grandchildren .
+PHYSICAL EXAM :
+Vital signs :
+She is afebrile , heart rate 82 , respirations 20 , blood pressure 142/76 , sats are 98% .
+General :
+She is in no acute distress .
+I saw her ambulating in the hall with her 4 - prong cane .
+Her gait was slow but somewhat steady .
+Cardiovascular :
+She has normal S1-S2 , no murmur .
+Lungs :
+Clear bilaterally .
+Abdomen :
+Benign .
+Extremities :
+No edema .
+She can be discharged home today .
+DISCHARGE INSTRUCTIONS :
+Activity :
+As tolerated .
+Diet :
+Regular diet .
+DISCHARGE MEDICATIONS :
+1. Augmentin 875 mg p.o. b.i.d. x 5 days .
+2. Effexor XR 150 mg p.o. daily .
+3. Procardia XL 30 mg p.o. daily .
+4. Detrol LA 4 mg p.o. daily .
+5. Neurontin 300 mg p.o. q.a.m.
+6. Neurontin 600 mg p.o. at bedtime .
+7. __________ 1 cc injection every other day .
+8. Naprosyn 500 mg p.o. b.i.d.
+9. Altace 5 mg p.o. daily .
+FOLLOW-UP :
+1. With Neurology , Dr. **NAME[UUU] as needed , **PHONE .
+2. With her PCP at the **INSTITUTION as needed , **PHONE .
+___________________________________
+**NAME[ZZZ M YYY] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+KF/dm
+D :
+**DATE[Mar 01 2007] 14:10:05
+T :
+**DATE[Mar 01 2007] 17:23:17
+R :
+**DATE[Mar 01 2007] 17:23:17/dm
+Job ID :
+371274/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;

@@ -1,0 +1,41 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+PROCEDURE ( S ):
+INTUBATION .
+INDICATIONS :
+Cardiopulmonary arrest for airway protection and for oxygenation and ventilation .
+The patient was positioned appropriately .
+Using MAC four blade , a size eight endotracheal tube was placed without difficulty .
+The patient has positive bilateral breath sounds and positive CO2 detection .
+The tube was secured at 23 cm at the lips .
+The procedure was done by the Critical Care Medicine fellow .
+I was present for the whole entire procedure and directly supervised him .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+**INITIALS
+D :
+**DATE[Jan 15 2008] 23:41:42
+T :
+**DATE[Jan 16 2008] 07:32:37
+R :
+**DATE[Jan 16 2008] 07:32:37/lbw
+Job ID :
+347749/**ID-NUM
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:16:39 PM

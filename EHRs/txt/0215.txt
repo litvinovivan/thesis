@@ -1,0 +1,62 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Sep 15 2007]
+Discharged :
+**DATE[Sep 24 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Mr. **NAME[BBB AAA] is a very nice **AGE[in 80s]- year - old white male , right handed , who was admitted to this hospital , **INSTITUTION , transferred from **PLACE with increased wheezing and shortness of breath .
+He was found to have lung cancer on CT scan of the chest with a large lung nodule on the left lung as well as a small lung nodule on the right side .
+He was taken to the OR on **DATE[Sep 18 2007] , by Dr. **NAME[ZZZ] for bronchoscopy , bronchoalveolar lavage , as well as a placement of a right chest tube .
+Cytology came back positive for nonsmall cell lung cancer .
+The patient was sent to the ICU for couple of days , and he was able to retransfer to the floor .
+Today on examination , the patient is awake , alert , and oriented x 3 .
+Pupils are equal , round , and reactive to light .
+There is no evidence of any neurological deficits .
+His temperature is 35.6 , his heart rate is 60 , respiratory rate 20 .
+He is saturating at 96% on room air .
+His blood pressure is 120/60 mmHg .
+His last laboratory workup from yesterday afternoon reveals a sodium of 135 , potassium of 5 with a chloride of 98 , bicarbonate of 23 , creatinine of 2.8 , and BUN of 100 .
+He is known to have kidney failure .
+White blood cell count from **DATE[Sep 22 2007] , is down to 8000 with a hemoglobin of 11.7 and a hematocrit of 34.9 , and platelet count of 57,000 .
+On physical examination , the patient is ventilating adequately on both sides of the thorax with clear entry sounds , perhaps mild wheezing bilaterally .
+Cardiac area is rhythmic .
+Abdomen is soft , nontender , nondistended with good peripheral pulses .
+The patient is tolerating the diet and the current problem with him is that while attempting to walk and go to the bathroom , he is complaining about dizziness as well as weakness .
+I do not feel that the patient is a candidate for rehabilitation since he has not had any acute problems with walking , trauma , major stroke , or any fractures on the lower extremities .
+He does have an old fracture about a month ago or so on the right elbow .
+This does not preclude the patient from walking .
+His family is not able to take care of him right now , so I would recommend short stay in a skilled nursing facility to continue with his current medication regimen as well as insulin and glucose control .
+Once the patient recovers a little bit more of strength , he should be able to return back to home .
+On today 's x-ray , I do not see any sign of pleural effusion or pneumothorax .
+He should continue on his current medications which include
+1. Regular insulin with a low - dose sliding scale before meals .
+2. Lopressor 12.5 mg p.o. b.i.d.
+3. Combivent 1 or 2 puffs q.2 h. p.r.n.
+4. Pepcid 20 mg by mouth twice a day .
+5. Tylenol 650 mg by mouth q.8 h. p.r.n.
+6. Vicodin 1 tablet p.o. q.6-8 h. p.r.n.
+7. Heparin subcutaneous 5000 units twice a day for DVT prophylaxis .
+8. Prednisone wean down , he is currently on 15 mg by mouth daily which should be given as 10 mg p.o. in the morning and 5 mg p.o. in the afternoon .
+He should be able to be weaned off the prednisone within a couple of days .
+Please , decrease by 5 mg every 3 to 4 days .
+9. Lasix 40 mg p.o. daily .
+Please note that the patient should be seen for followup by Dr. **NAME[YYY ZZZ] in 2 weeks from today and please schedule an appointment with hematology / oncology in his local town , **PLACE .
+______________________________
+**NAME[WWW XXX]
+HS Job # 921471 / 34606 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 24 2007] 09:54
+T :
+**DATE[Sep 24 2007] 09:57
+**CARBON-COPY

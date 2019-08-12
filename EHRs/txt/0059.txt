@@ -1,0 +1,75 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+TRANSFER DATE :
+**DATE[Aug 09 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+TRANSFER DIAGNOSIS ( ES ) :
+PNEUMONIA .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old , white female with a history of remote left MCA ACA stroke with residual right - sided arm weakness , diabetes , hypertension , and mood disorder , who was transferred to **INSTITUTION from **INSTITUTION after being found unresponsive , tachycardic , and hypotensive .
+She had been experiencing waxing and waning periods of alertness .
+She was also found to be hypoxic and was placed on supplemental oxygen .
+The patient was found to have right middle lobe pneumonia and was treated for that with five - day course of azithromycin and Augmentin .
+During her hospital stay , the patient 's mental status improved , her hypoxia resolved , and at the time of transfer , she was saturating well on room air .
+The patient also received head CT which was negative for acute changes .
+With regards to the patient 's diabetes , the patient had high blood sugars .
+Her metformin was increased initially to 1,000 b.i.d. and then 1,250 in the morning and 1,000 at night .
+She is also to be covered with insulin sliding scale .
+She was also started on a diabetic diet .
+With regards to her hypoxia , she was found to have a pneumonia and was treated with a five - day course of azithromycin and seven - day course of Augmentin .
+She is saturating 99% on room air .
+The patient does not need any further antibiotics .
+With regards to her mental status , this is at baseline at the time of transfer .
+She did receive a head CT , which did not show acute changes .
+She also received a drug screen which was negative for tricyclic antidepressants , salicylates , or ethanol .
+The patient 's urine was positive for LSD on **DATE[Aug 03 2007] .
+This might have contributed to her mental status changes .
+Through her hospital stay , her mental status has improved significantly , indicating that her mental status changes might have been from drug use .
+The patient 's head CT showed stable appearance of encephalomalacia changes , areas of old infarct , and no acute process was noted .
+The patient was considered stable for transfer to **INSTITUTION .
+Her code status , as confirmed by the patient , who is oriented times three and answering questions appropriately , is full code .
+TRANSFER MEDICATIONS :
+1. Aspirin 81 mg p.o. daily .
+2. Lipitor 40 mg p.o. daily .
+3. Famotidine 20 mg p.o. daily .
+4. Folic acid 1 mg p.o. daily .
+5. Heparin 5,000 units subcu t.i.d.
+6. Multivitamin 1 tablet p.o. daily .
+7. Thiamine 100 mg p.o. daily .
+8. Valsartan 80 mg p.o. b.i.d.
+9. Risperdal 2 mg at night and 1 mg in the morning .
+10. Metformin 1,250 mg p.o. q. a.m.
+11. Metformin 1,000 mg p.o. q. p.m.
+12. Low-dose insulin sliding scale .
+13. Tylenol 650 mg q. 6 hours p.r.n. pain .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 09 2007] 10:41:57
+T :
+**DATE[Aug 09 2007] 10:52:50
+R :
+**DATE[Aug 09 2007] 10:52:50/cme
+Job ID :
+338536/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 16 2007] 02:53:09 PM

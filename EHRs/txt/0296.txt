@@ -1,0 +1,119 @@
+Transfer Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Female
+DOB :
+**DATE[May 9 1918]
+Author :
+**NAME[XXX , WWW M]
+Results Review
+General results
+Discharge Information
+Discharge Summary Information
+Admitted
+**DATE[Feb 18 2007] .
+Discharged
+**DATE[Feb 23 2007] .
+Admitting physician :
+**NAME[VVV , UUU] .
+Consulting physician :
+**NAME[TTT , SSS M] .
+Possible urosepsis.  .
+Discharge diagnosis:
+All Problems
+DVT [Deep venous thrombosis] ( ICD - 9 - CM 451.1 )
+Hypothyroidism NOS ( ICD - 9 - CM 244.9 )
+Depression , major NOS ( ICD - 9 - CM 296.00 )
+Anemia ( ICD - 9 - CM 648.2 )
+HTN [Hypertension] ( ICD - 9 - CM 401.9 )
+Gastrointestinal bleeding NOS ( ICD - 9 - CM 578.9 )
+UTI [Urinary tract infection] ( ICD - 9 - CM 599.0 )
+Fracture of hip NOS ( ICD - 9 - CM 820.8 )
+Cataract ( ICD - 9 - CM 366 )
+MRSA ( ICD - 9 - CM V09 )
+Bladder carcinoma stage IV
+Past Medical Hx ( Selected )
+Cataract ( ICD - 9 - CM 366 ) .
+Discharge medications :
+Current Medications : medication administration orders ( selected )
+pantoprazole ( Protonix ) , 40 mg , IV , Q12HRS , Start : **DATE[Feb 18 07] 21:00:00 , Recommended rate : Administer over 15 min
+levothyroxine ( Synthroid ) , 75 mcg , By Mouth , Daily , Drug Form : Tab , NOW x 1st Dose , Start : **DATE[Feb 19 07] 10:31:00
+multivitamin with minerals  , 1 tab , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Feb 20 07] 9:00:00
+senna , 2 tab ( s ) , By Mouth , At Bedtime , Drug Form : Tab , PRN , For Constipation , Start : **DATE[Feb 22 07] 11:02:00
+polyethylene glycol 3350 ( MiraLax ) , 17 gm , By Mouth , Daily , Drug Form : Powder rec , Start : **DATE[Feb 23 07] 9:00:00 , 17 gm = approx. 1 heaping tablespoon ; Dissolve in 8 ounces of water , juice , soda , coffee , tea
+piperacillin - tazobactam , 4.5 gm , IV , Q8HRS , Drug Form : Injection , Start : **DATE[Feb 23 07] 14:00:00 .
+Physical Examination
+Vital signs : normal
+Heart : normal
+Edema
+Respirations : normal
+Lungs
+Abdomen : normal
+General musculoskeletal
+Cachectic state .
+Poor nutritional status .
+Mental status
+She responds to basic commands .
+She answers with yes / no , but not very talkative .
+Hospital Course
+Hospital Course
+Admitted : from emergency department .
+Transferred : by ambulance .
+Admitting diagnosis :
+Possible urosepsis .
+Admission disposition : admit to medical bed .
+Medical management :
+Ms. **NAME[AAA] is an **AGE[in 80s]- year - old lady who was admitted through the emergency room from **INSTITUTION where she has been residing since **DATE[Feb 4 2007] , after a 9 - day hospitalization at **INSTITUTION for a GI bleed , DVT , and presumed sepsis of unknown origin .
+She was in her usual state of health the morning before admission , but while undergoing physical therapy , she was found to be tachycardic with a pulse rate of 120 .
+She stated that she felt unwell but had no specific complaints of dyspnea , chest pain , nausea , vomiting , or abdominal pain .
+She appeared to be dyspneic .
+When the pulse oximetry was done , she was found to be in 85% saturation on room air .
+Her blood pressure was also low at 88/50 .
+So she presented to the ED in **INSTITUTION hospital with tachycardia , tachypnea , hypotension and hypoxia ; given her presentation it was suspected that she was uroseptic , given + for UTI .
+Based on this diagnosis she was started on zosyn IV and admitted to the hospital .
+In the CXR it showed to have a total opacification of left lung ( white lung ) , that raised the question of large pleural effusion vs PNA .
+A CT was done and showed large pleural effusion in that left lung , we decided to tap the site to get fluid samples and get some improvement of her respiratory status .
+The samples were sent but the lab used the samples for LDH and protein levels and there was not enough for cytology or cultures .
+A pigtail was placed which drained a total of 2 L , after 24 h of not draining any material , we decided to pull the tube out .
+A Second CT was done but this time of chest , abdomen and pelvis , this one showed a big mass in the pelvis complatible with bladder carcinoma and involvement of multiple nodules in peritoneum and retroperitoneal , also left pleural metastases and right lung nodules .
+After this findings we contacted the family and given the advanced stage of her disease we adviced them that the best course of action would be make the patient CMO and send her to a nursing home with hospice care , the family agreed and today she is going to be transfered to a nursing facility for hospice care .
+The patient is very comfortable and she is not requiring any pain medications so far .
+She is still in O2 6L , stable .
+CT showed :
+CHEST :
+1. MULTIPLE ENHANCING LEFT PLEURAL METASTASES WITH LARGE LOCULATED LEFT EFFUSION , ENLARGED RIGHT HILAR NODE , AND SEVERAL RIGHT LUNG
+NODULES , LIKELY SECONDARY TO METASTATIC BLADDER CANCER .
+2. MASSIVELY ENLARGED THYROID GLAND WITH MULTIPLE NODULES SECONDARY TO GOITER .
+ABDOMEN :
+1. MULTIPLE METASTASES TO THE PERITONEUM , RETROPERITONEAL NODES AND LEFT COMMON ILIAC NODES COMPATIBLE WITH METASTATIC BLADDER CANCER .
+2. IVC FILTER .
+PELVIS :
+1. MASSIVE TUMOR INVOLVING THE BLADDER .
+2. BILATERAL COMMON FEMORAL DEEP VEIN THROMBOSIS WITH CATHETER INSERTED VIA THE LEFT FEMORAL VEIN .
+Discharge Plan
+Discharge Summary Plan
+Discharge Status : stable .
+Discharge Disposition : discharge to skilled nursing facility Nursing facilitty for hospice care .
+Prescriptions : continue same medications .
+Activity :
+As tolerated  .
+Follow Up :
+Dr **NAME[VVV] will follow her in the nursing facility .
+Addendum by **NAME[XXX , WWW M] on **DATE[Feb 23 2007] 3:54 PM
+Correction about one of discharge diagnoses : patient has no evidence of MRSA .
+Patient will need 14 days of ATB therapy , he has been on zosyn for 5 days .
+Perform by **NAME[XXX , WWW] F
+( on **DATE[Feb 23 2007] 15:28 )
+Sign by **NAME[XXX , WWW] F
+( on **DATE[Feb 23 2007] 15:28 )
+VERIFY by **NAME[XXX , WWW] F
+( on **DATE[Feb 23 2007] 15:28 )
+Modify by **NAME[XXX , WWW] F
+( on **DATE[Feb 23 2007] 15:54 )
+Sign by **NAME[XXX , WWW] F
+( on **DATE[Feb 23 2007] 15:54 )

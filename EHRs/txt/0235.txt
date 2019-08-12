@@ -1,0 +1,42 @@
+**INSTITUTION :
+Sepsis .
+OTHER PERTINENT SECONDARY DIAGNOSES :
+1. Chronic airway obstruction .
+2. Acute renal failure .
+3. Urinary obstruction .
+4. Hemoperitoneum .
+5. Diabetes mellitus type 2 .
+6. Chronic prostatitis .
+PERTINENT CONSULTS :
+1. **NAME[VVV M UUU] , M.D. ID .
+2. **NAME[VVV CCC] , M.D. , Urology .
+3. **NAME[TTT M SSS] , M.D. for renal failure .
+4. **NAME[RRR QQQ] , M.D. , Surgery .
+INVESTIGATIONS PERFORMED :
+1. CT of the abdomen and pelvis .
+2. Ventilation perfusion lung scan to rule out pulmonary embolism .
+HOSPITAL COURSE :
+The patient is a **AGE[in 70s]- year - old white male who was admitted to **INSTITUTION with chief complaint of groin pain .
+This patient was actually recently discharged from the hospital after being treated for MRSA in his urine and blood screen .
+He was treated with IV Cipro and IV vancomycin at that time .
+The patient had obstructive neuropathy due to BPH and renal failure secondary to obstructive uropathy .
+He presented at this time with groin pain , leukocytosis , bandemia , and pyuria .
+His presentation was consistent with chronic prostatitis .
+The patient was growing Proteus mirabilis in his blood , was treated with Azactam , Flagyl , and vancomycin to cover for MRSA .
+The patient was also co-managed by Nephrology and Dr. **NAME[CCC] from Urology for the BPH .
+The patient was tachypneic .
+He had a V/Q scan done to rule out PE which was negative .
+The patient 's condition continuously deteriorated .
+He did not want to be intubated .
+The patient went unresponsive , a condition C was called on him .
+He went into ventricular fibrillation .
+No electrical or chemical cardioversion was attempted with respect to documented medical care guidelines , and the patient 's asystole recorded at 10:20 p.m.
+The patient was pronounced dead at **DATE[May 26 2007] , at 10:20 p.m.
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 830538 / 41124 /
+# **ID-NUM
+D :
+**DATE[Jul 02 2007] 01:41
+T :
+**DATE[Jul 02 2007] 06:31

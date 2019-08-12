@@ -1,0 +1,63 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Apr 17 2007]
+Discharged :
+**DATE[Apr 23 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+TRANSFER DIAGNOSES :
+1. Status post open reduction and internal fixation of right hip fracture .
+2. Left popliteal vein deep vein thrombosis .
+PROCEDURES DURING HOSPITALIZATION :
+Open reduction and internal fixation of right hip fracture with DHS implant .
+BRIEF HISTORY :
+**NAME[BBB AAA] is a **AGE[in 70s]-year-old female who is status post a distal femoral replacement in **DATE[Mar] of 2006 for an infected total knee arthroplasty , now suffered a mechanical fall and ended up with a right intratrochanteric hip fracture .
+She was seen and assessed by orthopedic surgery and determined to have her fracture .
+After being seen by orthopedic surgery and cleared for surgery by the medical service , she went for her surgery on **DATE[Apr 18 2007] .
+HOSPITAL COURSE :
+The patient went for her surgery on **DATE[Apr 18 2007] , which she underwent without any preoperative or perioperative complications .
+Following a short stay in the recovery room she was transferred to the floor for postoperative management where she did well and had the following complications .
+On **DATE[Apr 22 2007] , Dopplers of the lower extremities were positive for a left popliteal vein DVT which was acute .
+Following this test , she was placed on therapeutic Lovenox consisting of 60 mg b.i.d. and started on Coumadin .
+She will continue a the Lovenox b.i.d. until her INR is therapeutic between 2 and 3 .
+Other than this , she had no other complications .
+She was followed throughout her hospital stay by the medical service of Dr. **NAME[VVV] and Dr .
+**NAME[UUU] , the physical therapist , the Pain Service , and Orthopedic Surgery .
+Other than the above , she had no complications .
+Prior to transfer she was tolerating a p.o. diet , doing well on p.o. pain medications , and voiding spontaneously .
+At this point she was deemed stable for discharge .
+TRANSFER DISPOSITION :
+The patient will be transferred in good condition .
+She should remain on Lovenox 60 mg subcu b.i.d. until her INR is therapeutic on Coumadin between 2 and 3 .
+daily PT/INR should be checked until ( _______________ ) is achieved .
+Dry dressing should be placed on a daily basis until the wound is completely clean , dry , and intact for 48 hours .
+TED hose should be worn every day for 4 weeks .
+To be removed 3 times a day for 20 minutes each time .
+Physical therapy should see the patient at least twice daily and once she is cleared to go home , she may discharged to home .
+She should follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks and his office should be called at **PHONE to confirm an appointment to be seen .
+His office should be called earlier for any increase in redness , pain , swelling , or discharge from or around the incision site , any new numbness , tingling , or weakness in any of her extremities or any other problems not specifically mentioned on her discharge instruction sheet .
+If none of these problems occur , we will see her in 2 to 3 weeks ' time .
+TRANSFER MEDICATIONS :
+The patient will remain on all of her home medications with the addition of the following :
+1. Lovenox 60 mg subcu b.i.d. until PT/INR is therapeutic between 2 and 3 on Coumadin .
+2. Coumadin 5 mg p.o. nightly .
+This is to be titrated to an INR between 2 and 3 .
+3. Vicodin 5/500 mg 1 to 2 tablets p.o. q.6 h. p.r.n. pain .
+4. Colace 100 mg p.o. b.i.d.
+5. Iron sulfate 300 mg p.o. daily .
+______________________________
+**NAME[WWW XXX] , Resident
+HS Job # 916243 / 36382 /
+SHY # **ID-NUM
+D : **DATE[Apr 23 2007] 22:00
+T : **DATE[Apr 23 2007] 22:08
+**CARBON-COPY

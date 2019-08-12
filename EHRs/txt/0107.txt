@@ -1,0 +1,45 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , CCC]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 16 2008]
+Discharged :
+**DATE[Jan 19 2008]
+Dict :
+**NAME[WWW , VVV]
+Attend :
+**NAME[ZZZ , YYY]
+Mr. **NAME[AAA] is a **AGE[in 50s]- year - old male with a known history of coronary artery bypass grafting x 5 in **STREET-ADDRESS .
+( _______________ ) at **INSTITUTION .
+He presented from **INSTITUTION where he was admitted with chest pain .
+He ruled out for myocardial infarction .
+stress test was positive for a small reversible anterolateral defect .
+He also had a medium - sized fixed inferior defect consistent with infarct and a small area of reversibility in the posterolateral segment suggestive of peri-lateral infarct ischemia .
+His ejection fraction was 47% .
+Cardiac catheterization by Dr. **NAME[UUU TTT] revealed an ejection fraction of 40% to 50% , left main trunk was short .
+LAD
+99% proximal , left circumflex 100% , mid RCA 100% , proximal LIMA to LAD , SVG to diagonal , SVG to obtuse marginal 1 and 2 , SVG to PDA were patent and functional .
+Medical management was undertaken with this patient .
+He was subsequently discharged the following day on :
+1. Aspirin 325 q. day .
+2. Lipitor 20 q.p.m.
+3. Imdur 60 q. day .
+4. Lopressor 50 b.i.d.
+5. Nitroglycerin p.r.n. for pain .
+6. Prevacid 30 q. day .
+7. Quinapril 40 mg q.a.m.
+He is to follow up with Dr. **NAME[SSS] at **NAME[RRR] Hospital in 2 weeks .
+______________________________
+**NAME[VVV WWW] , PA-C
+HS Job # 820843 / 38373 / 38218
+SHY # **ID-NUM
+D :
+**DATE[Jan 19 2008] 09:31
+T :
+**DATE[Jan 20 2008] 17:47
+**CARBON-COPY

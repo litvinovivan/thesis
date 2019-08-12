@@ -1,0 +1,52 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 21 07]
+The patient states that she is feeling much better and is brighter overall .
+She notes less shortness of breath , less cough , decreased pain , and no GI complaints .
+Her appetite is improving .
+PHYSICAL EXAMINATION :
+Vital signs are stable .
+She is afebrile .
+The neck shows no JVD .
+No evidence of masses .
+Lungs show rhonchi bilaterally but decreasing .
+The heart is regular .
+Abdomen is soft and nontender .
+In extremities , there is no cyanosis , clubbing , or edema .
+LABORATORY DATA :
+White count is 11,200 with normal differential , hemoglobin and hematocrit have increased slightly to 8.8 and 25.8 , and platelets are
+365,000 .
+Today 's INR is pending .
+IMPRESSION :
+1. Respiratory failure , improving .
+We will be continuing on present measures as outlined by the resident team .
+We will be planning on transfer back to the Psychiatry Service when the bed becomes available , likely tomorrow .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 21 2007] 10:00:45
+T :
+**DATE[Nov 21 2007] 23:10:01
+R :
+**DATE[Nov 21 2007] 23:10:01/rav
+Job ID :
+355114 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 02:57:54 PM

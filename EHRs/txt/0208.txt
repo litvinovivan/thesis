@@ -1,0 +1,46 @@
+PERTINENT CONSULTATIONS :
+1. Dr. **NAME[UUU] .
+2. Dr. **NAME[TTT] .
+PROBLEMS :
+1. Abdominal pain .
+2. Presacral abdominal mass on CT .
+3. Hyponatremia .
+4. Hypokalemia .
+5. Chronic pain .
+6. Urinary tract infection .
+The patient is a **AGE[in 30s]- year - old Caucasian female who was admitted to the CCU on account of excessive abdominal pain .
+The patient has a previous history of cervical cancer , for which she had surgery and radiotherapy at **INSTITUTION .
+On this admission , she had a CT done , which showed that she had a presacral mass , which was also present on the previous CT in **DATE[Oct] .
+The mass , however , seemed to have increased in size , and Dr. **NAME[TTT] was consulted for the mass and for abdominal pain .
+She had a CT - guided biopsy of the mass , and this was done today .
+Results will need to be followed for continuation of management .
+Dr. **NAME[UUU] also saw the patient .
+He is an oncologist who thinks the patient might need to be referred back to her previous oncologist .
+He also said that if it is cervical cancer , then nothing much will be done in terms of chemotherapy .
+She would probably need surgery or radiation therapy .
+However , that will be dependent on cytologic findings .
+The patient was also treated for a urinary tract infection with ciprofloxacin .
+She has a history of VRE in the urine ; however , we are still awaiting sensitivity pattern .
+WBC , however , is improving .
+At presentation , she also had severe hypokalemia with a value of 2.2 .
+This has been corrected .
+The value this morning was 4.4 .
+The plan is to continue her on oral supplements .
+We think her source of hypokalemia and hyponatremia is the colostomy which she has .
+Overall , she is considered clinically stable to be transferred to a regular floor bed for continuation of management .
+TRANSFER MEDICATIONS :
+1. Ciprofloxacin .
+2. Cymbalta .
+3. Potassium chloride .
+4. Morphine sulfate .
+5. Sodium bicarbonate .
+6. Dilaudid .
+Please note that a consult has just been placed for a psychiatrist 's evaluation .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 131234 / 35282 /
+# **ID-NUM
+D :
+**DATE[Nov 29 2007] 13:53
+T :
+**DATE[Nov 30 2007] 08:13

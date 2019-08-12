@@ -1,0 +1,59 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[Aug 07 2007]
+DISCHARGE DATE :
+**DATE[Aug 09 2007]
+REASON FOR ADMISSION :
+Abdominal pain .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 20s]- year-old gentleman who is status post modified multivisceral transplant for treatment of pseudo-obstruction .
+The patient is doing well .
+He was admitted now with abdominal pain , nausea , and vomiting .
+His workup showed a slight elevation of his amylase and lipase .
+An enteroscopy was performed .
+It showed normal stomach , duodenum , and jejunum allograft .
+Biopsies were taken for the jejunum allograft , and there was no rejection .
+The patient did improve his abdominal symptoms and tolerate diet .
+Decision was made to discharge the patient home with followup in clinic .
+MEDICATIONS AT DISCHARGE :
+1. Prograf 8 mg p.o. every other day .
+2. Actigall 300 mg p.o. t.i.d.
+3. Bactrim Single Strength 1 tablet p.o. q. Monday , Wednesday , and Friday .
+4. Sodium bicarbonate 1950 mg p.o. t.i.d.
+5. Imodium 30 mL p.o. q.i.d.
+6. Clonazepam 0.5 mg p.o. b.i.d.
+7. Nystatin 5 mL p.o. , swish and swallow q.i.d.
+8. Protonix 40 mg p.o. once a day .
+9. Remeron 30 mg p.o. once a day .
+10. Trazodone 75 mg p.o. once a day .
+11. Slow-Mag 64 mg p.o. t.i.d.
+12. Cytovene 500 mg p.o. b.i.d.
+13. Prevacid 30 mg p.o. once a day .
+14. Percocet 1 tablet p.o. every 6 hours if necessary for pain .
+___________________________________
+**NAME[XXX M ZZZ YYY]
+Dictator :
+**NAME[VVV WWW] , M.D.
+GC/ak
+D :
+**DATE[Aug 18 2007] 17:05:57
+T :
+**DATE[Aug 19 2007] 03:47:31
+R :
+**DATE[Aug 19 2007] 03:47:31/ak
+Job ID :
+352051 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , UUU] ***
+Electronically Signed by **NAME[XXX CCC]
+**DATE[Aug 23 2007] 02:37:26 PM

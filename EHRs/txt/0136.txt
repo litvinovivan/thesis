@@ -1,0 +1,50 @@
+**INSTITUTION
+TRAUMA
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M. XXX] , M.D.
+ADMISSION DATE :
+**DATE[Mar 04 2007]
+EVALUATION DATE :
+**DATE[Mar 05 07]
+I saw the patient on rounds with the trauma team .
+I interviewed and examined the patient at the bedside .
+I reviewed the house staff note .
+I agree with the findings .
+I discussed the management plan with the trauma team and with the patient .
+The patient is a **AGE[in 20s]- year - old female admitted yesterday with abdominal pain .
+She reported had tripped over her dog and fell on steps , landing on her left side on **DATE[Feb 21 2007] and has been having some abdominal pain .
+She also has a history of pancreatitis in the past of unclear etiology .
+At **INSTITUTION she was found to have significant splenic injury and was transferred here for further evaluation and management yesterday .
+The patient states that she had some p.o. intake this morning and feels somewhat bloated .
+Her abdominal pain , however , is unchanged .
+She is afebrile .
+Her vital signs are stable .
+Her sclerae are clear .
+Her chest is clear anteriorly .
+Her abdomen is soft .
+She does have left - sided tenderness with voluntary guarding , no involuntary guarding .
+Her extremities are symmetric , warm , and well perfused .
+Neurologic is nonfocal .
+Her hemoglobin and hematocrit that we have been checking have been relatively stable with no significant drop .
+Her creatinine yesterday was 0.8 .
+I looked at the CT scan from **INSTITUTION that was done on **DATE[Mar 04 2007] and there is evidence of splenic laceration with subcapsular hematoma about a grade 3 injury .
+There is no free blood in the pelvis .
+No other obvious injuries to my read .
+She has her splenectomy vaccines ordered .
+We are getting the patient out of bed with assistance today , and we will let her have diet as tolerated .
+We will continue to follow her hemoglobin and hematocrit somewhat less frequently about every 12 hours that she has remained stable and this has delayed diagnosis .
+I am going to check an amylase and lipase tomorrow and I am also going to obtain a CT scan of abdomen and pelvis with IV contrast tomorrow to evaluate for any progression or evidence of pseudoaneurysm formation .
+I have discussed this with the patient .
+CPT :
+99232 .
+__________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+***FOOTER-BLOCK

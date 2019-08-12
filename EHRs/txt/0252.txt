@@ -1,0 +1,193 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] F
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Male
+DOB :
+**DATE[Jun 14 1922]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 80s] year old , widowed , white male with h/o NPH , CAD , s/p CABG presents to ED with h/o difficulty with ambulation , urinary incontinence and worsening dementia per family .
+Past Medical History :
+Dementia
+NPH
+CAD , s/p CABG
+HTN
+A-fib , on Coumadin
+Hyperlipidemia
+TIA
+Carotid stenosis
+Spinal stenosis
+BPH
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Pt. with increased confusion and agitation throughout the night as per nursing staff .
+Fell in bathroom hitting elbow and head .
+Reports his neck aches but he " attributes that to his wife squirting the hose at him ".
+Denies h/a .
+Vital signs
+**DATE[Jul 25 2007] 4:00:00 AM .
+BP : systolic 89 , diastolic 63 .
+Pulse :
+76 beats per min .
+Resp :
+20 breaths / min .
+Temp :
+36.3 degrees Celsius .
+Physical Exam
+General Appearance :
+Pt. lying in bed in NAD .
+Cardiovascular :
+Distant heart tones .
+RRR without murmurs .
+Respiratory :
+CTA throughout .
+Gastrointestinal :
+NABS x 4 .
+Soft , nontender , nondistended .
+Skin :
+Warm , dry , and intact .
+Skin on back + blanched macular rash .
+Neurological :
+Pt. awake and alert .
+Oriented to person only .
+Extremities : no e/c/c in BLE .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 26 2007] 4:00 AM
+Na 141 mEq / L
+K 4.3 mEq / L
+Cl 105 mEq / L
+CO2 26 mEq / L
+Anion Gap 10.0
+BUN 30 mg / dL High
+Cr 1.6 mg / dL High
+GFR ( estimated ) 44.00 mL / min / 1.73 m2 Low
+( Modified )
+Glucose 108 mg / dL High
+WBC 10.9 X10E+09 / L High
+RBC 4.11 X10E+12 / L Low
+Hgb 12.2 gm / dL Low
+Hct 35.0 % Low
+MCV 85.2 fL
+MCH 29.6 pg
+MCHC 34.8 gm / dL
+RDW 14.8 %
+MPV 8.3 fL
+Platelets 256 X10E+09 / L
+Neutrophils 67 %
+Lymphs 23 %
+Monocytes 8 %
+Eosinophils 2 %
+Basophils 0 %
+ABS Neutrophils 7.30 X10E+09 / L
+ABS Lymphs 2.40 X10E+09 / L
+ABS Monocytes 0.80 X10E+09 / L
+ABS Eosinophils 0.20 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+**DATE[Jul 26 2007] 2:30 AM
+Sample Appearance , Fluid Clear
+Supernatant , Fluid Colorless
+Tube Number , Fluid 0
+WBC , Fluid 0 /cu mm
+RBC , Fluid 0 /cu mm
+Glucose , CSF 66 mg / dL
+Protein , CSF 125 mg / dL Critical High
+Other Studies :
+MRI / MRA 1/17 :
+SMALL VESSEL DISEASE CHANGES ARE SEEN ALONG WITH SOME PROMINENCE OF THE VENTRICULAR SYSTEM .
+MR ANGIOGRAM INTRACRANIAL VESSELS :
+FINDINGS :
+3-D time - of - flight sequences of the intracranial vessels were obtained .
+There is some minimal vessel irregularity of most intracranial branches in particular , the posterior cerebral arteries .
+No major vessel cut off or occlusion is identified .
+No suggestion of intracranial aneurysm is seen .
+Mild irregularity , probably representing minor atheromatous disease is seen in the carotid siphon bilaterally .
+The distal vertebral arteries and basilar artery are unremarkable .
+IMPRESSION :
+MILD INTRACRANIAL ATHEROMATOUS CHANGES ARE NOTED .
+Impression and Plan
+Impression
+**AGE[in 80s] yo male admitted with worsening dementia , urinary incontinence , and difficulty ambulating ; pt. to undergo lumbar drain trial for NPH evaluation .
+Plan
+1. Neurological - h/o dementia , NPH , TIA .
+Admitted with worsening dementia and ambulation .
+Neurology consulted - input appreciated .
+Patient was on Aricept in past with no benefit , but side effects per attending , therefore , will not resume at this time .
+MRI C-Spine :
+IMPRESSION : MULTILEVEL DEGENERATIVE CHANGES OF THE CERVICAL SPINE AS ABOVE WHICH ARE MOST SIGNIFICANT AT THE C5-C6 LEVEL WHERE THERE IS CORD COMPRESSION AND MILD CENTRAL CANAL STENOSIS BUT NO ABNORMAL CORD SIGNAL .
+B-12 level 372 .
+Neurosurgery consulted ( 7897 ) to evaluate for trial of CSF removal and their impression of compression . Recommended NPH evaluation with lumbar drain trial .
+Geriatric Psych c/s for acute change in dementia - appreciate input .
+Recommended MRI brain for further w/u of ischemic etiology and to eval. for TIA .
+Also rec. to replace Vit. B12 due to low end nml level .
+Consider further eval. for Parkinson 's disease .
+No psychiatric indication for a diagnostic spinal tap .
+Attending waiting for input then will address with son , **NAME[VVV , UUU].
+Pt. seen by psych 1/18 - feel that the pt. somewhat improved .
+He was able to name objects and state days of the week .
+Feel that pt. may have a worsening delerium superimposed upon upon his baseline dementia .
+Rec. to avoid benzos and anticholinergics .
+Appreciate input .
+MRI 1/17 revealed small vessel changes ; MRA 1/17 revealed mild changes .
+Lumbar drain placed 1/22 for NPH eval .
+NSG following for LD output with goal 5-10 per hour .
+Lumbar drain day #5 .
+Pt. very confused and agitated during the night as per nursing staff .
+Pt. fell in bathroom during the night hitting elbow and head .
+Pt. still very confused this AM .
+Oriented to person only .
+Stat head CT showed minimal decrease in ventricular size , otherwise unchanged .
+Left elbow x-ray negative for fx or dislocation .
+Also , pt. pulled out LD , which was replaced by NSG .
+DGI test again today - will await further input from NSG .
+CSF sample continues to show elevated protein .
+2. Cardiology - h/o CAD , s/p CABG , A-fib .
+Pt. remains in NSR .
+Coumadin currently on hold for trial while LD in place .
+Per attending , no need to bridge with Heparin .
+Will need to be restarted on Coumadin prior to d/c if deemed safe - h/o multiple falls .
+Continue other meds and observe .
+3. Renal - Pt. found to have + protein in urine upon admission .
+Repeat U/A to R/O UTI contributing to altered MS .
+1/18 revealed 30 + protein as well as blood noted .
+BUN / Cr increased as well .
+Will need outpt w/u for microscopic hematuria .
+4. Disposition - Placement has been initiated .
+Family will need to discuss further pending the results of NPH trial .
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this Document : PA-C
+Addendum by **NAME[XXX , WWW M] on **DATE[Jul 26 2007] 1:25 PM
+Pt. hit head during fall last evening .
+Prelim. report of stat head CT was negative for bleed ; revealed no changes since prior study .
+Pt. with increased agitation this AM .
+Nursing staff reports difficulty getting pt. out of bed for PT secondary to weakness and difficulty standing .
+Pt. given Risperdal 0.5 mg for agitation .
+Immediately following administration , pt. began seizing .
+Cond. C called .
+Ativan given .
+Pt. vomited and required intubation .
+Family aware of pt 's condition .
+Dr. **NAME[SSS] notified .
+Pt. stabilized and transferred to 4F .
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Jul 26 2007] 13:09 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Jul 26 2007] 13:09 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Jul 26 2007] 13:09 )
+Modify by **NAME[XXX , WWW M]
+( on **DATE[Jul 26 2007] 13:25 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Jul 26 2007] 13:25 )

@@ -1,0 +1,59 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A4B/440
+SERVICE OF :
+**NAME[ZZZ M YYY XXX]
+DATE OF ADMISSION :
+**DATE[Dec 09 2007]
+DATE OF DISCHARGE :
+**DATE[Dec 13 2007]
+ADMITTING DIAGNOSIS :
+Degenerative joint disease , right knee .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Hyperlipidemia .
+PRINCIPAL PROCEDURE :
+Right total knee arthroplasty .
+DISCHARGE DIAGNOSES :
+1. Degenerative joint disease , right knee .
+2. Hypertension .
+3. Hyperlipidemia .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 50s]- year - old female with ongoing degenerative arthritis of the right knee .
+She has pain on a daily basis and failed conservative treatments including antiinflammatories , activity modification , cortisone injections , and viscosupplementation .
+After having pain on a daily basis and limitation of her activities , she elected to proceed with a right total knee arthroplasty , performed by Dr. **NAME[XXX] .
+HOSPITAL COURSE :
+The patient was admitted to Dr. **NAME[XXX] 's service on **DATE[Dec 9 2007] , with the diagnosis of degenerative joint disease of the right knee .
+She underwent a right total knee arthroplasty on the date of admission without complication .
+She was transferred to recovery in stable condition .
+Recovery routine vitals and neuro checks were initiated as well as x-rays , AP and lateral views of the right knee were obtained , which revealed satisfactory alignment of the prosthesis .
+She spent a short time in recovery and then was transferred to the orthopedic unit where she remained for the rest of her hospital stay .
+Dr. **NAME[UUU] was consulted for medical management and anticoagulation management .
+Physical therapy and occupational therapy were consulted for weightbearing as tolerated and gait training to the right lower extremity .
+Daily PT / INR s and hemoglobin and hematocrit levels were checked .
+The patient 's anticoagulation status was monitored by Dr. **NAME[UUU] .
+The patient 's Hemovac drain and dressing were removed on postoperative day #2 and her Foley catheter as well was discontinued on postoperative day #2 .
+Her postoperative course was uneventful .
+She was discharged to home on **DATE[Dec 13 2007] , in stable condition .
+DISCHARGE MEDICATIONS :
+Included Coumadin and Percocet .
+DISCHARGE INSTRUCTIONS :
+Included home healthcare to visit for wound checks , blood draws , physical therapy , and staple removal in 2 weeks postoperatively .
+Followup with Dr. **NAME[XXX] was scheduled in 3 weeks upon discharge .
+There were no complications during this patient 's hospital stay .
+DICTATED BY :
+**NAME[TTT SSS] , PAC
+___________________
+**NAME[ZZZ M. XXX , YYY] , M.D.
+Dict :
+**DATE[Jan 15 2008] 12:35:12
+Tran :
+**DATE[Jan 15 2008] 13:33:16
+**INITIALS
+R :
+**DATE[Jan 15 2008] 13:33:16/aj
+**CARBON-COPY

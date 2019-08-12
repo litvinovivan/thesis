@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Jan 01 08]
+Mr. **NAME[AAA] has done well overnight .
+He is without complaints .
+This morning on exam he is afebrile .
+Vital signs are stable .
+He is breathing comfortably between 18 and 24 times a minute .
+Oxygen saturations are 98% on six liters nasal cannula .
+Chest is clear .
+Abdomen is soft .
+His extremities are warm and well-perfused .
+Laboratory examination shows a mild hyponatremia .
+His bicarbonate is up to 35 with his diuresis .
+Ins and outs were overall net negative .
+Today I have discontinued his Lasix .
+I have changed his intravenous Dilaudid to p.o.
+We have got him out of bed into a chair .
+He is tolerating his tube feeds and should be stable for transfer out of the intensive care unit .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 01 2008] 20:47:05
+T :
+**DATE[Jan 01 2008] 20:58:19
+R :
+**DATE[Jan 01 2008] 20:58:19/caa
+Job ID :
+409867 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:27 PM

@@ -1,0 +1,47 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 10 2008]
+EVALUATION DATE :
+**DATE[Jan 12 08]
+The patient was seen and examined by myself .
+Laboratory values and chest x-ray film were reviewed by myself .
+He remains in the Intensive Care Unit and suffers from the following problems :
+1. Respiratory failure - The patient is status post laryngectomy and right neck dissection .
+He remains on mechanical ventilation .
+We tried to wean him yesterday ; however , he did not tolerate that .
+Today , he is doing well on pressure support of 10 .
+The plan is to wean that to a tracheostomy mask .
+The patient had a significant history of COPD , and I am afraid if we do not get him off the ventilatory quickly , we might have difficulty getting him off the ventilator , so we will be a little more aggressive .
+I have already gave the instructions to the respiratory therapist to do so .
+2. COPD - The patient is on multiple medication for that including theophylline .
+We will continue on that , and we will continue on albuterol and Atrovent .
+3. DVT prophylaxis - He is on SCDs and also on heparin .
+4. GI prophylaxis - He is receiving Pepcid .
+I SPENT A TOTAL OF 32 MINUTES ASSESSING , EVALUATING , AND MANAGING MR. **NAME[AAA] .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+AHA/cap
+D :
+**DATE[Jan 12 2008] 13:06:25
+T :
+**DATE[Jan 12 2008] 13:48:13
+R :
+**DATE[Jan 12 2008] 13:48:13/cap
+Job ID :
+343963 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:27:17 PM

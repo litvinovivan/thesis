@@ -1,0 +1,39 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 22 2007]
+Discharged :
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+The patient was admitted for catheterization .
+He was known to have a high - grade right coronary lesion which is a codominant , but large vessel .
+It had 90% disease .
+We used a 2.5 balloon to predilate the lesion , and then deployed and implanted a 3.0 x 28 Cypher stent .
+We had to use a postdilatation balloon at high pressures to fully deploy the stent .
+This was a 3.0 balloon as well .
+His discharge medications are same as he was admitted on .
+He will need long - term aspirin and Plavix .
+FINAL DIAGNOSES :
+1. Coronary artery disease .
+2. Coronary stenting .
+3. Obesity .
+4. Hypertension .
+5. Hyperlipidemia .
+6. Diabetes .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 875820 / 39816 / 33037
+SHY # **ID-NUM
+D :
+**DATE[May 22 2007] 13:11
+T :
+**DATE[May 22 2007] 16:50
+**CARBON-COPY

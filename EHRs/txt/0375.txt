@@ -1,0 +1,50 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Sep 10 2007]
+Discharged :
+**DATE[Sep 17 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+TRANSFER DIAGNOSIS :
+Status post right total knee arthroplasty .
+ATTENDING PHYSICIAN :
+Dr. **NAME[ZZZ] .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year-old patient of Dr. **NAME[ZZZ] with right knee DJD .
+She was brought into the day of admission surgery unit at **INSTITUTION for elective total knee arthroplasty on the right on **DATE[Sep 10 2007] .
+The patient tolerated this procedure well and was transferred to the regular nursing floor postoperatively .
+For detail description of this procedure please see the operative note dated **DATE[Sep 10 2007] .
+The patient tolerated the procedure well and her pain managed by the postoperative pain service using nerve block catheters , IV , and oral pain medications .
+The patient did well postoperatively , however , she did have a small amount of drainage from her incision site which was serous in nature .
+This slowed and eventually stopped by postoperative day 7 .
+The patient was ambulatory by postoperative day 5 with physical therapy .
+She did report having some pain and was reluctant to participate fully with physical therapy until postoperative day 5 .
+The patient was anticoagulated with Coumadin for DVT prophylaxis postoperatively .
+Her INR was therapeutic at the time of her discharge .
+At the time of her discharge , she is afebrile , vital signs are stable , H and H are within normal limits , and her INR is therapeutic .
+FOLLOWUP INSTRUCTIONS :
+The patient is to follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks .
+She should continue physical therapy while at rehabilitation , be weightbearing as tolerated on her right lower extremity .
+She is to continue taking her Coumadin as prescribed .
+She should have q. Monday and Thursday blood draws for PT and INR .
+These results should be called at **ID-NUM by 2 p.m. on the day of draw .
+**NAME[VVV UUU] will call with any adjustments to Coumadin dosing as needed .
+If the patient develops and additional problems with her right lower extremity such as increased erythema , pain , numbness , or tingling or other problems , she should contact Dr. **NAME[ZZZ] 's office immediately .
+______________________________
+**NAME[WWW XXX , CCC]
+HS Job # 788312 / 38142 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 17 2007] 19:30
+T :
+**DATE[Sep 17 2007] 19:42
+**CARBON-COPY

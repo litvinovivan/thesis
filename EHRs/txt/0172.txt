@@ -1,0 +1,76 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 08 2008]
+EVALUATION DATE :
+**DATE[Jan 16 08]
+A **AGE[in 70s]- year - old male .
+Overnight events were reviewed .
+Medications and labs were reviewed .
+Condition is stable at **INSTITUTION 10 D .
+ASSESSMENT :
+1. Heme .
+CML / AML , non - candidate for CTX / surgery .
+Pain control , supportive measures .
+No opportunistic infection .
+Catabolic deconditioning , PT and OT .
+2. Endstage renal disease , HD Monday , Wednesday , and Friday .
+Volume control per HD .
+Salt - poor albumin p.r.n.
+3. Left parotiditis , resolved .
+No fever or leukocytosis .
+Swelling decreased .
+No pain .
+4. Diabetes mellitus .
+Accu-Chek sliding scale insulin .
+No diabetic foot lesions , ketoacidosis , hypoglycemia , and dehydration .
+5. Coronary artery disease , cardiomyopathy , and atrial fibrillation .
+S1 variable .
+No audible S3 or S4 gallop .
+Flow murmur stable .
+MR murmur stable .
+No cardiovascular decompensation .
+Left anterior hemiblock , right bundle branch block .
+No CHF , no chest pain .
+6 . Hypothyroidism .
+Euthyroid stable .
+Synthroid .
+7. Hypercholesterolemia , asymptomatic .
+No abdominal pain or pancreatitis .
+8. GERD , asymptomatic .
+Stable .
+PPI .
+Abdomen :
+Soft and nontender .
+No nausea , vomiting , or GI bleed .
+9. CVA , cerebellar ICH .
+Cognitive function and psychomotor function stable .
+Tracking commands .
+Protective reflexes intact .
+DVT , ulcer , and seizure prophylaxis .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+RWB/ss
+D :
+**DATE[Jan 20 2008] 11:20:08
+T :
+**DATE[Jan 21 2008] 01:36:59
+R :
+**DATE[Jan 21 2008] 01:36:59/ss
+Job ID :
+354423/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 08 2008] 07:53:00 PM

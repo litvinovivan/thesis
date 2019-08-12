@@ -1,0 +1,106 @@
+**INSTITUTION
+TRAUMA
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+DISCHARGE DATE :
+**DATE[Jan 12 2008]
+DISCHARGE DIAGNOSIS( ES ):
+1. Cholecystitis .
+2. Pancreatitis .
+3. Superior mesenteric artery aneurysm repair .
+4. Duodenal stricture .
+SERVICE :
+Surgery .
+ATTENDING :
+Dr. **NAME[ZZZ] .
+PROCEDURES :
+1. **DATE[Nov 19 2007] - Superior mesenteric artery aneurysm repair with PTFE graft and reimplantation of branches .
+2. **DATE[Nov 20 2007] - Exploratory laparotomy with gastropexy .
+3. **DATE[Dec 16 2007] - Exploratory laparotomy with drainage of abscess .
+Placement of JG tube and fascia closure .
+**INSTITUTION COURSE :
+This is a **AGE[in 40s]-year-old male who back in **DATE[Jun 2007] presented with severe biliary pancreatitis and a ruptured gallbladder .
+At this time , a percutaneous cholecystotomy tube was placed and currently at this time is still in place .
+As a complication , he developed multiorgan failure and has quite a tenuous course over the past few months .
+The patient subsequently developed a SMA aneurysm that required a graft repair on **DATE[Nov
+19 2007] .
+He did have an upper GI with small-bowel followthrough .
+On **DATE[Nov 31 2007] , it showed narrowing at the D2 level of duodenum .
+Subsequently , his stay was then complicated with respiratory failure , ARDS , sepsis for which he spent some time in the Intensive Care Unit .
+In the beginning of **DATE[Jan 2008] , the patient was transferred out of the ICU to the monitored floor .
+Since then , his stay has been relatively unremarkable and appeared to be improving daily .
+Neurologically :
+This patient does have a history of schizoaffective disorder , and on the floor , his affect has been relatively stable on the medications bupropion and olanzapine .
+Cardiovascular :
+High blood pressure that is maintained with metoprolol b.i.d. 100 mg .
+Pulmonary wise :
+Over the past week , his oxygen saturation has ranged between 95% and 100% without any supplemental oxygen .
+GI wise :
+He has been receiving tube feeds of Jevity at 40 mL per hour .
+Plan is to advance his tube feeds to 45 , then up to 65 slowly as much as the patient can tolerate .
+As the patient does have duodenal strictures , the patient has been kept on a clear only diet including JELL-O and soup .
+Hematologically :
+His hemoglobin and hematocrit have been stable .
+Infectious Disease :
+Recently , the patient had complaint of urinary tract symptoms including discomfort on urination .
+He had a urine culture that did not grow any bacteria .
+However , it did grown yeast and he will be discharged with Diflucan .
+Genitourinary :
+On **DATE[Jan 12 2008] , Urology did change it to suprapubic catheter .
+This catheter had been placed originally because the patient at one point during his stay had pulled the full catheter through his urethra damaging .
+Recently , the patient stated that he has been able to urinate through his penis as normal .
+Prophylaxis :
+The patient is on heparin subcutaneous 5000 units as well as Pepcid .
+Drains :
+The patient has a right PTC that drains bile , a GJ tube on the left side .
+Medications should only be put through the G-tube and never through the J-tube .
+Tube feeds are to be given through the J-tube .
+Wounds :
+The patient has a midline incision from prior surgery which at the time of discharge had been healing well .
+DISCHARGE CONDITION :
+Stable .
+DISPOSITION :
+Discharged to the Transitional Care Unit at Montefiore .
+MEDICATIONS :
+1. Aspirin 81 mg .
+2. __________ application topically .
+3. Bupropion 100 mg through G-tube t.i.d.
+4. __________ 20 mg G-tube b.i.d.
+5. Heparin subcutaneous 5000 units every 12 hours .
+6. He is on a monitored scale of regular insulin .
+7. Metoprolol 100 mg G-tube b.i.d.
+8. Mirtazapine 15 mg G-tube nightly .
+9. Olanzapine 20 mg G-tube nightly .
+10. Hydromorphone 2 mg G-tube q.2 hours p.r.n. for pain .
+11. Senna 10 mL G-tube daily p.r.n. for constipation .
+12. Diflucan 150 mg G-tube daily x 3 days .
+13. Dulcolax suppository 10 mg per rectum daily p.r.n. for constipation .
+14. Milk of magnesia 30 mL G-tube p.r.n. for constipation .
+DISCHARGE INSTRUCTIONS :
+The patient will be set up to work with physical therapist and occupational therapist .
+He is to be out of bed and ambulating as tolerated with assistance .
+Around **DATE[Feb 16 2008] , the patient is to have a PTC catheter study to assess for biliary leak .
+He is also to have an upper GI study through the G-tube to evaluate the duodenal stricture .
+Scripts for these studies were written for the patient .
+___________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+AL/vm
+D : **DATE[Jan 12 2008] 20:04:51
+T : **DATE[Jan 12 2008] 22:34:55
+R : **DATE[Jan 14 2008] 06:08:51/sg
+Job ID :
+424561 /**ID-NUM
+Cc:
+*** Dictated By : -**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 15 2008] 09:25:37 AM

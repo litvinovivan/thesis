@@ -1,0 +1,55 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[UUU : YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 27 07]
+I am managing this critically ill , **AGE[in 40s]- year - old male , who is recovering from pancreatitis .
+His course has been complicated by an SMA aneurysm , status post repair , as well as an infected phlegmon , status post debridement , with ARDS and subsequent respiratory insufficiency. I am seeing him for management of these issues .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data and discussed the management with the general surgeons .
+Problems and management are as follows :
+1. Respiratory failure :
+Chest x-ray today shows some decrease in his bilateral infiltrates .
+Last night I rested him on BiPAP .
+This morning he has done much better off the BiPAP with comfortable respiratory rate between 18 and 24 breaths per minute , oxygen saturations in the mid - 90s on the 6 liter oximyzer .
+I would like to try and to keep him off BiPAP tonight if possible .
+He is starting to developed a little bit of the decubitus of the bridge of his nose .
+I have asked Wound Care to come by and see that .
+2. Pancreatitis :
+The abdomen is soft , he is tolerating his tube feeds at his goal rate and clinically he seems to be improving .
+His white blood cell count is 4.9 and he has been afebrile .
+He remains on Meropenem as well as linezolid for treatment of his infection .
+3. ICU prophylaxis :
+He is being tube fed at his goal rate .
+His albumin level was 2.1 today , prealbumin is still pending .
+His glycemic control has been adequate .
+He is on Heparin dose for his SMA repair , but he has had some bleeding from the lower aspect of the wound .
+If he continues to bleed , I will be obligated to turn off the Heparin , at this point .
+He is a little bit dry intervascularly and I have decreased his Lasix dose .
+He continues to diurese nicely .
+TOTAL CRITICAL CARE TIME EQUALS 40 MINUTES
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 27 2007] 17:09:05
+T :
+**DATE[Dec 27 2007] 20:29:40
+R :
+**DATE[Dec 27 2007] 20:29:40/drl
+Job ID :
+406231 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:22 PM

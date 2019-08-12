@@ -1,0 +1,80 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] J
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Jan 13 1933]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt transferred to **INSTITUTION from **INSTITUTION TCU for mental status changes .
+Past Medical History :
+CAD
+Ischemic cardiomyopathy
+Diastolic dysfunction
+CHF
+S/P CABG
+DM
+ESRD - Tues , Thurs , Sat
+Hypothyroidism
+Hypercholesterolemia
+GERD
+C-diff
+Herpes Zoster
+Subjective / Events Overnight :
+Pt without complaints .
+Physical Exam
+General Appearance :
+NAD .
+Head :
+L parotid area swelling resolved .
+Cardiovascular :
+IRRR .
+Respiratory :
+CTA .
+Gastrointestinal :
+Soft , NT , ND .
+Genitourinary :
+Foley draining light yellow urine .
+Musculoskeletal :
+Neg. edema ; SCD s Bilat LE .
+Neurological :
+AAO - to person , place , and 2007 .
+Impression and Plan
+Impression
+Pt transferred from TCU for mental status changes .
+Plan
+Neuro - L post fossa extraaxial bleed 3.3 x 3.5 with mass effect on cerebellar .
+As discussed with NeuroSurg , keep platelets at least 20,000 .
+As discussed with Neurology , Pt can f/u in neuro clinic in a few wks .
+Renal - ESRD - Currently receiving HD prn - Received it 1/19 .
+As per pallative care note , " renal strongly feels further dialysis is as likely to end his life via infection as prolong it with dialysis .
+I will feed this information back to the family .
+Try to set up meeting - Fri , Sat , Sun ."
+Heme - CML to AML - Heme C/s - On Hydrea - inc dose .
+S/p Transfusion of mult. 6 pks platelets - Transfuse if &lt ; 20,000 .
+Pt received HLA matched platelets .
+Pallative care consult - Pt DNR / DNI with exceptions ( incl. blood and blood products ) .
+Cards - Cards c/s for wide QRS , A fib controlled .
+On Toprol .
+Keep INR
+1.3 / 1.4 - Pt is self - anticoagulated .
+HEENT - Parotiditis - IV Ancef for 7 days total - completed course .
+Resolving .
+Dispo - Pending .
+Social work c/s for SNF placement pending on decision re : HD .
+Case discussed with Dr. **NAME[ZZZ] .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Jan 19 2008] 17:51 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Jan 19 2008] 17:51 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Jan 19 2008] 17:51 )

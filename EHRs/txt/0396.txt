@@ -1,0 +1,97 @@
+Transfer Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Female
+DOB :
+**DATE[Jul 18 1922]
+Author :
+**NAME[XXX , WWW M]
+Discharge Information
+Discharge Summary Information
+Admitted
+**DATE[Dec 24 2007] .
+Discharged
+**DATE[Dec 26 2007] .
+Admitting physician :
+**NAME[VVV , UUU] .
+Left hip pain .
+Discharge diagnosis :
+All Problems ( Selected )
+HTN [Hypertension] ( ICD - 9 - CM 401.9 )
+Depression , major NOS ( ICD - 9 - CM 296.00 )
+Fracture of hip NOS ( ICD - 9 - CM 820.8 )
+Constipation ( ICD - 9 - CM 564.0 )
+Degenerative arthritis NOS ( ICD - 9 - CM 715.9 )
+Severe DJD right and left hip
+Past Medical Hx
+Degenerative arthritis NOS ( ICD - 9 - CM 715.9 ) .
+Discharge medications :
+Current Medications : medication administration orders
+( selected ) calcium - vitamin D ( calcium and vitamin D combination 500 mg-200 iu oral tablet ) , 1 tab( s ) , By Mouth , TIDmeals ,
+Drug Form : Tab , Routine ,
+Start : **DATE[Dec 24 07] 17:00:00
+sertraline ( Zoloft ) , 25 mg , By Mouth , QAM ,
+Drug Form : Tab ,
+Start : **DATE[Dec 25 07] 8:00:00
+amlodipine ( Norvasc ) , 10 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start: **DATE[Dec 25 07] 9:00:00
+acetaminophen ( Tylenol Extra Strength ) , 2 Caplet( s ) , By Mouth , Q8HRS ,
+Drug Form : Caplet ,
+Start : **DATE[Dec 25 07] 14:00:00 ,
+Do not exceed 4 grams acetaminophen per 24 hours risperidone , 0.25 mg , By Mouth , BID ,
+Drug Form : Tab ,
+Start : **DATE[Dec 25 07] 21:00:00 .
+Will also continue her centrum and her eye drops .
+Physical Examination
+Vital signs : normal
+Heart : normal
+Edema
+Respirations : normal
+Lungs : normal
+Abdomen : normal
+General musculoskeletal
+Severe DJD in both hip , pain more in left now .
+Mental status
+Alert and oriented .
+At her baseline .
+Hospital Course
+Hospital Course
+Admitted : from emergency department .
+Transferred : by ambulance .
+Admitting diagnosis :
+Left hip pain secondary to severe DJD .
+Admission disposition : admit to medical bed .
+Medical management :
+**AGE[in 80s] yo female with a significant PMH for severe DJD that presented to the ED with severe pain in the left hip .
+She had been having troubles with the right hip secondary to her DJD but the left hip had never really bother her .
+2 days before admission she started to complain of a minimal complain in the left hip but it was very tolerable so she decided to control this with the same medication she was taking for the right hip pain .
+The medication did not help and for the last 12 h the pain had been excruciating so she decided to come to the ED .
+She described the pain as an excruciating pain **DATE[Sep 11] , sharp that does not radiate and worst when in motion .
+Also her concerned was that her pain was always in the right hip but not in the left .
+She denied any fall .
+At home she was controlling her pain with tramadol , but not very succesfully .
+When admitted x rays were done in ED and no fracture was obvious , we decided to control the pain with oxycodone , that controlled the pain very well but made the patient a bit confuse .
+Also she became agitated during her hospitalization probably secondary to being in the hospital , acute distress of the pain and pain medications .
+It was neccesary to put her on restraints fro couple of hours but after this she was no agitated so there were taken off and she did not require any more , she recieved risperidone 0.25 PO that seemed to work very well .
+Being the pain under controlled now , we will send her to SNF for rehab and also is not safe at home for her given her bilateral hip pain .
+Discharge Plan
+Discharge Summary Plan
+Discharge Status : improved .
+Discharge Disposition : discharge to skilled nursing facility .
+Prescriptions : continue same medications .
+Activity :
+As tolerated .
+Follow Up :
+Dr **NAME[ZZZ] in 2-3 weeks in SNF .
+Perform by **NAME[XXX , WWW] F
+( on **DATE[Dec 26 2007] 17:03 )
+Sign by **NAME[XXX , WWW] F
+( on **DATE[Dec 26 2007] 17:03 )
+VERIFY by **NAME[XXX , WWW] F
+( on **DATE[Dec 26 2007] 17:03 )

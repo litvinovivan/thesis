@@ -1,0 +1,103 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Apr 23 2007]
+Discharged :
+**DATE[Apr 29 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY DISCHARGE DIAGNOSES :
+1. Pulmonary fibrosis secondary to interferon use .
+2. Pneumonia .
+3. Lethargy .
+4. Hepatitis C .
+5. Chronic pain .
+SECONDARY DISCHARGE DIAGNOSES :
+1. Hypothyroidism .
+2. Diabetes mellitus .
+3. History of recurrent ascites .
+4. History of portal hypertension secondary to hepatitis C .
+5. History of Clostridium difficile colitis .
+TRANSFER CONDITION :
+Stable .
+PROCEDURES :
+1. On **DATE[Apr 24 2007] , chest x-ray showed bilateral pulmonary fibrosis , unchanged , no acute cardiopulmonary change .
+2. On **DATE[Apr 22 2007] , chest x-ray showed diffuse bilaterally pulmonary infiltrates or edema , unchanged .
+3. On **DATE[Apr 21 2007] , chest x-ray showed bilateral interstitial fibrosis , superimposed bilateral pneumonia cannot be excluded .
+CONSULTS :
+Dr. **NAME[VVV UUU] ( GI ) .
+REASON FOR ADMISSION :
+Ms. **NAME[AAA] is a **AGE[in 40s]- year - old female with a history of hepatitis C and pulmonary fibrosis secondary to interferon treatment who is transferred from **INSTITUTION with a chief complaint of shortness of breath .
+**INSTITUTION COURSE :
+Ms. **NAME[AAA] is a **AGE[in 40s]- year - old female with a history of hepatitis C and pulmonary fibrosis secondary to interferon treatment who was admitted from **INSTITUTION with a chief complaint of shortness of breath .
+During her admission to the outside hospital , she was noted to have pneumonia and was started on IV Zosyn and IV vancomycin for this .
+In addition , she was noted to be lethargic .
+For her pneumonia , we maintained her on her IV Zosyn and IV vancomycin .
+She remained afebrile during her stay here .
+He blood cultures showed no growth .
+She was initially on 4 to 10 liters of oxygen by Oxymizer .
+However , on the day of transfer , she was weaned down to 2 L of O2 by nasal cannula .
+A sputum culture was ordered but was not able to be obtained .
+For her pulmonary fibrosis , she was maintained on oxygen .
+The patient noticed a slight improvement in her shortness of breath by the time of transfer .
+She was started on albuterol , Atrovent , Imuran , and Pulmicort .
+Her lethargy was thought to be secondary to narcotic overdose at the outside hospital .
+While there , she received IV Dilaudid .
+Upon admission to **INSTITUTION , we stopped her Dilaudid and gradually decreased her OxyContin .
+By the time of discharge , she was taking 30 mg of OxyContin by mouth every 12 hours with 5 mg of oxycodone p.o. q.4 h. p.r.n. breakthrough pain .
+Following a decrease of her pain medications as well as her Ativan , her mental status greatly improved .
+On the day of transfer , she was sitting up in bed and was able to walk around the hallways .
+She was also seen by Dr. **NAME[UUU] ( GI ) for her hepatitis and history of ascites .
+We obtained ammonia levels which were slightly elevated ( from 51.9 to 97.2 ) .
+Her decreased level of consciousness was not thought to be secondary to hepatic encephalopathy .
+She was maintained on a low-protein diet .
+She was also started on Aldactone , Lasix , lactulose , and Neomycin .
+Her Aldactone was stopped by GI on the day of transfer .
+At the time of transfer , the patient reports that she is still having occasional diarrhea .
+For prophylaxis , she was started on SCD s as well as Protonix .
+She was followed by physical therapy and occupational therapy .
+For her pain , she was continued on OxyContin and oxycodone .
+TRANSFER MEDICATIONS :
+1. Prozac 60 mg p.o. q.a.m.
+2. Oxycodone 5 mg p.o. q.3 h. p.r.n. pain .
+3. DuoNeb 3 mL inhalation solution b.i.d.
+4. OxyContin 30 mg p.o. q.12 h .
+5. Lorazepam 1 mg p.o. nightly .
+6. Vancomycin 1 g IV q.24 h .
+7. Imuran 50 mg p.o. b.i.d.
+8. Pulmicort 0.25 mg aerosolized b.i.d.
+9. Neomycin 1000 mg p.o. q.6 h .
+10. Folic acid 1 mg p.o. daily .
+11. Lasix 40 mg p.o. daily .
+12. Synthroid 150 mcg p.o. daily .
+13. Nadolol 40 mg p.o. daily .
+14. Protonix 40 mg p.o. daily .
+15. Zosyn 4.5 g IV q.8 h .
+16. Lactulose 20 g p.o. q.i.d.
+17. Albuterol 0.5 mL aerosolized q.4 h. p.r.n.
+18. Atrovent 3 mL aerosolized q.4 h. p.r.n.
+TRANSFER ORDERS :
+Transfer orders are as per the order form .
+The patient is to continue her IV antibiotics ( vancomycin and Zosyn ) for 7 additional days .
+She is to follow up with Dr. **NAME[ZZZ] in one week .
+Diet is low protein .
+Activity is as tolerated .
+Physical therapy and occupational therapy should continue to work with Ms. **NAME[AAA] .
+Ms. **NAME[AAA] is to call her physician or return to the hospital should she have further shortness of breath , fever , chills , or abdominal distention .
+______________________________
+**NAME[WWW XXX]
+HS Job # 135136 / 33115 /
+SHY # **ID-NUM
+D :
+**DATE[Apr 29 2007] 15:43
+T :
+**DATE[Apr 29 2007] 16:43
+**CARBON-COPY

@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 17 2007]
+EVALUATION DATE :
+**DATE[Sep 18 07]
+I am seeing this critically ill woman for management of respiratory insufficiency and atrial fibrillation .
+I have examined the patient , reviewed the laboratory data , chest x-ray film , and events of the evening .
+She underwent pulmonic valve repair yesterday , went back to the OR for bleeding after multiple units of blood were given .
+Bleeding was terminated in the OR .
+She has done well .
+From a respiratory standpoint , she has bilateral infiltrates still , but her Aa gradient is reasonable and has come down to 40% , 5 of PEEP , and she looks fairly comfortable on CPAP .
+She has a PO2 of 111 .
+She is only positive of about a liter at this point , given good urinary input as well as the bleeding that she had .
+I would favor giving her a trial of extubation .
+She has an ASD repair .
+Will start her ultimately on some aspirin .
+She had some rapid atrial fibrillation last evening .
+She has been on Cardizem , and I have asked to wean that off .
+She is currently in a sinus rhythm .
+She is warm and well perfused .
+Continue with GI prophylaxis .
+Keep the chest tubes in place at this point .
+T = 30
+__________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Sep 18 2007] 19:21:35
+T :
+**DATE[Sep 18 2007] 20:59:53
+R :
+**DATE[Sep 18 2007] 20:59:53/plb
+Job ID :
+352271/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Oct 05 2007] 03:25:35 PM

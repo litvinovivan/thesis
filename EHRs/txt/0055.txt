@@ -1,0 +1,38 @@
+HEMATURIA </chief_complaint>
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Sep 21 2007]
+Discharged :
+**DATE[Sep 27 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Mr. **NAME[AAA] is a **AGE[in 40s]- year-old male with quadriplegia secondary to C4 - C5 injury after a fall 20 years ago .
+The patient was admitted to the hospital through the ER with complaints of significant hematuria .
+He is 5 days status post cystoscopy and sphincterotomy by Dr. **NAME[ZZZ] .
+The patient was subsequently found to have an intraperitoneal bladder perforation upon workup and was therefore taken to the operating room on **DATE[Sep 22 2007] , by Dr. **NAME[ZZZ] , whereby he underwent an open repair of his intraperitoneal bladder perforation .
+The procedure was uncomplicated .
+The patient 's postoperative course was also fairly uncomplicated .
+After a few days ' stay in the intensive care unit , the patient was brought to the floor .
+By **DATE[Sep 27 2007] , the patient was tolerating a regular diet , had return of bowel function , and pain was under control .
+His urine remained clear .
+He was therefore deemed stable for discharge back to home and he is told he may resume a regular diet as tolerated .
+No heavy lifting or strenuous exercise for 6 weeks , although the patient is fairly immobile secondary to his quadriplegia .
+The patient may shower but no tub bath for 1 to 2 weeks .
+The patient will follow up with Dr. **NAME[ZZZ] in approximately 2 weeks at **PHONE , and will call for an appointment .
+The patient was told to resume all home medications .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 564851 / 41855 /
+SHY # **ID-NUM
+D : **DATE[Oct 18 2007] 01:10
+T : **DATE[Oct 18 2007] 07:53
+**CARBON-COPY

@@ -1,0 +1,61 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Dec 25 2007]
+Discharged :
+**DATE[Dec 16 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTING PHYSICIANS :
+**NAME[VVV M UUU] , MD
+PRINCIPAL DIAGNOSES :
+Ileocecal mass , colon polyp .
+SECONDARY DIAGNOSES :
+1. Cholelithiasis .
+2. Renal insufficiency .
+3. Congestive heart failure .
+4. Hypertension .
+5. Gout .
+PRINCIPAL PROCEDURE :
+Laparoscopic right hemicolectomy .
+SECONDARY PROCEDURE :
+Laparoscopic cholecystectomy .
+History and physical as per copy on the chart .
+HISTORY :
+Briefly , this is an **AGE[in 80s]- year - old female with a prior history of a GI bleed in **DATE[Nov 2007] .
+She was found to have an ileocecal mass and a colon polyp .
+She was admitted into **INSTITUTION on **DATE[Dec 10 2007] , and on the same day taken to the OR where under general anesthesia , laparoscopic right colectomy and cholecystectomy were performed .
+The patient tolerated the procedure well and was taken to the recovery room in stable condition and was transferred to the floor .
+HOSPITAL COURSE :
+The patient recovered without any complications .
+Diet was increased as tolerated .
+The patient was discharged home in stable condition on **DATE[Dec 16 2007] .
+Instructions to the patient :
+Activity as tolerated .
+Diet as tolerated .
+MEDICATIONS :
+1. Aspirin 81 mg daily .
+2. Lasix 20 mg daily .
+3. Indocin SR 75 mg daily .
+4. Lisinopril 10 mg daily .
+5. Lopressor 50 mg b.i.d.
+6. Nitroglycerin patch 0.2 mg transdermal once a day .
+FOLLOWUP :
+The patient was to follow up with Dr. **NAME[ZZZ] in 2 weeks and Dr. **NAME[UUU] in 1 month .
+______________________________
+**NAME[WWW XXX] , PA-C
+HS Job # 212385 / 33115 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 01 2008] 14:48
+T :
+**DATE[Jan 03 2008] 13:38
+**CARBON-COPY

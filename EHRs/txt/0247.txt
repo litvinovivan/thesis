@@ -1,0 +1,100 @@
+**INSTITUTION
+TRAUMA
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 03 2007]
+TRANSFER DATE :
+**DATE[Jul 08 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+The patient is being discharged to a rehabilitation facility .
+TRANSFER DIAGNOSIS ( ES ) :
+1. TYPE 3 ODONTOID FRACTURE .
+2. LEFT TIBIAL PLATEAU FRACTURE .
+3. SMALL SUBARACHNOID HEMORRHAGE , RESOLVED .
+CONSULTANTS :
+Orthopedic Surgery and Neurosurgery .
+HISTORY OF PRESENT ILLNESS :
+Ms. **NAME[AAA] is a **AGE[in 70s]- year - old female who presented to **INSTITUTION on **DATE[Jul 03 2007] after being involved in a motor vehicle accident .
+The patient was an unrestrained driver who did experience loss of consciousness at the scene .
+Upon arrival in the Emergency Department , the patient got intubated .
+The patient had large scalp lacerations and a right ecchymotic peri - orbital eye upon initial evaluation .
+CT of the head in the ED revealed a small right subarachnoid hemorrhage and a type 3 odontoid fracture .
+PAST MEDICAL HISTORY :
+1. Hypertension .
+2. Diabetes .
+3. Coronary artery disease .
+4. GERD .
+5. Hyperlipidemia .
+6. Glaucoma .
+7. Depression .
+PHYSICAL EXAMINATION :
+On admission , the patient had a large scalp laceration and a peri - orbital ecchymotic right eye .
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+On admission , hemoglobin 8.5 and hematocrit 27 .
+Glucose 314 , sodium 133 , and potassium 5.8 .
+HOSPITAL COURSE :
+The patient was admitted to the 4G Unit in stable condition for further evaluation and treatment .
+The patient did remain stable throughout her stay in the Emergency Department and remained in her C collar at all times .
+The patient was placed in a brace of the left lower extremity due to a left tibial plateau fracture .
+The patient 's hemoglobin became low during her stay , and she required 3 units of blood total .
+Hemoccult of her stool was negative .
+The patient 's hemoglobin subsequently began to rise slightly and was 8.4 upon discharge .
+A repeat H&amp ; H will be performed on Wednesday at the rehabilitation center .
+The patient performed well during her physical therapy and was deemed well enough to be transferred to an outside rehabilitation center at this time .
+TRANSFER INSTRUCTIONS :
+Medications -
+1. Lipitor 40 mg p.o. at bedtime .
+2. Coreg 6.25 mg p.o. twice daily .
+3. Docusate sodium 100 mg p.o. twice daily .
+4. Keppra 500 mg p.o. twice daily .
+5. Lisinopril 40 mg p.o. daily .
+6. Metformin 500 mg p.o. twice daily .
+7. Pantoprazole 40 mg p.o. daily .
+8. Timolol ophthalmic one drop each eye daily .
+9. Effexor XR 75 mg p.o. daily .
+10. Bimatoprost ophthalmic one drop each eye daily .
+11. Effexor XR 75 mg p.o. daily .
+12. Vicodin 5 mg p.o. one to two tablets q. 4 to 6 hours p.r.n. pain .
+13. Bisacodyl 10 mg per rectum q. a.m. p.r.n. constipation .
+Follow - up / plan - The patient will be instructed to follow with the **INSTITUTION , Neurosurgery , and Orthopedics upon discharge from the rehabilitation center .
+_______________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , D.O.
+SS/ecr
+D :
+**DATE[Jul 08 2007] 12:51:17
+T :
+**DATE[Jul 08 2007] 13:00:31
+R :
+**DATE[Jul 08 2007] 13:00:31/ecr
+Job ID :
+337016/**ID-NUM
+Cc:
+4G
+Fax # :
+7-7042
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Jul 03 2007]
+TRANSFER DATE :
+**DATE[Jul 08 07]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 23 2007] 01:04:23 PM

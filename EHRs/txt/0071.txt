@@ -1,0 +1,43 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 19 2007]
+DISCHARGE DATE :
+**DATE[Feb 22 2007]
+Mr. **NAME[AAA] has liver stenosis due to PBC .
+Admitted with ascites .
+Ascites drained via pigtail .
+Several liters drained .
+Head CT negative .
+Seen by Hepatology .
+Ultrasound showed patent vessels and no liver masses .
+The patient will be discharged on mild diuretics , Lasix 20 , Aldactone 25 , and a mild dose of a beta - blocker , atenolol 12.5 a day .
+To be seen by Dr. **NAME[XXX] with an electrolytes and creatinine check in 1 week .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Feb 22 2007] 09:40:04
+T :
+**DATE[Feb 22 2007] 09:42:55
+R :
+**DATE[Feb 22 2007] 20:13:13/kh
+Job ID :
+356080/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[ZZZ , WWW M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 27 2007] 12:15:06 PM

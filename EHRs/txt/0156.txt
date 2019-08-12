@@ -1,0 +1,72 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Mar 12 2007]
+EVALUATION DATE :
+**DATE[Mar 16 07]
+I personally interviewed and examined the patient today .
+The patient continues to have lower abdominal pain , which is about the same as before .
+She had a bowel movement overnight , which was nonbloody .
+Her breathing is better .
+She has some cough , but it is improved .
+Not much shortness of breath .
+She denies any fever or chills .
+PHYSICAL EXAMINATION :
+She is alert and oriented .
+Her vital signs were reviewed .
+Her vital signs are stable .
+Blood pressure is generally around the 80s and 90s .
+Her heart rate is stable and she is afebrile .
+Her chest has bilateral rhonchi and wheezes .
+Heart , regular rhythm .
+Abdomen , no tenderness .
+Extremities , no edema or tenderness .
+LABORATORY DATA :
+Laboratory tests were reviewed .
+Her electrolytes are normal .
+Her creatinine is 0.7 .
+Her hemoglobin is 10.6 today .
+Her platelet counts are normal .
+PROBLEMS :
+1. Abdominal aortic aneurysm .
+We still think that she has had a leaking aortic aneurysm .
+She has stabilized .
+We have been discussing regarding transfer .
+I have talked to her daughter and they are interested in going to a skilled nursing facility .
+We are working to discharge her today to a skilled nursing facility .
+Please consider this my discharge note .
+A full note will be dictated separately summarizing all her problems .
+I will plan to arrange skilled nursing facility today .
+We will get her on her chronic medications .
+Family understands that the patient is not operable , and she has elected not to consider surgery for aortic aneurysm and that she could die suddenly if it ruptures acutely .
+2. COPD .
+This is stable .
+She will remain in bronchodilators .
+3. Anemia .
+Her hemoglobin and hematocrit have fallen but they are stable over the past 24 hours .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+WNK/
+D :
+**DATE[Mar 16 2007] 11:26:40
+T :
+**DATE[Mar 16 2007] 22:27:29
+R :
+**DATE[Mar 17 2007] 13:13:48/sd
+Job ID :
+348203/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Mar 23 2007] 03:12:58 PM

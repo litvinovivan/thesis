@@ -1,0 +1,98 @@
+FINAL DIAGNOSES :
+1. Community-acquired pneumonia , left upper lobe , secondary to Streptococcus pneumoniae pneumonia .
+2. Streptococcus pneumoniae bacteremia secondary to number one .
+3. Morbid obesity .
+4. Poorly controlled , type 2 diabetes mellitus .
+5. Anemia - multifactorial .
+6. Hyponatremia .
+7. Chronic kidney disease .
+HISTORY OF PRESENT ILLNESS :
+This is a **AGE[in 60s]- year-old , white female admitted with a history of progressive cough , chills , fever , and progressive dyspnea .
+The patient had the onset of symptoms three weeks prior to admission .
+The patient presented to the Emergency Department with the above symptoms .
+Outpatient therapy with doxycycline failed , and admission to the hospital was deemed necessary .
+Blood cultures wound up being positive for Streptococcus pneumoniae .
+Of note is that the patient had a productive cough of green-yellow sputum , chills , fever , and rigors .
+Temperature in the Emergency Department was 101.5 .
+PAST MEDICAL HISTORY :
+Positive for poorly controlled , type 2 diabetes mellitus , obesity , multifactorial anemia , and chronic kidney disease .
+ALLERGIES :
+PENICILLIN AND LEVAQUIN .
+MEDICATIONS ON ADMISSION :
+Lasix , Desyrel , Cozaar , and Avandaryl .
+PAST SURGICAL HISTORY :
+Positive for coronary artery bypass graft , two-vessel .
+There was also a surgery on the breast .
+PHYSICAL EXAMINATION :
+VITAL SIGNS :
+Blood pressure 136/57 , cardiac rate 90 , respirations 20 , and temperature 101.5 .
+Pulse oximetry on three liters was 96% .
+Height 5 feet 1 inches , and weight 276 pounds .
+The patient , on admission , appeared to be dyspneic but alert and oriented .
+She had flushed facies .
+The heart was regular .
+The lungs exhibited moderate respiratory distress .
+There was expiratory wheezing and rhonchi .
+There was a prolonged expiration .
+The abdomen was huge with a panniculus adiposis and numerous striations .
+The extremities had + 1 , non-pitting edema .
+The skin exhibited pallor .
+There was diaphoresis .
+There was monilia in the inframammilary and intertriginous areas .
+RADIOLOGY :
+Chest x-ray showed a dense lateral upper lobe parenchymal opacity , consistent with densely consolidated infiltrate .
+There was evidence of prior coronary artery bypass graft and cardiomegaly .
+There was mild pulmonary vascular congestion .
+The recheck chest x-ray on **DATE[Mar 23 07] , showed minimal improvement in that left upper lobe pneumonia .
+The next chest x-ray showed evidence of excellent PICC line placement .
+The lungs were hypoinflated .
+On **DATE[Mar 24 07] , there was a persistent left upper lobe infiltrate .
+There was bilateral atelectasis or perhaps infiltrate , left lung base .
+Chest x-ray on **DATE[Mar 25 07] , showed left lower lobe atelectasis .
+No significant change in that left upper lobe infiltrate .
+LABORATORY :
+Admit white count was 22,300 with 81 segs , 1 band , and 8 lymphs .
+Hemoglobin was 8.1 , and platelets were 239,000 .
+After transfusion , the CBC on **DATE[Mar 21 07] , showed a white count of 19,400 with 61 segs , 31 bands , and 8 lymphs .
+Hemoglobin was 10.0 , and platelets were 232,000 .
+Followup CBC on **DATE[Mar 25 07] , showed a normal white count of 8,700 with a normal differential .
+Hemoglobin was 10.4 , and platelets were 296,000 .
+TSH was normal .
+On admission , the BMP showed a sugar of 389 , BUN 44 , creatinine 1.2 , sodium 129 , and potassium 4.4 .
+The BNP that day was 1,230 .
+The final BMP was normal .
+TSH was normal at 1.18 .
+The blood culture showed Streptococcus pneumoniae on several occasions .
+This was sensitive to vancomycin , moxifloxacin , levofloxacin , penicillin , and ceftriaxone .
+It was resistant to other antibiotics .
+HOSPITAL COURSE :
+The patient was admitted to the regular floor under the care of Dr. **NAME[UUU TTT] , and he stabilized the patient .
+At Dr. **NAME[TTT] 's request , I assumed care of the patient and continued Dr. **NAME[TTT] 's overall therapy .
+We felt that the blood sugar should be better controlled , and we resumed the home dose of glipizide , but we utilized metformin instead of Avandia to avoid the fluid retention and other side effects of the thiazolidinediones .
+Also , weight loss hopefully would be a positive event in this morbidly obese patient .
+We discontinued the IV fluids but also switched from IV to oral Lasix .
+Rocephin 1 gram IV daily was instituted .
+The Mefoxin was 850 mg b.i.d.
+A PICC line had to be inserted on **DATE[Mar 23 07] , for difficulty maintaining vascular access .
+The patient , in general , was very stable and slowly improved .
+Her temperature went down nicely .
+On **DATE[Mar 26 07] , the patient appeared to be doing very well .
+Blood sugar was 208 .
+We were able to switch from IV Rocephin to the oral fluoroquinolone agent Cipro in view of the sensitivities .
+There was no oral form of Rocephin .
+The patient appeared to be doing exceptionally well .
+The lungs were clear , the heart was regular , and the extremities had minimal edema .
+Vital signs were stable , and she had gastrointestinal and genitourinary function .
+We discharged the patient in satisfactory condition , with followup with Dr. **NAME[UUU TTT] .
+DISCHARGE MEDICATIONS :
+These are found appended to the patient 's chart .
+We plan to give a triple combination of Avandia , Glucophage , and glipizide for control of her diabetes .
+Prognosis is fair .
+_________________________
+**NAME[YYY M. ZZZ , XXX , WWW]
+D :
+**DATE[Apr 03 2007]/ 5:21 P
+T :
+**DATE[Apr 06 2007] 10:47 A km
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

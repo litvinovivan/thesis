@@ -1,0 +1,114 @@
+**INSTITUTION
+NEUROSURGERY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+TRANSFERRED DATE :
+**DATE[Sep 17 07]
+TRANSFERRED TO :
+SOUTHMORELAND
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+Southmoreland .
+PREOPERATIVE DIAGNOSIS :
+SHUNT MALFUNCTION .
+POSTOPERATIVE DIAGNOSIS :
+SHUNT MALFUNCTION .
+PROCEDURE :
+THE PATIENT HAD REMOVAL OF VP SHUNT .
+HOSPITAL COURSE :
+This **AGE[in 80s]-year-old male nursing home resident was admitted over the weekend due to some nausea and emesis .
+He had several episodes of emesis .
+He had coughing for several days prior , sometimes coughing up food .
+He had a mild neurological change over the last few days , primarily somnolence and fatigue .
+Past Medical History -
+1) NPH with shunt placement on **DATE[Jul 28 2008] .
+2) Coronary artery disease status post stent in **DATE[Jan] of 2001 .
+3) He has diabetes mellitus Type 2 .
+4) Hyperlipidemia .
+5) Arthritis .
+6) Diabetic neuropathy .
+7) BPH .
+8) He had a CVA in **DATE[Oct] of 2005 .
+9) Loss of vision in his left eye in **DATE[Oct] of 2006 .
+Surgical History :
+1) Left knee replacement in 1995 and right knee replacement in 1994 .
+The patient had laboratories which were essentially all normal .
+He had a CT of the head which was pretty unremarkable except for some small vessel disease .
+No acute process .
+The patient had a shunt series which was pretty unremarkable .
+The patient 's chest x-ray showed minimal atelectasis .
+The patient was started on antibiotic for presumed aspiration pneumonia .
+The patient was taken to the OR for an exploration of the right shunt and revision of the shunt .
+The patient had a CSF culture and gram stains which were basically unremarkable .
+He had surgery on **DATE[Sep 16 2007] .
+The patient was taken to recovery room , did well .
+He was sent directly to a regular floor .
+Sutures in place on the right side of his skull .
+No arrhythmia , unusual swelling or discharge .
+The abdominal incision course is well healed without any sign or symptom of infection .
+So it is deemed he can be transferred back to Southmoreland , his current residence .
+He will be brought back next week and set up for the OR on Tuesday , **DATE[Sep 23] .
+He will have a left-sided VP shunt placed .
+If there are any questions or concerns , call **PHONE .
+TRANSFER INSTRUCTIONS :
+1) The patient is to have one time creatinine level drawn since he had a CT of the abdomen and pelvis with contrast here .
+He is also on some medications .
+He ( 6.08 ) could present kidney issues .
+2) The patient is to be seen by PT and OT for assessment and treatment .
+3) He is on DVT prophylaxis .
+4) He is on a low scale sliding insulin , regular 12 unit .
+5) He is on an 1800 kilocalorie ADA diet .
+TRANSFER MEDICATIONS :
+His medications are as follows :
+1) Avandia 4 mg p.o. q. 24 hours .
+2) Metformin 500 mg p.o. q. 8 hours .
+3) Simvastatin 20 mg p.o. q. h.s. ( bedtime ) .
+4) Saw **PLACE 400 mg p.o. q. 24 hours .
+5) Metoprolol 12.5 mg p.o. q. 12 hours .
+6) Isosorbide CR 30 mg p.o. q. 24 hours .
+7) Gabapentin 300 mg p.o. q. 8 hours .
+8) Donepezil 10 mg p.o. q.h.s. ( bedtime ) .
+9) Vitamin B6 50 mg q. 24 hours .
+10) Vitamin B12 500 mg q. 24 hours .
+11) Solifenacin 5 mg p.o. q. 24 hours .
+12) Xalatan ophthalmologic solution one drop left eye at bedtime .
+13) Timolol ophthalmologic solution one drop left eye q. 12 hours .
+14) Alfuzosin 10 mg p.o. q. 24 hours .
+15) Unasyn 1.5 grams IV q. 6 hours .
+16) Heparin 5000 units subcu q. 8 hours .
+17) Low dose 12 unit insulin scale .
+The patient is to have the VP shunt revision on **DATE[Sep 23 2007] .
+Hold his Plavix and aspirin until after his surgery on **DATE[Sep 23 2007] .
+Keep the OR site , the right side of his skull dry until the sutures are removed .
+If there are any questions , call **PHONE .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[VVV XXX , WWW-M]
+RL/pap
+D : **DATE[Sep 17 2007] 07:28:16
+T : **DATE[Sep 17 2007] 07:37:14
+R : **DATE[Sep 17 2007] 07:37:14/pap
+Job ID :
+349355 /**ID-NUM
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Sep 14 2007]
+TRANSFER DATE :
+**DATE[Sep 17 07]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , WWW-QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 22 2007] 04:45:07 PM

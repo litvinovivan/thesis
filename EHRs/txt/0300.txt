@@ -1,0 +1,56 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 28 2007]
+EVALUATION DATE :
+**DATE[Nov 01 07]
+I am managing this critically ill **AGE[in 60s]- year - old male , who is status post laparoscopic colectomy for colonic polys .
+This in the setting of ischemic heart disease with some moderate systolic and diastolic dysfunction as well as hypertension and history of mechanical mitral valve .
+His preoperative fluid management has been difficulty and postoperatively he was transferred to the intensive care , intubated , sedated and mechanically ventilated .
+I am seeing him for management of these issues .
+I have seen and examined the patient and reviewed his laboratory , radiographic and EMTEK data and discussed the management with the surgeons and Critical Care Team .
+The problems and management are as follows :
+1. Respiratory failure :
+Chest x-ray shows a pulmonary artery catheter and endotracheal tube in reasonable position .
+He does have some signs of volume overload with pulmonary vascular congestion on the ventilator right now .
+His gas exchange is good at 40% FIO2 and 5 of PEEP the current assist control settings .
+My plan is to leave him sedated .
+He is in a primarily narcotic based sedative regimen over the course of the evening with no plans on ventilatory weaning until after we have a better feel for his hemodynamics .
+2. Ischemic heart disease and status post mitral valve repair :
+His PA catheter is showing pressures of about 55/30 and I suspect that he has chronic pulmonary hypertension , given these numbers .
+Cardiac index is around 2.2 with a mixed venous oxygen saturation of around 58% .
+His lactate is less than 2 .
+On exam , his toes although not cold and reasonably well - perfused with reasonable distal pulses in the dorsalis pedis and other extremities are reasonably well-perfused as well .
+Given the fluid overload on the chest x-ray , the central venous pressure in the mid 20s and the pulmonary hypertension , I have elected to start empiric diuresis this evening while maintaining an adequate cardiac output .
+I instructed the bedside nurses to follow cardiac outputs on a q.2 hourly basis with mixed venous oxygen saturations .
+I have started him on a Lasix infusion in order to try and get some excess fluid off him after his operation .
+3. ICU Prophylaxis :
+He has some stress ulcer and DVT prophylaxis .
+I have started him on some glycemic control .
+TOTAL CRITICAL CARE TIME EQUALS 40 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 01 2007] 22:25:53
+T :
+**DATE[Nov 01 2007] 22:42:59
+R :
+**DATE[Nov 01 2007] 22:42:59/drl
+Job ID :
+371871/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 19 2007] 07:32:11 PM

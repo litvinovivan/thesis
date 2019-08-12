@@ -1,0 +1,53 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 20 07]
+The patient appears fairly comfortable overall although she continues to complain of some shortness of breath and some uncertain feeling in her stomach although it is not nausea .
+No fevers or chills .
+She is ambulating short distances without difficulty .
+PHYSICAL EXAMINATION :
+Vital signs are stable .
+She is afebrile .
+Neck shows no JVD .
+No nodes or masses .
+Lungs are clear to auscultation and percussion with decreased breath sounds at the left base .
+The heart is regular .
+The abdomen is soft and nontender .
+LABORATORY DATA :
+Continued slow decreases in hemoglobin and hematocrit .
+The white count is 10,800 with normal differential .
+INR is 2.5 .
+IMPRESSION :
+Respiratory failure due to fluid overload .
+We will be continuing diuresis while monitoring the patient 's BUN and creatinine .
+We will be continuing the patient 's hemoglobin and hematocrit .
+The drops are likely secondary to some oozing from her old right groin venous site .
+Otherwise I agree with plans as outlined by the rest of team and discussed with him .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 20 2007] 12:00:32
+T :
+**DATE[Nov 21 2007] 01:40:42
+R :
+**DATE[Nov 21 2007] 01:40:42/vk
+Job ID :
+354461 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 02:57:52 PM

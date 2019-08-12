@@ -1,0 +1,118 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 18 2007]
+DISCHARGE DATE :
+**DATE[Feb 23 2007]
+DISCHARGE DIAGNOSES :
+1. Acute on chronic renal failure .
+2. Hypertension .
+3. Bradycardia .
+CONSULTS :
+1. Cardiology .
+2. PT and OT .
+STUDIES COMPLETED :
+1. On **DATE[Feb 18 2007] , chest x-ray was normal .
+2. On **DATE[Feb 19 2007] , ultrasound of the kidneys , no hydronephrosis or perinephritic collection , mildly increased cortical echogenicity and nonspecific finding of prerenal parenchymal disease .
+3. On **DATE[Feb 23 2007] , chest x-ray showed very minimal fluid at the right base .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 70s]- year - old African American veteran who presented to **INSTITUTION on **DATE[Feb 18 2007] , complaining of a 4 - day history of lightheadedness , nausea , decreased appetite , fatigue , and chest pain .
+He has a past medical history of chronic renal insufficiency , hypertension , peripheral vascular disease , CVA , and last echocardiogram showed an EF of 55% in 2003 .
+He denied any syncopal episodes , palpitations , shortness of breath , fever , or chills .
+He was initially seen in the VA where he was found to be in a junctional rhythm .
+His first troponin was negative and then he was sent to **INSTITUTION 's ED .
+LABORATORY DATA :
+On admission showed sodium of 128 , potassium 4.6 , chloride 92 , CO2 19 , BUN 75 , creatinine 5.2 , glucose 105 , and troponin was negative .
+White count 12.1 , hemoglobin 11.1 , hematocrit 31.8 , 90% neutrophils , 4% lymphocytes , and BNP 358 .
+HOSPITAL COURSE :
+From a cardiovascular standpoint , he was admitted to a Stepdown Unit and monitored on Telemetry .
+Cardiac enzymes were completed and were negative x 3 .
+His beta blocker was held .
+We asked Cardiology to evaluate his rhythm .
+It was their impression that he likely had decreased p.o. intake and with his history of chronic renal failure and being on a thiazide diuretic and beta blocker , he became more dehydrated .
+They recommended discontinuing his beta blocker and thiazide all together and placing him on Norvasc .
+Once his medications were changed and he was adequately hydrated , he did return to a normal sinus rhythm in the 80 s .
+However , his blood pressure became quite high with systolic pressures in the 170 s to 180 s .
+He was on a maximum dose of Norvasc , and we added hydralazine q.i.d.
+On top of this , we added a clonidine patch of 0.2 mg and then finally achieved blood pressure of less than 140 s .
+In regards to his renal failure , it was likely acute on chronic renal insufficiency .
+He was hydrated for several days .
+His creatinine trended down rapidly , and the day prior to his discharge , it was 2.5 which we believe is his baseline .
+Again , we did check a renal ultrasound which was without any significant findings .
+In light of his renal insufficiency , we also put him on sodium bicarbonate tablets which brought his CO2 to normal range .
+He does live alone and there was concern of his safety for discharge .
+He was seen by Physical and Occupational Therapy as well as Physical Medicine and Rehabilitation .
+It was of their opinion that he would be safe to be discharged home if he has assistance at home .
+He does not need any inpatient rehabilitation .
+We will discharge him home with home physical and occupational therapy as well as home nursing to check on his blood pressures and medication understandings .
+The day prior to his discharge , he had an isolated temperature of 38.5 .
+We checked a chest x-ray and urinalysis which were normal .
+We also checked blood cultures which were pending at this time .
+The patient denied any subjective feelings of fever , chills , dysuria , cough , and shortness of breath .
+Therefore , we will discharge him home and have him follow up with his PCP or return to the ED if he has any more fevers .
+PHYSICAL EXAMINATION :
+Vital Signs :
+He is afebrile .
+At this time , T - max 38.5 , pulse 95 , respirations 20 , and blood pressure 140/60 .
+He is 97% on room air .
+General :
+He is in no distress .
+Neurologic :
+Awake and alert .
+Cardiovascular :
+He has normal S1 and S2 .
+No murmur .
+Lungs :
+Clear bilaterally .
+Abdomen :
+Benign .
+Extremities :
+No edema .
+DISCHARGE INSTRUCTIONS :
+He can be discharged to home .
+Activity as tolerated .
+Diet is a low fat , salt diet .
+DISCHARGE MEDICATIONS :
+1. Clonidine patch 0.2 mg changing every Wednesday .
+2. Hydralazine 10 mg p.o. q.6 hours .
+3. Aspirin 81 mg p.o. q. day .
+4. Cilostazol 50 mg p.o. b.i.d.
+5. Colace 100 mg p.o. b.i.d.
+6. Terazosin 5 mg p.o. nightly .
+7. Zocor 20 mg p.o. nightly .
+8. Discontinue atenolol .
+9. Norvasc 10 mg p.o. q. day .
+10. Discontinue felodipine .
+11. Allopurinol 100 mg p.o. q. day .
+12. Sodium bicarbonate 650 mg p.o. t.i.d.
+FOLLOWUP :
+1. He is to go to the VA after his discharge to get his medications filled .
+2. He is to follow up with his PCP at the VA within the next 5 days .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+KF/s
+D :
+**DATE[Feb 23 2007] 18:32:13
+T :
+**DATE[Feb 24 2007] 00:11:13
+R :
+**DATE[Feb 24 2007] 00:11:13/s
+Job ID :
+358906/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 09 2007] 01:35:30 PM

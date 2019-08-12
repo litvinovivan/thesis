@@ -1,0 +1,61 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Dec 05 2007]
+EVALUATION DATE :
+**DATE[Dec 06 07]
+Condition C was called in 12 - D .
+On my arrival , I found that this patient was unresponsive .
+On reviewing the chart and talking to the nurse , I found that the patient was a **AGE[in 30s]- year - old gentleman with sickle cell anemia who had come into the hospital earlier yesterday for what was diagnosed to be acute sickle cell crisis and pain .
+He has a past history of chronic renal insufficiency and gout , also .
+The patient 's nurse was apparently in the patient 's room at the bedside .
+The patient was initially on 2 liters nasal cannula according to the patient 's nurse , however , sats were 88% , so she increased the nasal cannula to 4 liters .
+While his vitals were being taken , the patient complained of acute shortness of breath and inability to breathe .
+The patient 's nurse placed the patient on face mask oxygen , called Respiratory Therapy , and the primary internal medicine I Service attending , however , the patient acutely became unresponsive , and hence a Condition C was called immediately .
+On my arrival , I found the I Service attending at the bedside .
+The patient had what looked like sinus rhythm on the morning which looked bradycardic .
+The patient was pale and was having agonal respirations .
+I immediately assisted the patient with bag - mask ventilation and oral airway .
+The patient did not have an IV access .
+I immediately started to place an emergent left femoral venous catheter and got ready for intubation .
+After one esophageal intubation attempt , mainly because of inability to see the course because of massive secretions , I was successfully able to intubate the patient in the larynx .
+Soon after intubation , the patient lost his pulse and blood pressure .
+We initiated CPR .
+I gave the patient multiple rounds of epinephrine , atropine , calcium , bicarbonate , placed a central line , and volume resuscitated the patient .
+Despite bag - mask ventilation and all the above maneuvers , the patient was refractory .
+He persisted in an agonal rhythm with very intermittent very feeble pulses and subsequently remained in
+PEA with agonal rhythm after 20 - 30 minutes of resuscitation process .
+I subsequently called off the code and declared the patient dead .
+The I Service attending was present at the bedside , and he was going to talk to the patient 's family and inform them .
+In listening to the nurse , it sounds like this was an acute witnessed unresponsive episode of the patient .
+It is possible that the patient had a massive PE .
+The event sounds predominantly respiratory since the patient complained of acute shortness of breath and just became unresponsive right after that .
+He had good bilateral breath sounds .
+I did not think the patient had any reason to have a pneumothorax .
+The total critical care time I provided on this patient is **AGE[in 30s] minutes including CPR time .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+RV/tm
+D :
+**DATE[Dec 06 2007] 06:04:56
+T :
+**DATE[Dec 06 2007] 10:00:25
+R :
+**DATE[Dec 06 2007] 10:00:25/tm
+Job ID :
+334771 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Dec 22 2007] 03:50:13 PM

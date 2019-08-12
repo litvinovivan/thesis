@@ -1,0 +1,77 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 18 07]
+I was called to evaluate the patient since she was complaining of increasing shortness of breath .
+This was around one o 'clock this afternoon .
+I went and evaluated the patient .
+The patient was complaining of increasing shortness of breath , however she was maintaining her airway .
+She was arousable and she was saying that she has some shortness of breath .
+She did not complain of any chest pain and vital signs around that time showed that she was sating 96% on 3 to 4 L of oxygen .
+Her heart rate was around 90 per minute , her blood pressure was 170/90 , and her respiratory rate was around 24 .
+She appeared to be in mild to moderate respiratory distress at that time .
+PHYSICAL EXAMINATION :
+HEENT - Pupils are equally reactive to light on both sides .
+Extraocular movements are intact .
+Neck supple .
+Respiratory system - Reduced breath sounds in right lung base and now she has a few crackles on the right lung base few weak respiratory wheezes in both lung fields .
+Abdomen was soft , nontender , and nondistended .
+Extremities - No cyanosis , clubbing , or edema .
+Skin - No rash .
+Joints - No effusions .
+CNS - Nonfocal at that time .
+LABS :
+Labs would be drawn STAT but at this time she did not have any labs and the last labs done were 36 hours ago .
+The patient 's EKG per my interpretation does not show any acute changes and her troponins have been negative less than 0.10 .
+Chest x-ray to my interpretation shows right - sided pleural effusion and __________ opacity on the right middle lobe .
+ASSESSMENT AND PLAN :
+Mrs. **NAME[BBB AAA] is an **AGE[in 80s]- year - old female who was transferred from the Medical ICU and she was admitted on the floor for treatment of hospital - acquired pneumonia .
+1. Hospital - acquired pneumonia .
+At this time , continue Zosyn and vancomycin .
+The patient had sputum cultures / tracheal aspirate done on **DATE[Nov 12] that showed multiple epithelial cells , moderate WBC s , however the cultures did not grow except for normal oropharyngeal flora .
+At this time , we will continue Zosyn and vancomycin to continue the 14 - day course .
+2. Respiratory distress .
+At this time , I think the probable cause of her respiratory distress is either worsening pneumonia versus her right - sided pleural effusion .
+The patient had an ABG done and it showed that her pH was 7.24 and her PCO2 was 68 , PaO2 was 96 , and bicarb was 28 .
+At this time , I will give her 40 mg of IV Lasix and also some Duo Nebs .
+The patient might need BiPAP since she is retaining CO2 .
+The patient will be transferred to medical ICU for BiPAP and also for IV diuresis .
+The patient may also need an echocardiogram to evaluate for LV function .
+3. The patient has only one IV access and the patient is refusing blood work at this time .
+We will start giving her FFP since her INR was 2.9 so that she can get a STAT central lumen catheter for blood work and IV antibiotics .
+4. Continue the GI prophylaxis .
+5. Will continue the psych consult at this time .
+6. I discussed with Dr. **NAME[TTT SSS] at the MICU and the patient was accepted by Dr. **NAME[SSS] .
+The patient will be transferred to the MICU at this time .
+I discussed with the doctors extensively and doctors agreed for all the intervention including IV antibiotics , BiPAP , anti __________ agent , inotropic agent , and defibrillation , however they said the patient would be
+DNI , no intubation and no ventilation , however they want everything else done for the patient except for intubation and ventilation .
+At this time , the patient is only DNI .
+The total time spent on the patient was at least 1 hour 30 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 18 2007] 14:10:46
+T :
+**DATE[Nov 18 2007] 14:16:23
+R :
+**DATE[Nov 18 2007] 14:16:23/ksc
+Job ID  :
+351666/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 29 2007] 12:33:01 PM

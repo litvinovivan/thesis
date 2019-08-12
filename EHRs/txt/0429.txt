@@ -1,0 +1,123 @@
+Mental status change .
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Aug 16 1930]
+Author :
+**NAME[VVV , UUU]
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this Document :
+**NAME[SSS] :
+MD
+FY2 Resident
+Subjective
+**AGE[in 70s] y/o F , with multiple medical problems transfer from SHY for change mental status .
+Pt feels much better .
+No compliants of HA , Chest pain .
+SOO .
+Pt is a little bit confused .
+Physical Examination
+General Exam
+Vital signs :
+T 25.8 , HR 77 , BP 144/75
+Constitutional : hydration : normal , nutritional status : normal .
+Eye : bilateral :
+Red and have discharge .
+Heart : heart sounds :
+S1 : normal , S2 : normal .
+Lungs : bilateral : no crackles present , no wheezes present .
+Abdomen : bowel sounds : normal .
+Neuro :
+Mental Status :
+Pt knows the day , but not the year and the month .
+Pt knows where she is , but confused her " husband is in the hospital too .
+Pt said I did not vote to skip the question of " who is the present of USA "
+Plan
+Quality Measures
+PT live alon at home has a male partner ? or POA .
+- SW consult for deposition .
+- PT / OT
+Quality Measures
+Red eye :
+Infection VS dry Eye .
+- Eye drops to moist the eye
+- Eyedischarge c + s .
+ALTERED MENTAL STATUS ( ICD9 780.97 , Working , Problem )
+Course
+CVA VS infection effect .
+- Waiting for CT scan reading by Radiology .
+- Hold coumadin for now until ct r/o ich .
+- neuro check q2 X 1 day .
+- Change her cipro to macrobid , and pepcid to protonix due to unstable mental status .
+Stenosis of thoracic aorta ( SNMCT **ID-NUM , Working , Problem )
+Course
+- Check Echo
+ATRIAL FIBRILLATION ( ICD9 427.31 , Working , Problem )
+Course
+Stable
+HR has been controlle .
+Supposed on coumadin , But her IINR is 1.0
+- Check ekg
+- if ct r/o ich , resume coumadin as her home dose : 4 mg daily
+- check PT and INR daily .
+BENIGN ESSENTIAL HYPERTENSION ( ICD9 401.1 , Working , Problem )
+Course
+Stable
+Pt home regimen as Lopressor and Lisinopril .
+- Continue lopressor
+- Hold Lisinopril for now due to her mental status and renal function .
+limit the med .
+DM II [Diabetes mellitus type II] ( ICD9 250.00 , Working , Problem )
+Course
+BS is not suboptimal .
+- Continue home regimen of Lantus
+- SSI cover
+- Hold Metformin due to MS unstable and renal function not optimal .
+- check A1c
+UTI [Urinary tract infection] ( ICD9 599.0 , Working , Problem )
+Course
+No fever , No WBC , increase lymphcytes .
+Urine culture pending .
+- Macrobid 100 mg PO q12
+- slowly rehydration with IVF .
+- Waiting for urine c+s .
+- check Labs in am
+GI bleeding NOS ( ICD9 578.9 , Working , Problem )
+Course
+Stable
+H/O GI bleeding .
+Hgb stable .
+BP stable
+- Protonix 40 mg daily
+- check Stool occult
+Addendum by **NAME[XXX , WWW M] on **DATE[Sep 15 2007] 7:19 PM
+Patient was seen and examined .
+Chart , including 36 - hr rounding report , reviewed .
+Discussed withFHC Team .
+History and physical exam were reviewed .
+Concur with assessment and plan above .
+See my written admit note .
+-- clarify outpt meds
+-- restart coumadin if CT r/o bleed .
+-- long DDx for her MS change d/w team at rounds .
+for now big ? is strike due to lack of home use of anticoag ( AS , A-Fib , Cardiomyopathy ).
+t/c eventual MRI if not enough resolution with infxn tx and changing meds that can affect mental status .
+-- baseline Folstein MMSE by Dr. **NAME[VVV] helpful for now and later
+-- unreliable hx--&gt;check SHY records and POA
+-- get OOB
+Perform by **NAME[VVV , UUU]
+( on **DATE[Sep 15 2007] 13:39 )
+Sign by **NAME[VVV , UUU]
+( on **DATE[Sep 15 2007] 13:39 )
+VERIFY by **NAME[VVV , UUU]
+( on **DATE[Sep 15 2007] 13:39 )
+Modify by **NAME[XXX , WWW M]
+( on **DATE[Sep 15 2007] 19:19 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Sep 15 2007] 19:19 )

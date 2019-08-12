@@ -1,0 +1,43 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 12 2007]
+EVALUATION DATE :
+**DATE[Jul 29 07]
+I personally manage Mr. **NAME[AAA] in the ICU .
+An **AGE[in 80s]- year - old man with a history of dementia , aspiration pneumonia , ARDS , and respiratory failure .
+The patient continues with ARDS , respiratory failure with a chest x-ray which is compatible with ARDS .
+He has not shown any substantial improvement .
+He continues to also show poor cardiac perfusion and poor peripheral perfusion .
+For the last two days , we have tried to optimize this as best we can and we have not been able to effectively make much difference .
+He continues to be on high Fi02 and PEEP .
+Ultimately we had a discussion with family and the family has decided to extubate the patient and make him comfortable with morphine .
+There does not appear to be anything else reasonably that we can do at this point .
+The patient is a comfort measures .
+CRITICAL CARE TIME 30 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 29 2007] 19:54:24
+T :
+**DATE[Jul 30 2007] 00:36:28
+R :
+**DATE[Jul 30 2007] 00:36:28/klf
+Job ID :
+367138/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 04 2007] 08:50:52 PM

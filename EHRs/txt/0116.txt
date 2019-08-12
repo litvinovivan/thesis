@@ -1,0 +1,74 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Apr 12 2007]
+EVALUATION DATE :
+**DATE[Apr 27 07]
+I am personally managing the care of Mr. **NAME[AAA] in the Medical Intensive Care Unit .
+He is receiving mechanical ventilation for acute respiratory failure .
+I have examined the patient on rounds with the House staff .
+I have reviewed the patient 's data and radiographs .
+Events in the last 24 hours include temperature spike with significant hypotension requiring resuscitation with crystalloid and administration of stress dose corticosteroids .
+IMPRESSION :
+This is a **AGE[in 60s]- year - old male with a past medical history for double lung transplantation in **DATE[Jan] of 2006 , for emphysema , who presented on **DATE[Apr 12] , with dyspnea .
+His course has been significant for transbronchial biopsies that first revealed no acute cellular rejection. He had empiric antibiotics and then had no growth in his bronchoalveolar lavage .
+He required noninvasive ventilation with BiPAP , eventually having hypoxemic respiratory failure leading to intubation and mechanical ventilation .
+One transbronchial subsequent biopsy showed evidence suggestive of diffuse alveolar damage .
+He remains on mechanical ventilation currently .
+KEY ISSUES :
+1. Acute respiratory failure :
+He is receiving mechanical ventilation - mode is PRVC FIO2 45% , respiratory rate 26 over a rate of 26 with a tidal volume of 430 cubic centimeters .
+He has no significant compliance issues .
+He actually tolerated some pressure support of 5 yesterday with adequate tidal volumes .
+I am concerned since his CT scan of the chest obtained last night shows worsening air space disease .
+2. Lung transplantation :
+I am currently concerned about rejection versus pneumonia .
+He is receiving empiric antibiotics consisting of cefepime and vancomycin .
+We will obtain a bronchoalveolar lavage today , to rule out ventilator - associated pneumonia or opportunistic infection .
+He has significant pulmonary hypertension and his recent transbronchial biopsy was complicated by significant bleeding .
+We have asked our Lung Transplantation surgeons to consider open lung biopsy .
+I feel if his alveolar lavage is unremarkable , we should obtain one , in an effort to find rejection that would require high - dose immunosuppression .
+3. Adrenal insufficiency :
+He had some hypotension .
+I have placed him on hydrocortisone 100 milligrams intravenous every 6 .
+4. Moderate mitral regurgitation :
+His is on afterload reduction with hydralazine .
+He is also receiving nitrates .
+5. Immunosuppression :
+He is currently receiving tacrolimus 0.5 milligrams twice a day .
+His goal is 12 to 15 .
+His tacrolimus trough today is pending .
+6. Infectious prophylaxis :
+He is receiving voriconazole 200 milligrams twice a day .
+We have held his valacyclovir yesterday because of leukopenia .
+He also is receiving Bactrim prophylaxis .
+7. Chronic renal insufficiency with acute renal failure :
+His urine output is adequate today with 625 cubic centimeters .
+Yesterday , he had 3.4 Liters of urine , and his BUN and creatinine has stabilized 79/1.6 .
+He is receiving enteric feeds .
+Critical Care time spend exclusive of teaching and procedures provided throughout the day is 85 minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+PL/lbw
+D :
+**DATE[Apr 27 2007] 08:19:39
+T :
+**DATE[Apr 27 2007] 08:35:00
+R :
+**DATE[Apr 27 2007] 08:35:00/lbw
+Job ID :
+364212/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jun 12 2007] 10:25:40 AM

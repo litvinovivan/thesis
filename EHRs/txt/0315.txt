@@ -1,0 +1,87 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 23 2007]
+Discharged :
+**DATE[Mar 24 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRINCIPAL DIAGNOSES :
+1. Chest pain .
+2. Hyperlipidemia .
+3. Epilepsy .
+4. Depression .
+5. Osteoarthritis .
+SECONDARY DIAGNOSIS :
+None .
+LIST OF DISCHARGE MEDICATIONS :
+1. Tylenol 650 mg by mouth as needed every 6 hours for pain .
+2. Aspirin 81 mg by mouth daily .
+3. Lipitor 10 mg by mouth daily .
+4. Tegretol 200 mg by mouth b.i.d.
+5. Depakote 250 mg by mouth b.i.d.
+6. Lexapro 10 mg by mouth q.a.m.
+7. Pepcid 20 mg by mouth b.i.d.
+8. Neurontin 200 mg by mouth q.8 h .
+9. Metoprolol 12.5 mg by mouth b.i.d.
+PRINCIPAL PROCEDURES AND TESTS :
+A Cardiolite stress test was performed .
+It was a negative submaximal treadmill test , atypical chest pain reported .
+No significant ectopy , chronotropic incompetence .
+Nuclear scan to follow .
+At the time of this dictation , nuclear scan was not yet available and an addendum will be made .
+HOSPITAL COURSE AND TREATMENT :
+Briefly , this is a **AGE[in 40s]- year - old white male with a history of epilepsy , hyperlipidemia , tobacco use , and a positive family history of coronary artery disease , who presented to the hospital with acute onset of chest pain .
+1. Chest pain .
+The patient was admitted to telemetry and underwent cardiac monitoring .
+His cardiac enzymes were cycled .
+Troponins were negative on 3 occasions .
+CK-MB was negative .
+EKG did not demonstrate any ST - wave or T - wave changes .
+Cardiolite stress test was performed .
+This was negative .
+He was continued on aspirin and placed on very low dose beta blocker .
+Lipid panel was checked , and it was found to be within normal limits .
+After admission to the hospital , the patient denied any chest pain .
+Throughout his course stay in the hospital , the patient was afebrile .
+His vital signs were stable and he had no complaints .
+2. Epilepsy .
+The patient was continued on his outpatient medications for his epilepsy .
+3. Hyperlipidemia .
+The patient was continued on Lipitor .
+4. Depression .
+The patient was continued on Lexapro .
+5. Prophylaxis .
+The patient was placed on Pepcid for GI stress ulcer prophylaxis .
+The patient was ambulating while in the hospital .
+Throughout his course stay in the hospital , the patient was afebrile .
+His vital signs were stable .
+He had no complaints .
+The patient denied any chest pain upon discharge or while in the hospital .
+DISPOSITION :
+The patient was discharged to home with the medications listed above .
+He was instructed to follow up with the primary care physician in 1 to 2 weeks .
+He was instructed to resume a heart - healthy diet .
+He was instructed to resume activity as tolerated .
+He was instructed to contact the primary care physician or the emergency room if he had any symptoms including but not limited to prolonged chest pain , shortness of breath , palpitations , fever , night sweats , chills , nausea , vomiting , diarrhea , or any other serious complaints .
+At the time of discharge , the patient was afebrile .
+His vital signs were stable .
+He was hemodynamically stable .
+He was tolerating p.o. diet and ambulating appropriately .
+______________________________
+**NAME[WWW XXX]
+HS Job # 930531 / 38640 / 40215
+SHY # **ID-NUM
+D :
+**DATE[Mar 24 2007] 14:32
+T :
+**DATE[Mar 24 2007] 19:50
+**CARBON-COPY

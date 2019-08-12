@@ -1,0 +1,166 @@
+CRNP Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jan 28 1949]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt is a **AGE[in 50s] year old with NICM , EF 10-15% , S/ ) BiVICD / Pacer , DM , Hypothyroidism , Psoriasis who presented to the **INSTITUTION today with increased adbominal girth , cough , orthopnea , PND and LE Edema .
+Wt gain of 25 + pounds .
+Her last hospitalization was in **DATE[Dec 15 22] , 2006 for decompensated HF .
+She was discharged on Lasix 120 BID , however was only taking Lasix 80-120 daily .
+Past Medical History :
+NICM , EF 10-15%
+BiVICD / Pacer
+DM
+Hypothyroidism
+Psoriasis
+Ascites
+BB Intolerance
+Subjective / Events Overnight :
+Admitted from the **INSTITUTION today .
+Pt admits to noncompliance with some meds , but , her story is inconsistent from the clinic to inpatient .
+Vital signs
+BP : systolic 91 , diastolic 51 .
+Pulse :
+100 beats per min .
+Resp :
+20 breaths / min at rest .
+Weight :
+73.9 kgs with clothes .
+Pulse Oximetry ( O2 Sats ) :
+96% on RA .
+Physical Exam
+General Appearance : dyspnea with conversation , unable to lie flat .
+Comfortable sitting on bedside .
+Pleasant .
+Head : increased JVP .
+Cardiovascular :
+S1S2 RRR
+II / VI systolic murmur .
+Respiratory :
+CTA .
+Gastrointestinal :
+Abd distended , + ascites , nontender + BS .
+Musculoskeletal :
+**NAME[VVV] .
+Skin : psoriatic lesions covering most of body .
+Weeping on LLE .
+Neurological : alert , oriented X 3 .
+Hematologic / Lymphatic :
+2 + LE edema , feet warm , + DP .
+Tele :
+NSR  .
+Current Medications : medication administration orders spironolactone , 25 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Feb 04 07] 14:07:00
+levothyroxine , 88 mcg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Feb 04 07] 14:07:00
+metolazone , 2.5 mg , By Mouth , BID , Drug Form : Tab , Start : **DATE[Feb 04 07] 14:06:00
+furosemide , 120 mg , IV , BID , Drug Form : Vial , Start : **DATE[Feb 04 07] 14:04:00
+lisinopril , 2.5 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Feb 04 07] 14:02:00
+MAR CHECK , Miscellaneous , BID , Drug Form : Misc , Start : **DATE[Feb 04 07] 14:02:00
+Medications :
+Pt 's discharge summary from **DATE[Dec 22 2006] includes the following d/c meds :
+Lisinopril 2.5 po daily
+synthroid 112 mcg daily
+aldactone 25mg daily
+amaryl 2 mg daily
+lasix 120 BID
+Pt reported to the **NAME[UUU] RN that she is taking :
+Lasix 80-120 daily
+aldactone 50 daily
+lisinopril 2.5 daily
+levothyroxine 88 mcg daily .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Feb 4 2007] 3:01 PM
+Na 143 mEq / L
+K 4.6 mEq / L
+Cl 105 mEq / L
+CO2 27 mEq / L
+Anion Gap 11.0
+BUN 23 mg / dL High
+Cr 1.3 mg / dL
+GFR ( estimated ) 45.00 mL / min / 1.73 m2 Low
+( Modified )
+Mg 1.7 mEq / L
+Albumin 3.2 gm / dL Low
+Total Protein 7.1 gm / dL
+Bili , Total 1.2 mg / dL
+Bili , Direct 0.3 mg / dL
+ALT / SGPT 21 IU / L
+AST / SGOT 21 IU / L
+Alk Phos 99 IU / L
+WBC 5.3 X10E+09 / L
+RBC 4.29 X10E+12 / L
+Hgb 11.0 gm / dL Low
+Hct 33.5 % Low
+MCV 78.1 fL Low
+MCH 25.7 pg Low
+MCHC 32.8 gm / dL
+RDW 18.3 % High
+MPV 7.8 fL
+Platelets 255 X10E+09 / L
+Neutrophils 76 %
+Lymphs 11 % Low
+Monocytes 9 %
+Eosinophils 3 %
+Basophils 1 %
+ABS Neutrophils 4.10 X10E+09 / L
+ABS Lymphs 0.60 X10E+09 / L Low
+ABS Monocytes 0.50 X10E+09 / L
+ABS Eosinophils 0.20 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+PT 11.2 sec High
+INR 1.2
+Most recent results
+Discrete results only :
+ALLSRVSECTS .
+**DATE[Feb 4 2007] 11:15 AM
+TSH 19.734 uIU / mL High
+Impression and Plan
+Impression
+**AGE[in 50s] yo female admitted with decompensated heart failure secondary to NICM and noncompliance to medications .
+Plan
+1. Decompensated HF due to NICM .
+EF 10-15% .
+Sever TR and mod - sev MR .
+Pt taking less Lasix than perscribed .
+She has a h/o noncompliance .
+She presented to the HF clinic with fluid overload and is admitted for diuresis .
+Lasix 120 IV BID , Zaroxolyn , Aldactone and lisinopril .
+She is has a h/o BB intolerance .
+Monitor wts , I/O , fld restriction and low Na food plan .
+2. BiVICD .
+Guidant .
+Implanted 7/06
+3. Hypothyroidism .
+TSH 19.734 .
+Will check thyroid panel .
+Cont Synthroid
+4. DM .
+Accuchecks and SSI .
+Consider reconsulting J. **PLACE , inpt CDE .
+Pt was newly diagnosed last adm .
+Not on meds at home and hasn 't SMBG " in ages " .
+Pt rec 'd a meter last admission .
+Check A1C .
+5. Severe Psoriasis .
+Pt refuses intervention , " nothing works " .
+6. Disp .
+Diuresis , monitor renal function , eval thyroid func and BG .
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Feb 04 2007] 17:19 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Feb 04 2007] 17:19 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Feb 04 2007] 17:19 )

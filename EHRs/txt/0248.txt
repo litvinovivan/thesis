@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 12 2007]
+EVALUATION DATE :
+**DATE[Jul 26 07]
+I am currently seeing this **AGE[in 80s]- year - old gentleman on 8D , where a Condition was called secondary to seizures .
+The patient has a past medical history significant for normal-pressure hydrocephalus , dementia and coronary artery disease status post CABG in the past .
+Upon initial evaluation , after responding to the code on 8D , the patient was having seizure activity .
+I did obtain IV access peripherally .
+I gave the patient 2 mg of Ativan .
+The seizure broke , but then again he had another seizure for which he did get another 2 mg of Ativan .
+He continued to seize , and at that point I thought it was probably reasonable to go ahead and get his airway protected .
+He again seized and got propofol for this and subsequently the patient did vomit and clearly aspirated .
+Intubation was performed and of note the patient did aspirate .
+He was bagged with 10 of PEEP and sats did come up to 100% .
+Hemodynamically , initially he was a little bit hypotensive .
+____________ and the blood pressure did respond to this .
+In light of his seizures , I did transport the patient down to CT Scan , for a CT scan of his head , and then transferred the patient to the NICU for further management .
+Assessment :
+Seizure activity , rule out increased ICP and hydrocephalus .
+The patient is going for a CT scan of his head .
+He has aspiration pneumonia as well .
+Critical care time = 35 minutes .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 26 2007] 22:41:13
+T :
+**DATE[Jul 26 2007] 23:45:58
+R :
+**DATE[Jul 26 2007] 23:45:58/ls
+Job ID :
+364059/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , UUU VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 01 2007] 05:32:07 PM

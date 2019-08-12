@@ -1,0 +1,76 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5A/504
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Feb 26 2007]
+DATE OF DISCHARGE :
+**DATE[Mar 02 2007]
+PRINCIPAL DIAGNOSIS :
+Chronic abdominal pain , secondary to recurrent chronic pancreatitis .
+SECONDARY DIAGNOSES :
+1. Major recurrent depression .
+2. Posttraumatic stress disorder .
+3. Pancreatic pseudocyst that is resolving on the recent CT of the abdomen .
+4. Tobacco abuse .
+5. History of alcohol abuse , status post inpatient rehab .
+CONSULTANTS :
+1. Dr. **NAME[XXX] from the GI Service .
+2. Dr. **NAME[WWW] from the Surgery Service .
+3. Dr. **NAME[VVV] from Psychiatry .
+4. **INSTITUTION .
+PROCEDURES :
+Upper endoscopy and colonoscopy by Dr. **NAME[UUU] .
+For details of history and physical , please refer to the dictated summary by Dr. **NAME[TTT] .
+HOSPITAL COURSE :
+The patient was treated with IV Dilaudid for management of pain , and his fentanyl patch at 25 mcg / hour was continued .
+He was also given IV fluids and kept n.p.o. for the first two days .
+Lab work for pancreatitis was ordered and this showed no recurrence .
+Repeat CT of the abdomen and pelvis showed an actual improvement in his previous pancreatitis .
+The peripancreatic cystic collection had completely resolved when compared to the previous CT scan .
+The patient was seen by Dr. **NAME[XXX] , and was further evaluated with upper and lower GI endoscopies which were completely normal except for a small sigmoid polyp that was excised and this was a hyperplastic polyp .
+Therefore , he underwent a small - bowel followthrough the following day , which was a completely normal study .
+Both the Surgical Service and the GI Service felt that there was a huge functional component to his abdominal pain .
+The patient continued to use IV Dilaudid around the clock and after all of the above testing came back normal , I had a long conversation with the patient and he was made aware of the fact that he needs to address his depression and anxiety problems with regular followup with a psychiatrist , and the Dilaudid was tapered and discontinued within 48 hours .
+He was treated with p.r.n.
+Percocet , and he did quite well .
+Of note , throughout his entire stay whenever the patient was allowed to eat , he ate regular meals and had no symptoms of nausea , vomiting , or bowel habit changes .
+CONDITION AT THE TIME OF DISCHARGE :
+The patient was clinically stable , although he continued to complain of abdominal pain .
+Minimal tenderness was noted in the epigastric region .
+DISPOSITION :
+The patient was discharged to home with home care consult .
+DISCHARGE MEDICATIONS :
+1. Klonopin 1 mg , three times a day .
+2. Zoloft 100 mg twice a day .
+3. Fentanyl patch 25 mcg per hour q.3 day application .
+4. Percocet 5/325 one tablet q.4 hours to q.6 hours p.r.n.
+5. Nicotine patch 14 mg per 24 - hour daily application .
+6. Prilosec 20 mg daily .
+DIET :
+The patient was advised to avoid greasy foods and to absolutely stay sober and avoid alcoholic beverages .
+FOLLOWUP CARE :
+1. The patient is to see Dr. **NAME[YYY] in 2 to 3 weeks at the **INSTITUTION Harmar office and call **PHONE for an appointment .
+2. To see Dr. **NAME[SSS] in 4 to 5 weeks at the **STREET-ADDRESS. **NAME[RRR] office .
+3. Home social service has been arranged for outpatient psychiatric followup , as the patient presently has appointments with a psychiatrist in Greentree and the patient lives in Cheswick and he frequently misses his appointments .
+It is imperative that the patient have regular psychiatric followup .
+On the day of discharge , I discussed in great detail about the pain medications and the need to gradually taper and discontinue them over the next 1 to 2 months .
+The patient is made aware that all of his narcotic prescriptions will be given by me , and he is to regularly followup in the office as advised .
+The patient acknowledged understanding .
+Time spent on discharge day management and discussion with the patient is **AGE[in 30s] minutes .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Mar 02 2007] 16:50:38
+Tran :
+**DATE[Mar 02 2007] 17:51:29
+AC/mm/373118/**ID-NUM/**ID-NUM
+R :
+**DATE[Mar 02 2007] 17:51:29/mm
+**CARBON-COPY

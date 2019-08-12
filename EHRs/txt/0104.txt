@@ -1,0 +1,70 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 17 2007]
+EVALUATION DATE :
+**DATE[Aug 20 07]
+I am seeing Mr. **NAME[AAA] for critical care at the request of Dr. **NAME[ZZZ] , as well as neurosurgery .
+Mr. **NAME[AAA] was admitted as a fall .
+He was found to have a left subdural hematoma .
+He also has a history of seizure disorder and a biomechanical mitral valve replacement in the past .
+He has been orally intubated and mechanically ventilated .
+He has had failure to recover consciousness until recently .
+The family and the nursing staff tells me that he does follow commands today at least with his left thumb , which he raises in response to command .
+The patient 's temperature is 37 .
+Blood pressure is 120/60 .
+Pulse is 60 .
+There are both atrial and ventricular pacer spikes , occasionally present , indicating that the patient has apparently a DDD pacemaker .
+He is ventilated in the assist control mode at a rate of 14 , 650 ml tidal volume , 40% FiO2 and 5 of PEEP .
+On those settings peak inspiratory pressure is in the mid 20s and he has unlabored ventilation .
+PHYSICAL EXAMINATION :
+Significant for clear breath sounds bilaterally .
+Heart is regular rate and rhythm .
+His abdomen is soft , nontender , and not distended .
+There are positive bowel sounds .
+There is 1 + peripheral edema , and he is receiving SCD s for DVT prophylaxis .
+Free Dilantin level is 2.1 .
+Potassium is 2.8 .
+BUN and creatinine are normal .
+Phosphorous is 1.6 .
+White blood cell count is normal .
+He is tolerating Osmolite 20 ml / h. as well as cefepime day 2 , insulin , Keppra , Pantoprazole , Dilantin , and vancomycin .
+EEG was reported as having no seizures .
+As the patient has no fever and no white blood cell count and cultures are negative , I am going to discontinue the cefepime and vancomycin .
+I am changing the Keppra to p.o. from IV .
+I will speak to Neurosurgery and Neurology regarding potentially decreasing the Dilantin dose .
+I am going to replace the patient 's phosphate to try to get his phosphate level up into the normal range .
+I am going to decrease his IV fluids in an effort to allow him to be fluid negative .
+I will continue him on his tube feeds and increase them as tolerated .
+To try to augment diuresis , I am going to give the patient some spironolactone .
+I am choosing this instead of our usual Lasix because of his persistent hypokalemia .
+It is my hope that using this agent I can both affect some diuresis and correct his potassium .
+I will do a CPAP trial on the patient , and if he tolerates that well , and if he is able to guard his airway well we can consider extubation sometime in the near future .
+However , today his mental status is clearly not adequate to tolerate that .
+Total time taken in the care of this critically ill patient is **AGE[in 40s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 20 2007] 16:59:12
+T :
+**DATE[Aug 20 2007] 17:24:57
+R :
+**DATE[Aug 20 2007] 17:24:57/dmp
+Job ID :
+354750/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 30 2007] 01:43:47 PM

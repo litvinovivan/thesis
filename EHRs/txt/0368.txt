@@ -1,0 +1,326 @@
+VASCULAR SURGERY PROGRESS NOTE
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Male
+DOB :
+**DATE[Feb 1 1959]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Current Medications :
+Current medication administration orders
+aspirin ( ASPIRIN 81 MG TABLET ( CHILDREN 's ) ) , 81 mg , Gastric Tube , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Dec 28 07] 10:59:00
+heparin ( HEPARIN 5000 UNITS/ML VIAL 1 ML ) , 5000 Unit( s ) , subQ , Q12HRS ,
+Drug Form : Vial ,
+Start : *DATE[Dec 28 07] 10:58:00
+balsam Peru / castor oil / trypsin topical ( Xenaderm topical ointment ) ( XENADERM OINTMENT 60 GM ) , 1 Application , Topically , BID ,
+Drug Form : Oint ,
+Start : **DATE[Dec 27 07] 21:00:00
+hydromorphone ( HYDROMORPHONE 1MG/ML SYRINGE 1ML ) , 0.5 mg , IV , Q2H ,
+Drug Form : Dispsyr , PRN ,
+Start : **DATE[Dec 26 07] 9:55:00
+clonidine ( CLONIDINE HCL 0.2 MG TAB ) , 0.2 mg , Gastric Tube , Q8HRS ,
+Drug Form : Tab ,
+Start : **DATE[Dec 25 07] 14:00:00
+famotidine ( FAMOTIDINE 20 MG TABLET ) , 20 mg , By Mouth , BID ,
+Drug Form : Tab ,
+Start : **DATE[Dec 24 07] 21:00:00
+metoprolol ( METOPROLOL TART 100 MG TAB ) , 200 mg , Gastric Tube , BID ,
+Drug Form : Tab ,
+Start : **DATE[Dec 24 07] 11:12:00
+captopril ( CAPTOPRIL 25 MG TABLET ) , 75 mg , Gastric Tube , Q8HRS ,
+Drug Form: Tab ,
+Start : **DATE[Dec 24 07] 11:12:00
+Propofol 1000 mg premix 1 SeeNotes , IV ,
+**DATE[Dec 22 07] 19:27:00 ,
+Vial senna ( SENNA 8.8 MG/5 ML SYRUP 5 ML ) , 10 mL , Jejunostomy , BID ,
+Drug Form: Syrup ,
+Start : **DATE[Dec 20 07] 11:59:00
+sodium phosphate ( SODIUM PHOSPHATE ) , 30 mMol , IV , Q24H , PRN ,
+Start: **DATE[Dec 20 07] 8:20:00
+sodium phosphate ( SODIUM PHOSPHATE ) , 15 mMol , IV , Q24H , PRN ,
+Start: **DATE[Dec 20 07] 8:20:00
+potassium phosphate ( POTASSIUM PHOSPHATE ) , 30 mMol , IV , Q24H , PRN ,
+Start: **DATE[Dec 20 07] 8:20:00
+potassium phosphate ( POTASSIUM PHOSPHATE ) , 15 mMol , IV , Q24H , PRN ,
+Start: **DATE[Dec 20 07] 8:20:00
+meropenem ( MEROPENEM ) , 1 gm , IV , Q8HRS ,
+Start : **DATE[Dec 15 07] 22:00:00 ,
+Stop: **DATE[Jan 03 08] 0:00:00
+buPROPion ( BUPROPION 100 MG TABLET ) , 100 mg , Nasogastric Tube , TID ,
+Drug Form : Tab ,
+Start : **DATE[Dec 15 07] 14:00:00
+HYPOGLYCEMIA PROTOCOL , Miscellaneous , AS DIRECTED ,
+Drug Form : Misc , PRN ,
+Start : **DATE[Dec 15 07] 12:47:00
+insulin regular ( INSULIN HUMAN REG 100 UNITS / ML 10ML * ) , Moderate , subQ , Q6HRS ,
+Drug Form : Solution ,
+Start : **DATE[Dec 15 07] 18:00:00
+linezolid ( LINEZOLID ) , 600 mg , IV , Q12HRS ,
+Start : **DATE[Dec 15 07] 21:00:00 ,
+Stop: **DATE[Jan 03 08] 0:00:00
+vancomycin ( VANCOMYCIN / D5W ( FROZEN ) ) , 1 gm , IV , Q24H ,
+Start : **DATE[Dec 13 07] 16:33:00
+midazolam ( MIDAZOLAM HCL 1MG/ML 2ML VIAL ) , 2 mg , IV , Q30MIN ,
+Drug Form: Injection , PRN ,
+Start : **DATE[Dec 13 07] 12:18:00
+mirtazapine ( MIRTAZAPINE 15 MG TABLET ) , 15 mg , By Mouth , At Bedtime ,
+Drug Form : Tab ,
+Start : **DATE[Dec 12 07] 21:00:00
+acetaminophen ( ACETAMINOPHEN 325 MG CAPLET ) , 650 mg , By Mouth , Q6HRS ,
+Drug Form : Caplet , PRN ,
+Start : **DATE[Dec 11 07] 1:24:00
+magnesium sulfate ( MAGNESIUM SULF 4**INITIAL SML PREMIX BAG ) , 4 gm , IV , Q4HRS ,
+Drug Form : Solution , PRN ,
+Start : **DATE[Dec 20 07] 8:20:00
+magnesium sulfate ( MAGNESIUM SULF 4**INITIALSML PREMIX BAG ) , 4 gm , IV , ONCE ,
+Drug Form : Solution ,
+Start : **DATE[Dec 11 07] 9:00:00 ,
+Stop : **DATE[Dec 11 07] 9:00:00
+magnesium sulfate ( MAGNESIUM SULF 4**INITIALSML PREMIX BAG ) , 4 gm , IV , ONCE ,
+Drug Form : Solution ,
+Start : **DATE[Dec 10 07] 17:00:00 ,
+Stop : **DATE[Dec 10 07] 17:00:00
+potassium chloride ( K-LOR 20 MEQ PACKET ) , 20 mEq , By Mouth , AS DIRECTED ,
+Drug Form : Pkt , PRN ,
+Start : **DATE[Dec 20 07] 8:21:00
+potassium chloride ( KCL 20 MEQ / STERILE WATER 50 ML PREMIX ) , 20 mEq , IV , PRN ,
+Start : **DATE[Dec 20 07] 8:21:00
+potassium chloride ( KCL 10 MEQ / STERILE WATER 50 ML PREMIX ) , 10 mEq , IV , PRN ,
+Start : **DATE[Dec 20 07] 8:21:00
+pancrelipase ( CREON - 10 CAPSULE EC ) , 3 cap ( s ) , By Mouth , AC ,
+Drug Form : Ec capsule ,
+Start : **DATE[Dec 09 07] 23:18:00
+ocular lubricant ( LACRI - LUBE S.O.P. OINTMENT 3.5 GM ) , 1 Application , Both Eyes , At Bedtime ,
+Drug Form : Oint , PRN ,
+Start : **DATE[Dec 09 07] 21:08:00
+protamine ( PROTAMINE 10 MG / ML 5 ML INJECTION ) , 1 SeeNotes , IV , AS DIRECTED ,
+Drug Form : Injection , PRN ,
+Start : **DATE[Dec 13 07] 16:22:00
+protamine ( PROTAMINE 10 MG / ML 5 ML INJECTION ) , 1 SeeNotes , IV , AS DIRECTED ,
+Drug Form : Injection , PRN ,
+Start : **DATE[Dec 08 07] 17:53:00
+olanzapine ( OLANZAPINE 20 MG TABLET ) , 20 mg , By Mouth , At Bedtime ,
+Drug Form : Tab ,
+Start : **DATE[Dec 07 07] 21:00:00
+ondansetron ( ONDANSETRON HCL 2 MG / ML VIAL 2 ML ) , 4 mg , IV , Q6HRS ,
+Drug Form : Vial , PRN ,
+Start : **DATE[Dec 03 07] 14:43:00
+ocular lubricant 1 Drop ( s ) , 1 Drop ( s ) , Both Eyes , Q4HRS ,
+Drug Form : Solution , PRN ,
+Start : **DATE[Nov 31 07] 21:07:00
+chlorhexidine topical ( CHLORHEXIDINE GLUC 0.12% LIQ 480 ML ) , 15 mL , Mucous Membrane , AS DIRECTED ,
+Drug Form : Liq , PRN ,
+Start : **DATE[Nov 26 07] 17:13:00
+bisacodyl ( BISACODYL 10 MG SUPP ) , 10 mg , Per Rectum , Daily ,
+Drug Form : Supp , PRN ,
+Start : **DATE[Nov 26 07] 17:11:00
+**DATE[Jan] CHECK , Miscellaneous , BID ,
+Drug Form : Misc ,
+Start : **DATE[Nov 26 07] 21:00:00
+furosemide ( FUROSEMIDE 20 MG / 2 ML VIAL ) , 20 mg , IV , Q12HRS ,
+Drug Form : Vial ,
+Start : **DATE[Dec 27 07] 18:00:00
+furosemide ( FUROSEMIDE 20 MG / 2 ML VIAL ) , 20 mg , IV , ONCE ,
+Drug Form : Vial ,
+Start : **DATE[Dec 09 07] 12:00:00 ,
+Stop : **DATE[Dec 09 07] 12:00:00
+pantoprazole ( PANTOPRAZOLE ) , 40 mg , IV , Daily ,
+Start : **DATE[Nov 20 07] 9:00:00
+Current prescriptions / home medications
+ciprofloxacin ( ciprofloxacin 500 mg oral tablet ) , 1 tab ( s ) By Mouth Q12H
+# 20 tab ( s ) 0 Refill ( s ) 0 Tot . Refills
+Results Review
+General results
+Most recent results
+Discrete results only :
+ALLSRVSECTS
+**DATE[Dec 28 2007] 12:40 AM
+Na 134 mEq / L Low
+K 3.6 mEq / L
+Cl 94 mEq / L Low
+CO2 39 mEq / L High
+Anion Gap 1.0 Low
+BUN 19 mg / dL
+Cr 0.7 mg / dL
+Ca 7.5 mg / dL Low
+Mg 1.6 mEq / L
+Phos 2.3 mg / dL Low
+Troponin I &lt;0.10 ng / mL
+WBC 5.0 X10E+09/L
+RBC 2.71 X10E+12/L Low
+Hgb 8.4 gm / dL Low
+Hct 23.6 % Low
+MCV 87.1 fL
+MCH 31.0 pg
+MCHC 35.6 gm / dL High
+RDW 15.7 % High
+MPV 7.1 fL
+Platelets 200 X10E+09/L
+Neutrophils 77 %
+Lymphs 13 %
+Monocytes 7 %
+Eosinophils 3 %
+Basophils 0 %
+ABS Neutrophils 3.80 X10E+09/L
+ABS Lymphs 0.70 X10E+09/L Low
+ABS Monocytes 0.40 X10E+09/L
+ABS Eosinophils 0.20 X10E+09/L
+ABS Basophils 0.00 X10E+09/L
+Type of Differential Automated Differential
+Last Update :
+**DATE[Dec 27 07] 6:31 AM BLOOD CULTURE
+Collected :
+**DATE[Dec 22 07] 2:31 PM Accession Num :
+H59524 Status :
+Final
+Specimen Desc :
+Peripheral Blood Special Request :
+RT ARM
+Culture :
+NO GROWTH 5 DAYS
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 27 07] 6:31 AM BLOOD CULTURE
+Collected :
+**DATE[Dec 22 07] 11:15 AM Accession Num :
+H50342 Status :
+Final
+Specimen Desc :
+Blood Culture from Line Draw Special Request :
+R UA PICC
+Culture :
+NO GROWTH 5 DAYS
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 25 07] 1:51 PM URINE CULTURE
+Collected :
+**DATE[Dec 23 07] 2:30 AM Accession Num :
+F8373 Status :
+Final
+Specimen Desc :
+Urine Special Request :
+None
+Culture :
+&gt; 100,000 col / mL CANDIDA ALBICANS
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 21 07] 2:27 PM NOSE CULTURE
+Collected :
+**DATE[Dec 19 07] 10:00 AM Accession Num :
+M37729 Status :
+Final
+Specimen Desc :
+Nares for Staph Only Special Request :
+None
+Culture :
+No MRSA isolated
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 20 07] 9:48 AM BLOOD CULTURE
+Collected :
+**DATE[Dec 15 07] 2:35 PM Accession Num :
+H20738 Status :
+Final
+Specimen Desc :
+Peripheral Blood RIGHT ARM Special Request :
+None
+Culture :
+NO GROWTH 5 DAYS
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 20 07] 9:48 AM BLOOD CULTURE
+Collected :
+**DATE[Dec 15 07] 2:15 PM Accession Num :
+H20711 Status :
+Final
+Specimen Desc :
+Peripheral Blood RIGHT HAND Special Request :
+None
+Culture :
+NO GROWTH 5 DAYS
+______________________________________________________________________________
+__________________________________
+Last Update :
+**DATE[Dec 20 07] 6:41 AM DEEP WOUND CULTURE
+Collected :
+**DATE[Dec 16 07] 2:00 PM Accession Num :
+F84813 Status :
+Modified
+Specimen Desc :
+Wound Special Request :
+RIGHT UPPER QUADRANT PHLEGMA
+Gram Stain :
+No WBCs or organisms present
+Culture :
+Light ENTEROCOCCUS FAECIUM
+ENTEROCOCCUS FAECIUM
+KB Interpretation
+Ampicillin ........................ Resistant
+Ciprofloxacin ................. Resistant
+Gentamicin , High Conc .. Sensitive
+Susceptibility to high levels ( 500 ug / mL ) of gentamicin implies that susceptible cell wall - active antibiotics ( ampicillin , penicillin , vancomycin ) may be combined with gentamicin or tobramycin for synergistic killing of Enterococcus faecalis .
+For Enterococcus faecium , only gentamicin is active .
+Imipenem ........................ Resistant
+Penicillin ........................ Resistant
+Vancomycin ................... Resistant
+Subjective
+Complaints
+No new complaints .
+Physical Examination
+General Exam
+Vital signs :
+Normal
+Constitutional
+Ambulation : bed ridden .
+Appearance : debilitated , frail , generally unwell , older than stated age .
+Hydration : mucous membranes dry .
+Nutritional status : emaciated .
+Heart :
+Normal
+Arterial Pulses :
+Normal
+Lungs
+Bilateral : expiratory crackles ( in the upper lobe on anterior auscultation , in the upper lobe on posterior auscultation , in the base ) , inspiratory crackles , noisy breath sounds ( in the upper lobe , in the lower lobe , in the base ) .
+Abdomen
+Surface : jejunostomy tube present ,
+PTC with bilious drainage no peristaltic movements visible , scaphoid scar noted , no visible pulsations .
+Contour : generalized distention , not scaphoid .
+Soft .
+Not rigid .
+No tenderness .
+Bowel sounds : dull .
+Liver : not palpable .
+Genitourinary
+Penis : glans edematous .
+Skin
+No lesion .
+Neuro
+Mental Status :
+awake alert and oriented
+Psychiatric
+Mood and affect :
+Normal
+Behavior : appropriate .
+Judgement : able to make sensible decisions .
+Plan
+ANEURYSM OF OTHER VISCERAL ARTERY ( ICD9 442.84 , Working , Diagnosis ) ( now status post repair of superior mesenteric artery aneurysm )
+Continues to improve oxygenation now on 3 liters nasal cannula .
+Tolerating tube feeds with bilious refeeding at 40 ml per hour .
+Out of bed in chair and tolerating well .
+Continue current management per CCM and general surgery .
+Perform by **NAME[XXX , WWW M] ( on **DATE[Dec 28 2007] 15:56 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[Dec 28 2007] 15:56 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[Dec 28 2007] 15:56 )

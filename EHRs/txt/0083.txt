@@ -1,0 +1,59 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[May 26 2007]
+DISCHARGE DATE :
+**DATE[May 29 2007]
+**INSTITUTION COURSE :
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old gentleman with a history of kidney transplant back in **DATE[Oct 1963] , and a liver transplant in **DATE[Jul 2006] , secondary to cryptogenic cirrhosis .
+This patient came into the Emergency Department complaining about abdominal pain and one episode of diarrhea without any other complaints such as fever , chills , nausea or vomiting .
+Initially he had a chest x-ray done .
+It did not reveal any abnormalities .
+He also had a CT scan of his abdomen with IV contrast with hepatic and venous contrast was performed .
+The scan revealed evidence of obstruction of the left hepatic vein and the middle hepatic vein as well as some intrahepatic biliary duct dilation .
+Radiology recommended performing ultrasound of the hepatic veins to further evaluate the possibility of venous thrombosis .
+The ultrasound was done on the same day and showed _________ liver transplant with adequate blood flow to the liver without any signs of thrombosis of hepatic veins .
+The patient presented significant improvement of his symptoms on Saturday , **DATE[May 27] , and the patient at the time was sent to hemodialysis for fluid removal .
+The patient now is asymptomatic , accepting a p.o. diet , had two bowel movements today without any diarrhea .
+We also sent stool samples for C. difficile .
+MEDICATIONS :
+The patient is discharged home today , **DATE[May 29 2007] , with the following medications :
+1. Prograf 3 mg p.o. b.i.d.
+2. Cortef 7.5 mg p.o. q. day .
+3. Bactrim one tablet p.o. every Monday / Wednesday / Friday .
+4. Calcium 500 mg p.o. t.i.d.
+5. Lopressor 12.5 mg p.o. b.i.d.
+6. Magnesium oxide 800 mg p.o. t.i.d.
+7. PhosLo 1,300 mg p.o. t.i.d.
+8. Synthroid 50 mcg p.o. q. day .
+9. Protonix 40 mg p.o. q. day .
+10. Lantus 10 units subcu at hour of sleep .
+11. Colace 100 mg p.o. q. day for five days .
+DISCHARGE INSTRUCTIONS :
+The patient was instructed to have laboratory studies done on Wednesday and Friday including LFT , total bilirubin , electrolytes , calcium , magnesium , phosphorus and FK level , and fax the results to coordinator in **INSTITUTION .
+He was also instructed to call the clinic coordinator with questions .
+___________________________________
+**NAME[XXX M. ZZZ YYY] , M.D.
+Dictator :
+**NAME[VVV UUU WWW] , RRR]. , M.D.
+**INITIALS
+D :
+**DATE[May 29 2007] 12:21:29
+T :
+**DATE[May 29 2007] 12:26:10
+R :
+**DATE[May 29 2007] 19:30:17/rs
+Job ID :
+366310/**ID-NUM
+*** Dictated By :
+-**NAME[WWW] , Jr. , **NAME[CCC UUU] ***
+Electronically Signed by **NAME[XXX ZZZ]
+**DATE[Jun 01 2007] 02:30:46 PM

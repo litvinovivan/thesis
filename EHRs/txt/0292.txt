@@ -1,0 +1,143 @@
+PACCM Attending Progress Note
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] H
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 60s] years
+Sex :
+Male
+DOB :
+**DATE[Dec 22 1937]
+Author :
+**NAME[XXX , WWW]
+Assessment
+I am managing this patient 's care in the MICU today at the request of Dr. **NAME[VVV] for acute respiratory failure secondary to cardiogenic pulmonary edema with underlying COPD .
+Required intubation and mechanical vent support for severe acute on chronic hypercapnia .
+CXR with bilateral alveolar infiltrates .
+PMH sig for COPD , CHF obesity , OSA , chronic hypercapnia , atrial fibrillation
+Problem list
+All Problems
+ACUTE RESPIRATORY FAILURE ( ICD - 9 - CM 518.81 )
+CHF [Congestive heart failure] ( ICD - 9 - CM 428.0 )
+COPD [Chronic obstructive pulmonary disease] ( ICD - 9 - CM 496 )
+ATRIAL FIBRILLATION ( ICD - 9 - CM 427.31 )
+Subjective
+The patient has required continued ventilator support overnight .
+Objective
+General Appearance : lethargic on vent  .
+Chest : copious volume secretions , purulent color , symmetric aeration , rhonchi on auscultation .
+Cardiac : normal blood pressure , irregular rhythm , atrial fbrillation / flutter , Sounds .
+Abdomen : obese , Palpation , hypoactive bowel sounds .
+Extremities : cool , delayed capillary refill , symmetric lower extremity edema .
+Neurologic : lethargic , normal motor exam .
+Integument : ecchymoses , pale  .
+Medications
+Labs :
+I have reviewed all the laboratory data today :
+Results
+**DATE[Apr 26 2007] 11:45 AM
+Na 144 mEq / L
+K 4.3 mEq / L
+Cl 101 mEq / L
+CO2 45 mEq / L High
+Anion Gap - 2.0 Low
+BUN 24 mg / dL
+Cr 1.1 mg / dL
+Glucose 136 mg / dL High
+Ca 9.4 mg / dL
+Troponin I 0.07 ng / mL
+WBC 9.9 X10E+09 / L
+RBC 3.50 X10E+12 / L Low
+Hgb 10.8 gm / dL Low
+Hct 33.5 % Low
+MCV 95.5 fL
+MCH 30.7 pg
+MCHC 32.1 gm / dL Low
+RDW 15.6 % High
+MPV 7.8 fL
+Platelets 252 X10E+09 / L
+Neutrophils 84 %
+Lymphs 7 % Low
+Monocytes 9 %
+Eosinophils 0 %
+Basophils 0 %
+ABS Neutrophils 8.3 X10E+09 / L
+ABS Lymphs 0.6 X10E+09 / L
+ABS Monocytes 0.9 X10E+09 / L
+Abs Eos , auto 0.0 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+PT 18.9 sec High
+INR 1.6 High
+B-Type Natriuretic Peptide 868 pg / mL High
+**DATE[Apr 26 2007] 11:30 AM
+Total CO2 Content 50.2 mMol / L High
+pHa 7.24 Low
+PaCO2 113.0 mmHg Critical High
+PaO2 172.0 mmHg High
+HCO3a 46.8 mMol / L High
+Base Excess , Arterial 15.8 mMol / L High
+O2 Content , Arterial 15.3 Vol % Low
+% O2 Saturation 99.4 % High
+Oxy Hgb ( Arterial ) 98.1 % High
+Methemoglobin 0.4 %
+CO _ 0.9 %
+% Reduced Hemoglobin 0.6 %
+Crit. Value Called To x / readbac
+DR **NAME[UUU]
+Critical Value called by : S CARLBERG
+Allens Test Passed
+Oxygen Device Face Tent
+Liters Per Minute 6
+Na , Whole Blood 147 mMol / L High
+K , Whole Blood 4.1 mMol / L
+Ionized Ca , Whole Blood 1.25 mMol / L High
+Total Hemoglobin 10.8 gm / dL Low
+My own interpretation of the chest radiograph is The radiograph shows a bilateral alveolar infiltrate .
+The patient 's radiograph demonstrates cardiomegaly .
+ETT noted  .
+Assessment :
+My management of this critically ill patient in the MICU today has included the following :
+Respiratory :
+The patient has clinical findings consistent with an aspiration pneumonia , The patient 's current ventilator parameters are acceptable .
+I will not proceed with weaning today until the patient is more alert and cooperative .
+Clinical picture c/w CHF and pneumonia .
+q 4hr nebs with duoneb and pulmicort .
+Hold on systemic corticosteroids .
+Check CXR in AM , repeat ABG .
+Given frequency of bouts of respiratory failure will need to strongly consider trach for long term manangent  .
+Cardiovascular :
+Pulmonary edema .
+Follow enzymes , ECG with with T wave inversions precordial leads .
+Cardiogy consult .
+IV heparin , ASA  .
+Renal / Electrolytes :
+The patient has renal function within acceptable limits at this time .
+GI / Nutrition :
+The patient 's abdominal exam is currently within acceptable limits , The patient 's evaluation suggests normal GI function .
+I will initiate feeding within the next 24 hours if we do not progress to extubation .
+Infectious Disease :
+Severe community acquired pneumonia with copious thick discolored secretions .
+Begin empiric antibiotics with vanco , cefepime , zithro , panculture .
+MRSA isolation .
+Neurology :
+The patient has evidence for a metabolic encephalopathy , severe hypercapnia contributing to obtundation  .
+Endocrine :
+Diagnosis , The patient 's recent blood sugar results were reviewed and I have revised the insulin coverage .
+Hematology :
+Anemia eval  .
+Psychosocial :
+I have reviewed the patient 's advance directive
+The patient is to continue as full support .
+Disposition :
+The patient requires ongoing monitoring in the MICU today .
+I have spent 55 minutes of critical care time managing and monitoring this patient 's care at the bedside today .
+This is exclusive of any time for procedures or my teaching time
+Professional Services Credentials and Title of Author **NAME[TTT] Signing this Document : **NAME[SSS] : MD
+Titles : Attending
+Perform by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 14:48 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 14:48 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 14:48 )

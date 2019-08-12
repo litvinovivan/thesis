@@ -1,0 +1,60 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 06 2007]
+EVALUATION DATE :
+**DATE[May 07 07]
+CONDITION C:
+This is an **AGE[in 80s]- year - old patient who was admitted under the Renal Transplant service .
+This is a woman with a history of chronic renal failure who has had two failed kidney transplants in the past .
+She came with what appeared to be an abdominal wound infection for which she had placed a VAC in the surgical wound , and she was eventually transferred to Dr. **NAME[ZZZ] 's service , and she was seen by one of these two physicians early today .
+The patient was found to have a blood pressure of 73/40 .
+They have requested that the patient get an IV bolus .
+The patient had very poor IV access .
+They had requested that the IV team had a new attempt for IV access .
+This was not successful .
+Then they requested that the patient have a PICC line , which was not successful , and four hours later while the patient continued to have a blood pressure of about 72/40 , we were asked to see this patient .
+A condition C was called because of persistent hypotension and inability to obtain IV access .
+When I saw the patient on the floor , the patient was awake and alert with adequate mentation .
+Her blood pressure was 78/40 .
+We measured her blood pressure in only one arm because she has a fistula in the left arm .
+She had a good pulse in the femoral region , and she never had any compromise in mentation .
+She was complaining of abdominal pain .
+I proceeded to place a femoral line in the left femoral vein .
+This was done with some difficulty because the patient has a history of previous cut - downs in this area .
+She had some scars in this area .
+We put in a triple - lumen catheter without complication with no hematoma into her left femoral vein , and we were able to give her a couple of boluses of IV fluids .
+Her blood pressure improved .
+Her oxygen saturation remained about 100% .
+Once the line was placed , I re - examined the patient , and she complained of progressive worsening abdominal pain with some guarding in the lower right quadrant .
+This appeared to be a new finding according to her nurse practitioner , although none of these findings had been reported earlier today .
+The patient was transferred immediately to a CCU MICU bed for her to be aggressively resuscitated and for her to be studied for possible intra - abdominal sepsis .
+I requested that she have an abdominal CT when she is more stable .
+I , Dr. **NAME[XXX] , was present during the entire resuscitation for a total of 32 minutes .
+This is not including the time that I spent placing the central line .
+CPT-99291 , central line .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[May 07 2007] 21:19:20
+T :
+**DATE[May 07 2007] 21:29:08
+R :
+**DATE[May 07 2007] 21:29:08/plb
+Job ID :
+336249 /**ID-NUM
+*** Dictated By :
+-**NAME[XXX , UUU VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 31 2007] 09:57:17 AM

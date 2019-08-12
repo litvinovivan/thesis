@@ -1,0 +1,88 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA] JR , **NAME[BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 24 2007] 17:35:00
+DISCHARGE DATE :
+**DATE[Nov 01 2007]
+The patient was admitted through the emergency department with chief complaint of decreased p.o. intake and dry cough .
+The patient stated that he had cold for 2 days prior to evaluation also nasal drainage , congestion , coughing , and back pain .
+He stated he had a past medical history of CABG , heart failure , CAD , and hypertension .
+He was also on Cipro 500 mg which was started yesterday and also on Coumadin .
+In the ER , they did lab work .
+His CBC was normal except for WBC s of 7.6 , hemoglobin of 12.8 , hematocrit 37.9 , platelets were 174 , segs 76 , lymphs 12 , monos 9 , and eosinophils 2 .
+Chemistry was normal except for glucose of 94 , BUN of 66 , creatinine 2.9 , sodium 141 , potassium 4.7 , chloride 102 , and CO2 was 28 .
+His BNP was 202 , CK 86 , CK-MB normal , and troponin less than 0.08 .
+INR was 4.9 , PT 56.7 , and PTT 42.1 .
+EKG with an atrial fibrillation .
+In the emergency department , I gave him normal saline at 100 mL an hour .
+Case was discussed with Dr. **NAME[ZZZ] .
+He was admitted to the Medical Surgical Unit .
+Consult was placed to Dr. **NAME[SSS] .
+Urine R and M , C and S was ordered along with a regular diet , additional lab work , and additional cardiac enzymes .
+Continue IV fluids at 0.9 normal saline at 75 mL an hour .
+He was allowed morphine for pain and Tylenol for discomfort .
+Influenza vaccine was not administered due to the patient 's uncertainty of status .
+Also , he was not vaccinated for pneumococcal vaccine ; the patient had refused .
+Dr. **NAME[RRR] was consulted to manage the patient 's atrial fibrillation ; noncoronary artery disease , status post CABG ; probable old infarction ; CA of the lung ; and hypertension .
+His plan was to order an echocardiogram and to hold the patient 's Coumadin for elevated INR .
+At that time , a cancer workup was in progress for CA of the left lung .
+The nodule was 3.2 cm LVL mass .
+Dr. **NAME[RRR] noted that the patient 's left ventricular function was poor .
+Oncology evaluated the patient .
+Their impression was that the patient has stage IV CA of lung , SCLC versus __________ .
+The plan was to biopsy the left SCV node and subcutaneous nodule and ordered a bone scan .
+The abdominal CT done on **DATE[Oct 28 2007] , showed extensive retroperitoneal lymphadenopathy with bilateral adrenal masses and enlarged head of the pancreas and left pleural effusion .
+We continued on IV fluids for dehydration .
+Dr. **NAME[RRR] continued to monitor his renal insufficiency and hypertension .
+Bone scan result showed an increased uptake in the right humerus , questionable metastatic disease , also his tumor markers were elevated .
+The patient underwent a biopsy of the lung .
+A hospice evaluation was ordered while the biopsy was pending .
+The patient was discharged on **DATE[Nov 1 2007] , to **PLACE of Brentwood under Dr. **NAME[ZZZ] 's care on a regular diet with daily strawberry only , out of bed as tolerated .
+Dr. **NAME[VVV] and Dr. **NAME[ZZZ] to follow up in 2 weeks .
+Education instruction was given to include smoking cessation counseling , no alcohol consumption , and weigh daily and record of weight .
+Call Dr. **NAME[VVV] or Dr. **NAME[ZZZ] if any of the following were noted , new or increased shortness of breath , new onset of chest pain , lightheadedness , dizziness or fainting , ankle swelling , abdominal bloating , weight gaining of 2 pounds in 24 hours or 4 pounds total in a week or less .
+Ordered Bayer Aspirin 81 mg daily , morphine 2 mg every 6 hours , and Tylenol 650 mg as needed for pain .
+Home health care to be provided by Aerocare Hospice .
+They were to do a complete physical assessment , check weight , I and O , review medications at each visit , lab work for home care RNs as per discharge instructions , home O2 use p.r.n. , clean incision on chest with mild soap and water 2 times a day .
+PRINCIPAL DIAGNOSIS :
+Malignant neoplasm of upper lobe bronchus in the lung .
+SECONDARY DIAGNOSES :
+1. Malignant neoplasm of head of pancreas .
+2. Atrial fibrillation .
+3. Dehydration .
+4. Chronic airway obstruction .
+5. Cachexia .
+6. Acute renal failure , unspecified .
+7. Secondary and unspecified malignant neoplasm of lymph nodes of head , face , and neck .
+8. Secondary malignant neoplasms of unspecified site .
+9. Essential hypertension unspecified benign or malignant .
+10. Coronary atherosclerosis of unspecified type of vessel , native or graft .
+11. Old myocardial infarction .
+12. Unspecified anemia .
+13. Long-term current use of anticoagulants .
+14. Postprocedural aortic coronary bypass status .
+_____________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+JF/mg
+D :
+**DATE[Nov 10 2007] 13:08:42
+T :
+**DATE[Nov 10 2007] 23:45:10
+R :
+**DATE[Nov 10 2007] 23:45:10/mg
+Job ID :
+383410/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 12 2007] 07:33:58 AM

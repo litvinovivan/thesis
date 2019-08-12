@@ -1,0 +1,129 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] F
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Male
+DOB :
+**DATE[Jun 14 1922]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 80s] year old , widowed , white male with h/o NPH , CAD , s/p CABG presents to ED with h/o difficulty with ambulation , urinary incontinence and worsening dementia per family .
+Past Medical History :
+Dementia
+NPH
+CAD , s/p CABG
+HTN
+A-fib , on Coumadin
+Hyperlipidemia
+TIA
+Carotid stenosis
+Spinal stenosis
+BPH
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Pt. c/o mild itching on back with a " rash ".
+Otherwise no specific complaints this AM .
+Vital signs
+**DATE[Jul 18 2007] 4:00:00 AM .
+BP : systolic 135 , diastolic 60 .
+Pulse :
+69 beats per min .
+Resp :
+18 breaths / min .
+Temp :
+37.1 degrees Celsius .
+Pulse Oximetry ( O2 Sats ) :
+97% on RA .
+Physical Exam
+General Appearance :
+Elderly male sitting up in chair in NAD .
+Cardiovascular :
+S1 , S2 , no gallop .
+Irregular .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Skin :
+Warm , dry , and intact .
+Skin on back without erythema or rash .
+Neurological :
+Pt. awake and alert .
+Oriented to person only .
+Pleasant and cooperative .
+Extremities : no e/c/c in BLE .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 18 2007] 4:00 AM
+Na 144 mEq / L
+K 4.7 mEq / L
+Cl 109 mEq / L
+CO2 24 mEq / L
+Anion Gap 11.0
+BUN 39 mg / dL High
+Cr 1.6 mg / dL High
+GFR ( estimated ) 44.00 mL / min / 1.73 m2 Low
+( Modified )
+Other Studies :
+MRI / MRA 1/17 :
+SMALL VESSEL DISEASE CHANGES ARE SEEN ALONG WITH SOME PROMINENCE OF THE VENTRICULAR SYSTEM .
+MR ANGIOGRAM INTRACRANIAL VESSELS :
+FINDINGS :
+3-D time - of - flight sequences of the intracranial vessels were obtained .
+There is some minimal vessel irregularity of most intracranial branches in particular , the posterior cerebral arteries .
+No major vessel cut off or occlusion is identified .
+No suggestion of intracranial aneurysm is seen .
+Mild irregularity , probably representing minor atheromatous disease is seen in the carotid siphon bilaterally .
+The distal vertebral arteries and basilar artery are unremarkable .
+IMPRESSION :
+MILD INTRACRANIAL ATHEROMATOUS CHANGES ARE NOTED .
+Impression and Plan
+Impression
+**AGE[in 80s] yo male admitted with worsening dementia , urinary incontinence , and difficulty ambulating ; pt. to undergo lumbar drain trial for NPH evaluation .
+Plan
+1. Neurological - h/o dementia , NPH , TIA .
+Admitted with worsening dementia and ambulation .
+Neurology consulted - input appreciated .
+Patient was on Aricept in past with no benefit , but side effects per attending , therefore , will not resume at this time .
+MRI C-Spine :
+IMPRESSION : MULTILEVEL DEGENERATIVE CHANGES OF THE CERVICAL SPINE AS ABOVE WHICH ARE MOST SIGNIFICANT AT THE C5-C6 LEVEL WHERE THERE IS CORD COMPRESSION AND MILD CENTRAL CANAL STENOSIS BUT NO ABNORMAL CORD SIGNAL .
+B-12 level 372 .
+Pt. with continued confusion this AM .
+Neurosurgery consulted ( 7897 ) to evaluate for trial of CSF removal and their impression of compression .
+Recommended NPH evaluation with lumbar drain trial .
+Geriatric Psych c/s for acute change in dementia - appreciate input .
+Recommended MRI brain for further w/u of ischemic etiology and to eval. for TIA .
+Also rec. to replace Vit. B12 due to low end nml level .
+Consider further eval. for Parkinson 's disease .
+No psychiatric indication for a diagnostic spinal tap .
+Attending waiting for input then will address with son , **NAME[VVV , UUU] .
+MRI 1/17 revealed small vessel changes ; MRA 1/17 revealed mild changes .
+Will proceed with lumbar drain trial for NPH evaluation .
+Called NSG to inform them that pt 's family agreed to trial .
+Called IR and put pt. on schedule for lumbar drain Monday AM .
+PT following for DGI testing .
+Will call NSG to further evaluate when drain in place .
+2. Cardiology - h/o CAD , s/p CABG , A-fib .
+Coumadin currently on hold in anticipation of removal of CSF .
+Per attending , no need to bridge with Heparin .
+Continue other meds and observe .
+3. Disposition - PT / OT following for DGI testing .
+Social Services consulted re : placement per family .
+Case discussed with Dr. **NAME[TTT] .
+Professional Services
+Credentials and Title of Author **NAME[SSS] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Jul 18 2007] 10:28 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Jul 18 2007] 10:28 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Jul 18 2007] 10:28 )

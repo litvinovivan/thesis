@@ -1,0 +1,67 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A3B/349
+SERVICE OF :
+**NAME[ZZZ YYY XXX]
+DATE OF ADMISSION :
+**DATE[May 25 2007]
+DATE OF DISCHARGE :
+**DATE[May 26 2007]
+ADMITTING DIAGNOSIS :
+Hypertension .
+SECONDARY DIAGNOSES :
+1. Type 2 diabetes .
+2. Depression .
+3. Gastroesophageal reflux disease .
+CONSULTS :
+Cardiology , Dr. **NAME[UUU] .
+HISTORY :
+This is a **AGE[in 40s]- year - old female with a history of type 2 diabetes , hypertension , depression who presented in the office of
+**INSTITUTION for a visit for irregular menses .
+While in the office , blood pressure was noted to be elevated at 240 systolic .
+The patient reported , over the past month , intermittent episodes of chest pain and shortness of breath with activity .
+The patient was without any of those symptoms when in the office .
+The patient was transferred from **PLACE to the emergency department for further evaluation of her hypertension .
+Upon admission , sodium 133 , troponin 0.18 , sugar 136 , and white count of 12.8 .
+EKG showed normal sinus rhythm with a rate of 82 but with questionable ST elevation changes in leads V1 through V3 .
+The patient was admitted to the hospital for further cardiac workup .
+Cardiology consult was obtained .
+The patient 's blood pressure improved during the hospital course after being restarted on Lopressor and lisinopril , the patient 's home medicines , which she has been out of for month .
+LABORATORY DATA :
+Troponin on admission 0.17 , second troponin 0.2 .
+TSH normal at 4.1 .
+The patient was admitted as n.p.o. and planned for a possible stress test , pending cardiac evaluation .
+Cardiology evaluated the patient and recommended no further workup other than controlling the hypertension .
+Echocardiogram showed mild mitral regurgitation and tricuspid regurgitation , mild left atrial enlargement , left ventricular function grossly within normal limits , no evidence of pericardial effusion .
+Due to lower extremity swelling , lower extremity Dopplers were obtained , which showed no evidence of thrombus in either leg .
+Upon discharge , the patient 's systolic blood pressure is in the 130s .
+The patient is without any chest pain or shortness of breath .
+Upon further history , the patient does report episodes of orthopnea at night .
+Especially due to the patient 's body habitus , sleep studies as an outpatient would be considered .
+We will also consider checking carteolol level as an outpatient .
+DISCHARGE INSTRUCTIONS :
+There are no modifications with diet or activity .
+DISCHARGE MEDICATIONS :
+Include
+1. Aspirin 81 mg 1 tablet p.o. daily .
+2. Lisinopril 20 mg 1 tablet p.o. daily .
+3. Metoprolol 25 mg 1 tablet p.o. b.i.d.
+4. Protonix 40 mg 1 tablet p.o. daily .
+5. Metformin 1000 mg p.o. b.i.d.
+6. Lantus , the patient is to resume her whole dose of Lantus of 75 units subcutaneously b.i.d.
+7. Seroquel 300 mg p.o. b.i.d.
+8. Zoloft 100 mg p.o. daily .
+The patient is to follow up with her primary care physician at **INSTITUTION in 1 week .
+___________________
+**NAME[VVV WWW] , D.O.
+Dict :
+**DATE[May 26 2007] 16:14:17
+Tran :
+**DATE[May 26 2007] 18:30:10 mw/aj/363630/**ID-NUM/**ID-NUM
+R :
+**DATE[May 26 2007] 18:30:10/aj
+**CARBON-COPY

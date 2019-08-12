@@ -1,0 +1,48 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+DISCHARGE DATE :
+**DATE[Mar 01 2007]
+DISCHARGE DIAGNOSIS( ES ) :
+1. SPLENIAL MASS .
+2. SMALL HEMORRHAGE AT #1 .
+REASON FOR ADMISSION :
+This patient as brought in to **INSTITUTION after his daughter noticing some confusion while driving .
+He had a CT performed which once again reveal evidence of a splenial mass .
+The patient had been following with Dr. **NAME[ZZZ] for approximately two years and the lesion at baseline had been unchanged .
+During that time frame while there was some questions whether it was secondary the cuts of the MRI s .
+CT scan from the 29th , however , once again revealed the corpus callosum lesion with hyperdensity .
+There is no definite hemorrhage .
+HOSPITAL COURSE :
+He was brought in .
+The arteriogram revealed no evidence of internal or extracranial abnormalities .
+It was essentially an unremarkable study .
+There was no evidence of AVM or AV fistula .
+His MRI from the 29th once again was consistent with a hemorrhage within the splenium of the corpus callosum extending to the pineal region .
+As a result of these findings , the various options were discussed with the patient and Dr. **NAME[SSS] was consulted in regard to possible stereotactic biopsy for treatment .
+The various options as stated earlier were discussed with the patient and it was agreed upon by the family members and the patient to be brought back for stereotactic biopsy .
+The patient had a repeat MRI prior to his discharge and was deemed he will be discharged into follow-up with Dr. **NAME[SSS] in approximately four weeks .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[VVV XXX , WWW-M]
+**INITIALS
+D : **DATE[Mar 01 2007] 07:21:13
+T : **DATE[Mar 01 2007] 10:37:30
+R : **DATE[Mar 01 2007] 10:37:30/jas
+Job ID :
+370521 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW-RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 05 2007] 05:46:13 PM

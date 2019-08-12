@@ -1,0 +1,149 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Denies SOB .
+C/O pain in R arm and back .
+Vital signs
+**DATE[Apr 26 2007] 8:00:00 AM .
+BP : systolic 102 , diastolic 63 .
+Pulse :
+81 beats per min , regular .
+Resp :
+18 breaths / min .
+Physical Exam
+General Appearance :
+Middle aged female lying in bed in NAD .
+Cardiovascular :
+IRRR .
+Respiratory :
+Fine crackles in bases ; neg. wheezes .
+Gastrointestinal :
++ BS , soft , distended .
+Musculoskeletal :
++ 2 B LE edema ankle to thigh .
++ 2 B UE edema , greater RUE .
+Neurological :
+AAO .
+Speech clear and appropriate .
++ infusaport  .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 26 2007] 4:00 AM
+Na 147 mEq / L High
+K 4.0 mEq / L
+Cl 114 mEq / L High
+CO2 24 mEq / L
+Anion Gap 9.0
+BUN 64 mg / dL Critical High
+Cr 5.0 mg / dL Critical High
+GFR ( estimated ) 12.00 mL / min / 1.73 m2 Low
+( Modified )
+Mg 1.6 mEq / L
+NH3 42 uMol / L High
+WBC 16.6 X10E+09 / L High
+RBC 3.11 X10E+12 / L Low
+Hgb 9.5 gm / dL Low
+Hct 29.5 % Low
+MCV 94.7 fL
+MCH 30.4 pg
+MCHC 32.1 gm / dL Low
+RDW 23.1 % Critical High
+MPV 11.9 fL High
+Platelets 157 X10E+09 / L
+Neutrophils 77 %
+Lymphs 11 % Low
+Monocytes 10 %
+Eosinophils 0 %
+Basophils 0 %
+Metamyelocytes 2 %
+Nucleated RBC 27 /100 WBC
+ABS Neutrophils 12.78 X10E+09 / L High
+ABS Lymphs 1.83 X10E+09 / L
+ABS Monocytes 1.66 X10E+09 / L Critical High
+ABS Eosinophils 0.00 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+ABS Metamyelocytes 0.33 X10E+09 / L
+Type of Differential
+Manual Differential
+RBC Morphology
+RBC Morphology
+Impression and Plan
+Impression
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+Pallative Care assisting with the adjustment of pain meds - Oxycontin 70 mg Q 8 hrs and prn IV Morphine .
+Pt continues to complain of pain .
+Will await palliative cares recs for today .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime D/c 'd - completed full course .
+IV hydrocortisone - will change from IV to po prednisone .
+Pt is without wheezes .
+HEENT - Group A Strep Throat - Completed 10 day Amoxil course .
+Otalgia / inc. hearing loss - ENT c/s - Floxin Otic - completed course .
+Improved hearing .
+Cards - A fib - Inc.
+Cardizem to 60 mg q 6 hrs for tachycardia .
+Hr now in 80 's , will con 't current RX .
+GI - Hepatic encephalopathy - Lactulose BID .
+Monitor ammonia .
+Renal - **INITIALS - Daily dosing of IV Lasix ( no IV Lasix today ) - monitor CXR .
+Appreciate Renal c/s - Renal US - IMPRESSION :
+1. ECHOGENIC KIDNEYS COMPATIBLE WITH RENAL PARENCHYMAL DISEASE , WHICH CORRELATES WITH RECENT ABDOMINAL MR FINDINGS .
+2. NO HYDRONEPHROSIS .
+3. SMALL TO MODERATE PELVIC ASCITES .
+On phosLo .
+Sodium bicarb prn b/c of concern of the sodium .
+As per Renal continue to hold diuretics as pulm allows , she will need to follow - up with Renal upon D/C .
+No need for HD today .
+Repleted potassium and mag yesterday .
+Await results of 24 hr urine .
+Renal still considering HD .
+Continue to encourage free H20 .
+Will need to follow lytes daily .
+Neuro - Diffuse weakness of ext - CTH negative .
+PT / OT .
+May need rehab upon D/C .
+Vasc - RUE swelling and pain - RUE doppler prelim neg .
+Proph - SQ Heparin .
+ID - Leukocytosis - probably from steroids .
+CXR noted and blood and urine cultures no growth .
+C-diff neg .
+Changing steroids to po .
+? secondary to SSC .
+Disposition - Pending .
+Pt does not want to go to SNF .
+Could consider Rehab ( ie Montefiore ) for 1 wk .
+Consider PM&amp ; R consult once Pt closer to D/c .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Pallative care willing to set-up family meeting for disposition .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this **NAME[TTT] : CRNP PA-C
+Perform by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 10:56 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 10:56 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Apr 26 2007] 10:56 )

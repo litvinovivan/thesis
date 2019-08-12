@@ -1,0 +1,41 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA] JR , **NAME[BBB M]
+**ID-NUM
+**ID-NUM
+A6B/637
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Apr 01 2007]
+DATE OF DISCHARGE :
+**DATE[Apr 05 2007]
+DISPOSITION :
+Inpatient hospice .
+ADMISSION DIAGNOSIS :
+Cerebrovascular accident .
+DISCHARGE DIAGNOSES:
+1. Cerebrovascular accident .
+2. Hypertension .
+3. History of coronary artery disease and depression .
+CONSULTING PHYSICIANS:
+1. Dr. **NAME[XXX] , ICU , pulmonary .
+2. Dr. **NAME[WWW] , neurology .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is an **AGE[in 80s]- year-old gentleman who presented to the hospital via EMS after being found by his family unresponsive on the floor of his home .
+CT of his head revealed a very large territory CVA involving the left MCA distribution .
+The stroke was nonhemorrhagic .
+He was left with dense hemiparesis and essentially comatose state .
+He was treated in the intensive care unit without much improvement .
+After lengthy discussion with the family , they have agreed to comfort measures only .
+The patient was transferred to inpatient hospice for support of care .
+DICTATED BY :
+**NAME[VVV UUU] , R.N.
+___________________
+**NAME[ZZZ M. YYY] , M.D
+Dict : **DATE[May 22 2007] 14:09:05
+Tran : **DATE[May 23 2007] 01:26:22
+**INITIALS
+R : **DATE[May 23 2007] 01:26:22/km
+**CARBON-COPY

@@ -1,0 +1,106 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Pt without complaints .
+Physical Exam
+General Appearance :
+NAD .
+Cardiovascular :
+IRRR .
+Respiratory :
+Fine crackles in bases ; neg. wheezes .
+Gastrointestinal :
++ BS , soft , distended .
+Musculoskeletal :
++ 2 /+ 3 B LE edema ankle to thigh .
++ 2 B UE edema , greater RUE .
+Neurological :
+AAO .
+Speech clear and appropriate .
++ infusaport  .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 29 2007] 12:07 PM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Apr 29 2007] 4:00 AM
+Na 145 mEq / L
+K 5.3 mEq / L High
+Cl 110 mEq / L
+CO2 22 mEq / L
+Anion Gap 13.0 High
+BUN 74 mg / dL Critical High
+Cr 5.5 mg / dL Critical High
+GFR ( estimated ) 10.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 8.1 mg / dL Low
+Mg 1.4 mEq / L
+Phos 7.3 mg / dL High
+Impression and Plan
+Impression
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+On Oxycontin TID and prn po/IV Dilaudid .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime D/c 'd - completed full course .
+On po prednisone - adjusted as needed .
+HEENT - Group A Strep Throat - Completed 10 day Amoxil course .
+Otalgia / inc . hearing loss - ENT c/s - Floxin Otic - completed course .
+Improved hearing .
+Cards - A fib - On Cardizem 60 mg QID - cont to monitor .
+GI - Hepatic encephalopathy - Lactulose BID .
+Monitor ammonia .
+Renal - **INITIALS - IV Lasix 80 mg Q AM - monitor CXR .
+Appreciate Renal c/s -
+Renal US - IMPRESSION :
+1. ECHOGENIC KIDNEYS COMPATIBLE WITH RENAL PARENCHYMAL DISEASE , WHICH CORRELATES WITH RECENT ABDOMINAL MR FINDINGS .
+2. NO HYDRONEPHROSIS .
+3. SMALL TO MODERATE PELVIC ASCITES .
+On phosLo .
+Sodium bicarb prn b/c of concern of the sodium .
+Pt to receive TDC tomorrow for HD .
+Neuro - Diffuse weakness of ext - CTH negative .
+PT / OT .
+Pt 's strength is improving .
+Vasc - RUE swelling and pain - RUE doppler prelim neg .
+Proph - SQ Heparin .
+ID - Leukocytosis - probably from steroids .
+CXR noted and blood and urine cultures no growth .
+C-diff neg .
+Changing steroids to po .
+? secondary to SSC .
+DM - Elevated blood sugars ~ 200 s - consider SSI .
+Disposition - Pending .
+Pt will need SNF placement ( HD ) .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Apr 29 2007] 20:05 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Apr 29 2007] 20:05 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Apr 29 2007] 20:05 )

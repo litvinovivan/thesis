@@ -1,0 +1,51 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+I responded to Condition A on 10 South .
+Patient is an **AGE[in 80s]- year - old gentleman with past medical history of dementia , peripheral vascular disease who was admitted to the hospital for ischemic leg .
+The patient was evaluated by Vascular Surgery and he was diagnosed with DVT with the common femoral vein .
+Apparently , patient 's history was complicated by atrial fibrillation and he has been treated with calcium channel blockers .
+Apparently , just prior to calling the code , the patient became bradycardic on the monitor and the code was called .
+On our arrival , the patient was unresponsive and he was treated using ACLS protocol , a note of which will be dictated separately .
+The patient 's initial rhythm was PA , pulseless electrical activity and subsequently had rhythms of asystole , ventricular fibrillation which was resistant to treatment .
+The patient was given epinephrine , a total of 5 mg .
+He was given 1 mg of atropine .
+He was shocked five times from 150 joules to 200 joules .
+He was given calcium chloride and bicarb and also was treated for a possible hyperkalemia .
+The patient was resuscitated for almost half - an - hour and the code was called off due to futility of care .
+The possible causes of his cardiopulmonary arrest is pulmonary embolism , a massive myocardial infarction .
+The code was called off by myself and the family were on their way to the hospital .
+The medical attending and the family will be notified by the medical team .
+I have told the senior resident that I will be more than happy to come and talk to the family when they arrive .
+I do not think the patient is going to require an autopsy .
+However , I told the medical resident that this is an option that they need to talk to the family about .
+I spent a total of 30 minutes assessing , evaluating , managing Mr. **NAME[AAA] .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+AHA/pap
+D :
+**DATE[Jan 15 2008] 23:37:39
+T :
+**DATE[Jan 16 2008] 07:33:36
+R :
+**DATE[Jan 16 2008] 07:33:36/pap
+Job ID :
+347745/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:16:42 PM

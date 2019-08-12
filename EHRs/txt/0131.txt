@@ -1,0 +1,39 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5A/527
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Sep 29 2007]
+DATE OF DISCHARGE :
+**DATE[Sep 31 2007]
+PRINCIPAL DIAGNOSES :
+1. Diverticulitis .
+2. Hypertension .
+HISTORY :
+This is a **AGE[in 60s]- year - old white female who presented with nausea , vomiting , diarrhea , and abdominal pain .
+CT scan showed severe diverticulitis .
+The patient was admitted to a regular bed and started on IV antibiotics consisting of Cipro and Flagyl along with a surgical consult .
+Dr. **NAME[XXX] saw the patient and felt that the patient wants to receive the proper treatment , did not need a colonoscopy , and further treatment .
+On the day of discharge , her abdomen was much better , tolerating her increased diet , and she was afebrile .
+Her white count had come down to 8.8 , a normal range .
+At the time of discharge , she was stable .
+She will continue on Cipro 500 mg b.i.d. for 6 days and Flagyl 500 mg t.i.d. for 6 days .
+She will continue lisinopril for hypertension and Pepcid p.r.n. for abdominal discomfort .
+At the time of discharge , she was stable .
+She will follow up with me in approximately 10 to 14 days .
+Patient care time 35 minutes .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Sep 31 2007] 09:05:04
+Tran :
+**DATE[Sep 31 2007] 11:07:45
+GAP/mm/369107/**ID-NUM/**ID-NUM
+R :
+**DATE[Sep 31 2007] 11:07:45/mm
+**CARBON-COPY

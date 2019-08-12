@@ -1,0 +1,125 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] J
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Jan 13 1933]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt transferred to **INSTITUTION from **INSTITUTION TCU for mental status changes .
+Past Medical History :
+CAD
+Ischemic cardiomyopathy
+Diastolic dysfunction
+CHF
+S/P CABG
+DM
+ESRD - Tues , Thurs , Sat
+Hypothyroidism
+Hypercholesterolemia
+GERD
+C-diff
+Herpes Zoster
+Subjective / Events Overnight :
+Pt without complaints .
+Physical Exam
+General Appearance :
+NAD .
+Cardiovascular :
+IRRR - monitor shows controlled a fib with wide QRS and multiple PVC s .
+Respiratory :
+CTA .
+Gastrointestinal :
+Soft , NT , ND .
+Musculoskeletal :
+Neg. edema .
+Neurological :
+AAO - to person , place , and 2007 Sun ( today is Thurs. ) .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jan 11 2008] 11:55 AM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Jan 11 2008] 8:37 AM
+K 3.5 mEq / L
+**DATE[Jan 11 2008] 6:25 AM
+Glucose ( bedside ) 113 mg / dL High
+**DATE[Jan 11 2008] 12:49 AM
+Na 142 mEq / L
+Na ( adjusted ) 147.8 High
+( Modified )
+K 2.9 mEq / L Low
+( Modified )
+Cl 107 mEq / L
+CO2 26 mEq / L
+Anion Gap 9.0
+BUN 18 mg / dL
+Cr 2.1 mg / dL High
+GFR ( estimated ) 33.00 mL / min / 1.73 m2 Low
+( Modified )
+Glucose 463 mg / dL High
+WBC 59.4 X10E+09 / L Critical High
+RBC 2.73 X10E+12 / L Low
+Hgb 9.7 gm / dL Low
+Hct 29.5 % Low
+MCV 108.1 fL High
+MCH 35.5 pg High
+MCHC 32.9 gm / dL
+RDW 19.9 % High
+MPV 11.4 fL High
+Platelets 53 X10E+09 / L Low
+Platelet Comments Platelets Decreased
+Neutrophils 23 % Low
+Bands 21 % High
+Lymphs 6 % Low
+Monocytes 35 % High
+Eosinophils 0 %
+Basophils 0 %
+Atypical Lymphs 5 %
+Myelocytes 2 %
+Metamyelocytes 8 %
+Nucleated RBC 1 /100 WBC
+ABS Neutrophils 13.66 X10E+09 / L High
+ABS Bands 12.47 X10E+09 / L Critical High
+ABS Lymphs 3.56 X10E+09 / L
+ABS Monocytes 20.80 X10E+09 / L Critical High
+ABS Eosinophils 0.00 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+ABS Atypical Lymphs 2.97 X10E+09 / L
+ABS Myelocytes 1.19 X10E+09 / L
+ABS Metamyelocytes 4.75 X10E+09 / L
+Type of Differential
+Manual Differential
+RBC Morphology
+RBC Morphology
+PT 12.5 sec High
+INR 1.4
+PTT 35.3 sec High
+Impression and Plan
+Impression
+Pt transferred from TCU for mental status changes .
+Plan
+Neuro - L post fossa extraaxial bleed 3.3 x 3.5 with mass effect on cerebellar .
+Renal - ESRD - HD on T / TH / Sun
+Heme - CML to AML - Heme C/s - On Hydra .
+Pallative care consult .
+Speech - Resume diet ; d/c IVF s; speech recs written .
+Cards - Cards c/s for wide QRS , multiple PVCs , A fib controlled .
+Begin Toprol .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Jan 11 2008] 19:03 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Jan 11 2008] 19:03 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Jan 11 2008] 19:03 )

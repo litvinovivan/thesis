@@ -1,0 +1,138 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] J
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Jan 13 1933]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt transferred to **INSTITUTION from **INSTITUTION TCU for mental status changes .
+Past Medical History :
+CAD
+Ischemic cardiomyopathy
+Diastolic dysfunction
+CHF
+S/P CABG
+DM
+ESRD - Tues , Thurs , Sat
+Hypothyroidism
+Hypercholesterolemia
+GERD
+C-diff
+Herpes Zoster
+Subjective / Events Overnight :
+Pt without complaints .
+Vital signs
+**DATE[Jan 16 2008] 5:00:00 AM .
+BP : systolic 108 , diastolic 54 .
+Pulse :
+65 beats per min .
+Resp :
+20 breaths / min .
+Temp :
+98.7 F.
+Physical Exam
+General Appearance :
+NAD .
+Head :
+L parotid area swelling decreased .
+Cardiovascular :
+IRRR .
+Respiratory :
+CTA .
+Gastrointestinal :
+Soft , NT , ND .
+Musculoskeletal :
+Neg. edema .
+Neurological :
+AAO - to person , place , and 2007 .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jan 16 2008] 7:55 AM
+Na 139 mEq / L
+K 4.1 mEq / L
+Cl 101 mEq / L
+CO2 27 mEq / L
+Anion Gap 11.0
+BUN 23 mg / dL High
+Cr 2.5 mg / dL High
+GFR ( estimated ) 27.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 10.1 mg / dL
+Mg 1.9 mEq / L
+Phos 4.5 mg / dL
+WBC 50.2 X10E+09 / L Critical High
+RBC 2.74 X10E+12 / L Low
+Hgb 9.7 gm / dL Low
+Hct 29.0 % Low
+MCV 105.8 fL High
+MCH 35.3 pg High
+MCHC 33.4 gm / dL
+RDW 18.6 % High
+MPV 10.0 fL
+Platelets 27 X10E+09 / L Low
+Platelet Comments
+Platelets Enlarged
+Neutrophils 16 % Low
+Bands 18 % High
+Lymphs 7 % Low
+Monocytes 45 % High
+Eosinophils 1 %
+Basophils 1 %
+Blast Forms 1 %
+Promyelocytes 1 %
+Myelocytes 3 %
+Metamyelocytes 7 %
+Nucleated RBC 1 /100 WBC
+ABS Neutrophils 8.03 X10E+09 / L High
+ABS Bands 9.04 X10E+09 / L Critical High
+ABS Lymphs 3.51 X10E+09 / L
+ABS Monocytes 22.60 X10E+09 / L Critical High
+ABS Eosinophils 0.50 X10E+09 / L High
+ABS Basophils 0.50 X10E+09 / L Critical High
+ABS Blast Forms 0.50 X10E+09 / L
+ABS Promyelocytes 0.50 X10E+09 / L
+ABS Myelocytes 1.51 X10E+09 / L
+ABS Metamyelocytes 3.51 X10E+09 / L
+Sample Size 200 Cells
+Type of Differential
+Manual Differential
+RBC Morphology
+RBC Morphology
+PT 11.7 sec High
+INR 1.3
+Impression and Plan
+Impression
+Pt transferred from TCU for mental status changes .
+Plan
+Neuro - L post fossa extraaxial bleed 3.3 x 3.5 with mass effect on cerebellar .
+Renal - ESRD - HD on T / TH / Sun with Epogen .
+As per renal note , hold HD today ; Pt and family want HD 2 x / wk .
+Monitor Labs daily and I&amp ; Os .
+Heme - CML to AML - Heme C/s - On Hydrea - inc dose .
+Transfuse 6 pks platelets now and as needed for platelets &lt ; 50,000 .
+Vit K 5mg received for 3 days for elevated INR - likely K deficient .
+Repeat INR .
+Pallative care consult - Pt DNR / DNI with exceptions ( incl. blood and blood products ) .
+Cards - Cards c/s for wide QRS , multiple PVC s , A fib controlled .
+On Toprol .
+HEENT - Parotiditis - IV Ancef for 7 days total .
+Improving .
+Dispo - Pending .
+Pt was at **INSTITUTION TCU .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Jan 16 2008] 16:04 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Jan 16 2008] 16:04 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Jan 16 2008] 16:04 )

@@ -1,0 +1,94 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 25 2007]
+EVALUATION DATE :
+**DATE[Mar 29 07]
+A **AGE[in 70s]- year - old female .
+Overnight events reviewed .
+Medications and labs reviewed .
+Condition stable at **INSTITUTION 10D .
+ASSESSMENT
+1. Coronary artery disease .
+CHF .
+Remote MI , aortic regurgitation .
+Mitral regurgitation .
+Volume overload .
+Continue Lasix and afterload reduction .
+No chest pain or dyspnea .
+JVD negative .
+Lungs clear .
+Regular rhythm .
+S1 and S2 normal .
+No audible S3 or S4 gallop .
+Flow murmur is stable .
+MR murmur is stable .
+No cardiovascular decompensation .
+2. Fall .
+Pelvic fracture , right pubic ramus .
+Stable .
+PT / OT .
+Pain control .
+3. Endstage renal disease .
+Continue hemodialysis .
+BUN and creatinine are stable .
+No clinical uremia or acidosis .
+Electrolytes balanced .
+4. Anemia of chronic disease .
+Hemoglobin and hematocrit stable .
+No GI bleed or retroperitoneal hemorrhage .
+5. Diabetes mellitus .
+Accu - Cheks and sliding scale insulin .
+No diabetic foot lesions , ketoacidosis , hypoglycemia , or dehydration .
+Control suboptimal .
+Stable .
+6. Peripheral vascular disease , diabetic retinopathy .
+Visual acuity suppressed .
+Pulses symmetrically diminished .
+Lower extremities , no cyanosis or clubbing .
+__________ .
+7. CVA , remote .
+No lateralization .
+Cognitive function intact .
+Tracking commands .
+Protective reflexes intact .
+DVT , ulcer , and seizure prophylaxis .
+8. Hypertension .
+Blood pressure controlled .
+No neurovascular / cardiovascular decompensation .
+Stable .
+Continue diltiazem , metoprolol , and lisinopril .
+9 . Depression , reactive adjustment disorder .
+Stable .
+Continue Lexapro and Seroquel .
+10. Chronic lung disease .
+Emphysema , bronchitis , basilar atelectasis .
+Scattered rhonchi .
+No respiratory distress .
+Discharge planning .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Mar 29 2007] 10:26:56
+T :
+**DATE[Mar 29 2007] 21:38:57
+R :
+**DATE[Mar 29 2007] 21:38:57/gn
+Job ID :
+366102 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 08 2007] 08:36:56 PM

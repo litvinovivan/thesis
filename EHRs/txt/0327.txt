@@ -1,0 +1,71 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 08 2007]
+DISCHARGE DATE :
+**DATE[Apr 08 2007]
+PRINCIPAL DIAGNOSIS :
+Left shoulder pain .
+CONSULTANTS :
+None .
+PRINCIPAL PROCEDURES AND TESTS :
+An x-ray of the shoulder on **DATE[Apr 8 2007] , was normal .
+DISCHARGE MEDICATIONS :
+1. Aspirin 81 p.o. daily .
+2. Carvedilol 12.5 mg p.o. daily .
+3. Isosorbide mononitrate SA 60 mg p.o. daily .
+4. Lipitor 40 mg p.o. daily .
+5. Lisinopril 20 mg p.o. daily .
+6. Norvasc 10 mg p.o. daily .
+7. Paroxetine 40 mg p.o. daily .
+8. Gemfibrozil 600 mg p.o. daily .
+9. Flexeril 10 mg p.o. b.i.d.
+10. Coumadin 5 mg p.o. q. Monday , Tuesday , Thursday , Friday ,and Saturday ; and 2.5 mg p.o. q. Wednesday and Sunday .
+11. BuSpar 15 mg p.o. b.i.d.
+12. Bactrim DS 1 p.o. b.i.d. through **DATE[Apr 10 2007] .
+13. Motrin 600 mg p.o. q.8 hours p.r.n. shoulder pain .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old female with a history of MI in **DATE[Dec 2006] who presented to the emergency department yesterday with complaints of left shoulder and neck pain .
+She had a small area of left - sided chest pain .
+The patient reported that the pain began the day prior to admission following a verbal argument with her grandson .
+She denies any trauma .
+She did note some shortness of breath initially which subsequently resolved .
+However , her shoulder , neck , and left - sided chest pain did persist .
+As the symptoms were similar to the symptoms she experienced when she had her MI , she was concerned and decided to come to the emergency department .
+She did have a negative troponin at presentation but was admitted to rule out MI .
+The patient 's hospital course was essentially unremarkable .
+She had recently undergone a heart catheterization in **DATE[Dec 2006] which showed vasospasm .
+Additionally , she has had a TTE back in **DATE[Jan 2007] which showed an ejection fraction of 55% and an adenosine stress test in **DATE[Feb 2007] which showed a resting perfusion abnormality at the apex and inferior wall and septum consistent with an old infarct in the mid LAD .
+In the hospital on this admission , the patient had a second troponin which was negative .
+She tolerated a regular diet and was up and out of bed .
+Based on the patient 's exam and her normal troponins , we were confident that her symptoms were much more likely to be related to a musculoskeletal type injury rather than something cardiac .
+She did have a shoulder x-ray which was negative .
+She will be discharged to home and will follow up with her PCP .
+DISCHARGE DISPOSITION :
+To home .
+FOLLOWUP :
+Followup in 1 weeks with Dr. **NAME[VVV UUU] at 94 **INSTITUTION .
+___________________________________
+**NAME[ZZZ M YYY]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+AZT/bg
+D :
+**DATE[Apr 08 2007] 18:12:01
+T :
+**DATE[Apr 08 2007] 22:15:38
+R :
+**DATE[Apr 08 2007] 22:15:38/bg
+Job ID :
+337690/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;

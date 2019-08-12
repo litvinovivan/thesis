@@ -1,0 +1,117 @@
+CRNP Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jan 28 1949]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt is a **AGE[in 50s] year old with NICM , EF 10-15% , S/ ) BiVICD / Pacer , DM , Hypothyroidism , Psoriasis who presented to the **INSTITUTION today with increased adbominal girth , cough , orthopnea , PND and LE Edema .
+Wt gain of 25 + pounds .
+Her last hospitalization was in **DATE[Dec 15 22] , 2006 for decompensated HF .
+She was discharged on Lasix 120 BID , however was only taking Lasix 80-120 daily .
+Subjective / Events Overnight : c/o nausea / vomiting since 2:30 am .
+Vital signs
+BP : systolic 88 , diastolic 49 .
+Pulse :
+102 beats per min .
+Resp :
+18 breaths / min at rest .
+Weight :
+66.5 kgs with clothes .
+Intake by PO : 1020 ( ML ) .
+Output , urine : 2856 ( ML ) .
+Net : - 1836 ( ML ) .
+Physical Exam
+General Appearance : uncomfortable secondary to n/v .
+NAD .
+Cardiovascular :
+S1 S2 RRR
+II / VI systolic murmur .
+Respiratory :
+CTA .
+Gastrointestinal :
+Abd distended , but improved significantly since admission , + ascites , tender + BS .
+Musculoskeletal :
+**NAME[VVV] .
+Skin : psoriatic lesions covering most of body .
+Neurological : alert , oriented X 3 .
+Hematologic / Lymphatic :
+1 + LE edema , feet warm , + DP .
+Tele : paced  .
+Medications :
+Lasix 120 IV BID
+Zaroxolyn 5 mg po BID
+Synthroid 112 mcg po daily
+MagOx 800 mg po BID
+Low Dose SSI
+Aldactone 25 mg po daily
+Effexor 75 mg po BID
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Feb 8 2007] 9:29 AM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Feb 8 2007] 4:00 AM
+Na 138 mEq / L
+K 5.1 mEq / L High
+Cl 91 mEq / L Low
+CO2 34 mEq / L High
+Anion Gap 13.0 High
+BUN 35 mg / dL High
+Cr 1.6 mg / dL High
+GFR ( estimated ) 35.00 mL / min / 1.73 m2 Low
+( Modified )
+Mg 2.1 mEq / L
+Impression and Plan
+Impression
+**AGE[in 50s] yo female admitted with decompensated heart failure secondary to NICM and noncompliance to medications .
+Diuresis with Lasix and Zaroxolyn .
+Plan
+1. Decompensated HF due to NICM .
+EF 10-15% .
+Severe TR and mod - sev MR .
+She presented to the HF clinic with fluid overload **DATE[Feb 4 07] , and admitted for diuresis .
+Lasix 120 IV BID , Zaroxolyn , Aldactone .
+Lisinopril d/c 'd .
+She is has a h/o BB intolerance .
+Wt down 7.4 Kg since adm .
+I/O - 1.8 L yesterday .
+Monitor wts , I/O , fld restriction and low Na food plan .
+2. BiVICD .
+Guidant .
+Implanted 7/06
+3. Hypothyroidism .
+TSH 19.734 .
+Cont Synthroid 112 mcg daily .
+Recheck in 6 weeks .
+4. DM .
+Accuchecks and SSI .
+Appreciate J **PLACE CDE consult .
+BG 95-205 .
+Cont to monitor .
+5. Severe Psoriasis .
+Pt has refused intervention , " nothing works " .
+6. Renal .
+Cr increased to 1.6 ( 1.2 on adm ) .
+Continue to monitor renal function .
+7. Depression .
+Pallative care and Behavioral Medicine consults appreciated .
+Effexor started .
+8. Disp .
+Diuresis , monitor renal function ,
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Feb 08 2007] 11:28 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Feb 08 2007] 11:28 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Feb 08 2007] 11:28 )

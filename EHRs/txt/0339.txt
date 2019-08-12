@@ -1,0 +1,113 @@
+**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 09 2007] 15:19:00
+DISCHARGE DATE :
+**DATE[Nov 18 2007]
+DIAGNOSES :
+1. Nonsmall - cell carcinoma of the lung .
+2. Left pleural effusion .
+3. Hemorrhoids .
+4. Hypokalemia status post abdominal aortic aneurysm repair .
+MEDICATIONS AT DISCHARGE :
+1. Ambien 5 mg at bedtime as needed .
+2. Simvastatin 20 mg at bedtime .
+3. Metamucil 1 packet daily .
+4. Multivitamins daily .
+5. Cepacol lozenges as directed .
+6. Milk of magnesia 30 mL daily .
+7. Hemorrhoidal HC per rectum b.i.d.
+8. Hydrochlorothiazide 12.5 mg daily .
+9. Ferrous sulfate 300 mg daily .
+10. Zetia 10 mg daily .
+11. Senokot 1 daily .
+12. Cardizem CD 240 mg daily .
+13. Caltrate 600 with D daily .
+14. Bayer aspirin 81 mg daily .
+15. Fosamax 70 mg every Wednesday .
+REASON FOR ADMISSION :
+This is an **AGE[in 80s]- year - old female who was seen in the office because of shortness of breath .
+She was unable to go from room to room .
+This has been progressive over the past month but no chest pain .
+She also had a severe cough with scanty sputum production .
+She is an ex - smoker .
+Only other history is abdominal aortic aneurysm repair .
+The patient has been on albuterol , Fosamax , aspirin , Cardizem , Zetia , and Zocor at home .
+On arrival , chest x-ray showed a new left pleural effusion since that of **DATE[Mar 22 2007] , with an inflammatory versus neoplastic disease to be considered .
+She was , therefore , admitted with a lung lesion to rule out carcinoma and for pulmonary evaluation .
+LABORATORY DATA :
+Initial sodium 138 , potassium 3.6 .
+BUN and creatinine 18 and 1.0 .
+Troponin 0.06 .
+Glucose 120 .
+Hemoglobin and hematocrit 9.8 and 29.3 and white count 14,000 .
+BNP is 15 .
+Troponin levels were negative .
+At discharge , at one point , potassium was 3.3 , which was repleted .
+Bronchial washings :
+No Legionella was isolated .
+Echocardiogram :
+Concentric LVH with an ejection fraction of 60% , 2+ tricuspid regurgitation , and mild to moderate pulmonary hypertension .
+Cardiogram :
+Sinus tachycardia .
+As outlined above , the patient was admitted because of an abnormal chest x-ray suspicious for carcinoma of the lung .
+Dr. **NAME[VVV] was asked to see the patient .
+He read chest x-ray showing right pleural effusion and possibility of a developing neoplasm .
+He did recommend bronchodilators .
+O2 saturations were followed , and he also recommended an immediate bronchoscopy , as CAT scan showed a large left lower lobe 9 x 5.5 cm mass with decreased attenuation and infiltrate adjacent to the mass .
+There were pulmonary nodules varying from 1 to 5 cm and extensive mediastinal left hilar enlarged subcarinal adenopathy .
+Bronchoscopy was performed .
+The left lower lobe bronchus showed some narrowing .
+The preliminary cytology was that of a nonsmall - cell lung carcinoma .
+For this reason , Dr. **NAME[UUU] was asked to see the patient from oncology standpoint , and he felt that the patient had at least stage III lung cancer and agreed it could be nonsmall cell .
+The patient and husband were informed that this was not an operative situation and that palliative treatment was the best option either in the form of chemotherapy or radiation therapy .
+He did recommend an outpatient PET scan for staging and to follow within 10 to 14 days at his office .
+During this admission , the patient also developed a rectal bleed and was seen by Dr. **NAME[TTT] who recommended a colonoscopy .
+When electrolytes were corrected , colonoscopy was carried out on **DATE[Nov 17 2007] , showing a long loopy colon with hemorrhoids .
+He recommended Anusol suppositories along with Citracal .
+Potassium had been low and was corrected .
+To complete with workup , an echocardiogram had also been done because of left pleural effusion .
+Results are as above .
+From standpoint of lung carcinoma , final pathology was that of a nonsmall - cell carcinoma .
+Arrangements were made for the patient to have a PET scan as an outpatient and continued followup with Dr. **NAME[UUU] .
+She was free of chest pains and shortness of breath at this time .
+She will follow a regular diet .
+No heavy lifting over 10 pounds .
+Her PCP , Dr. **NAME[ZZZ] , will see her within 2 weeks , Dr. **NAME[VVV] as directed , and Dr. **NAME[UUU] within 10 to 14 days .
+Electrolytes , BUN , and creatinine will be done on **DATE[Nov 25 2007] .
+Home care nurses will also follow as needed .
+At this time , the patient is free of symptoms , but will report any fever over 101 or hemoptysis or increase in sputum production .
+_________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+SC/sp
+D :
+**DATE[Nov 21 2007] 14:12:32
+T :
+**DATE[Nov 21 2007] 22:45:07
+R :
+**DATE[Nov 21 2007] 22:45:07/sp
+Job ID :
+355368/**ID-NUM
+CC :
+&lt;start header&gt;**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+Page 3 of 3
+&lt;end header&gt;
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 24 2007] 12:53:59 PM

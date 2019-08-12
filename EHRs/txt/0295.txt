@@ -1,0 +1,76 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 10 2007]
+Discharged :
+**DATE[May 13 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY DIAGNOSIS :
+Right knee degenerative joint disease .
+SECONDARY DIAGNOSES :
+Include :
+1. Hypothyroidism .
+2. Degenerative joint disease .
+3. Morbid obesity .
+4. Gastroesophageal reflux disease .
+5. Depression and anxiety .
+6. Borderline diabetes .
+SURGICAL PROCEDURE :
+Right quadriceps - sparing total knee joint replacement with surgical navigation .
+This was done by Dr. **NAME[YYY ZZZ] with physician assistant **NAME[VVV UUU] on **DATE[May 10 2007] .
+CONSULTS :
+Consults were made to physical therapy , occupational therapy , social services as well as Dr. **NAME[TTT SSS] for medical management .
+History and physical is as per chart without any insertions or deletions .
+HOSPITAL COURSE :
+Postoperative day #1 :
+The patient is without complaints .
+No shortness of breath or chest pain .
+Vital signs were stable .
+Neurovascular was intact .
+Foley will be discontinued today .
+Start physical therapy .
+Weightbearing as tolerated .
+We will check H and H .
+Postoperative day #2 :
+The patient was without complaints .
+No chest pain .
+No shortness of breath .
+The patient reports that the operated leg is buckling with ambulation .
+The patient is planning for discharge to home with physical therapy at home .
+Postoperative day #3 :
+The patient is alert .
+Incisions are benign .
+H and H of 10.3 and 30.9 .
+The patient is independent with gait .
+Currently needs assistance x1 with transfers .
+The patient is for discharge home today if independent with transfers .
+Follow up with Dr. **NAME[ZZZ] in 1 month .
+The patient was discharged on postoperative day #3 .
+The patient may resume preoperative medications .
+Continue aspirin for anticoagulation .
+Continue Vicodin for pain control .
+Continue physical therapy and occupational therapy .
+Weightbearing as tolerated .
+Keep the incisions clean and dry .
+No driving while on pain medications .
+Call the office with any questions , concerns , or complaints .
+Go to the emergency department for any chest pain , shortness of breath , calf pain , or swelling .
+Followup appointment with Dr. **NAME[ZZZ] in 1 month .
+______________________________
+**NAME[WWW XXX] , PA-C
+HS Job # 954986 / 38640 / 32948
+SHY # **ID-NUM
+D :
+**DATE[May 25 2007] 13:38
+T :
+**DATE[May 27 2007] 18:07
+**CARBON-COPY

@@ -1,0 +1,96 @@
+Progress Note
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Nov 20 1928]
+Author :
+**NAME[XXX , WWW M]
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Dec 7 2007] 8:00 AM
+Na 140 mEq / L
+K 4.2 mEq / L
+Cl 103 mEq / L
+CO2 34 mEq / L High
+Anion Gap 3.0 Low
+BUN 33 mg / dL High
+Cr 1.1 mg / dL
+Glucose 171 mg / dL High
+Ca 9.4 mg / dL
+Troponin I &lt ; 0.04 ng / mL
+WBC 6.6 X10E+09 / L
+RBC 4.19 X10E+12 / L Low
+Hgb 12.4 gm / dL Low
+Hct 36.6 % Low
+MCV 87.4 fL
+MCH 29.5 pg
+MCHC 33.7 gm / dL
+RDW 14.3 %
+MPV 7.7 fL
+Platelets 266 X10E+09 / L
+Neutrophils 87 %
+Lymphs 9 % Low
+Monocytes 4 %
+Eosinophils 0 %
+Basophils 0 %
+ABS Neutrophils 5.7 X10E+09 / L
+ABS Lymphs 0.6 X10E+09 / L
+ABS Monocytes 0.3 X10E+09 / L
+Abs Eos , auto 0.0 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+Theophylline &lt ; 2.0 ug / mL
+**DATE[Dec 7 2007] 6:35 AM
+Temperature Conversion 36.4 Deg C
+Temperature 97.6 Deg F
+Temperature Site Oral
+Pulse 92 BPM
+Respiratory Rate 16
+Systolic BP 127 mmHg
+Diastolic BP 72 mmHg
+BP Site Left Arm
+Current weight conversion 72.7 kg
+Weight 159.90 lb
+Weight Method Bedscale
+History of Present Illness
+The patient presents with complaint of
+It is characterized by Patient reports no overnight events .
+Patient denies N/V , fever / chills and chest pain .
+Patient states he is " breathing easier .".
+Physical Examination
+Constitutional
+Patient is alert and oriented to person , place and date .
+Patient is in NAD .
+Heart
+RR .
+No m/r/g 's appreciated .
+Lungs
+Rhonchi with bibasilar rales .
+Abdomen .
++ BS , nondistended , nontender .
+Extremities
+No LE edema .
+Mental status .
+Alert and oriented to person , place and date.  .
+Impression and Plan
+General Plan
+**AGE[in 70s] y/o male with pmh of CAD , s/p MI , HTN , COPD and pneumonia .
+1. Pulm - White count is normal ( 6.6 ).
+Patient on day 2 of Avelox .
+Continue nebs .
+Sputum and blood cultures are pending .
+Will f/u on .
+Continue O2 supplement .
+2. COPD - Patient started on IV steroids ( methylprednisolone ).
+Troponin wnl .
+**INSTITUTION Resident
+Perform by **NAME[XXX , WWW M] ( on **DATE[Dec 07 2007] 15:16 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[Dec 07 2007] 15:16 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[Dec 07 2007] 15:16 )

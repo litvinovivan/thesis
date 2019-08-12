@@ -1,0 +1,40 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+PROCEDURE :
+CENTRAL LINE PLACEMENT .
+INDICATIONS :
+Cardiopulmonary arrest for IV access .
+TECHNIQUE :
+The patient was positioned appropriately .
+A triple lumen catheter was placed in the right femoral vein using Seldinger technique .
+Catheter was sutured to the skin .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+**INITIALS
+D :
+**DATE[Jan 15 2008] 23:43:39
+T :
+**DATE[Jan 16 2008] 07:33:36
+R :
+**DATE[Jan 16 2008] 07:33:36/vls
+Job ID :
+347751/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:16:35 PM

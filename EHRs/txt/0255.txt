@@ -1,0 +1,53 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Jan 17 2008]
+DISCHARGE DATE :
+**DATE[Jan 20 2008]
+CHIEF COMPLAINT :
+Hemifacial spasm .
+BRIEF CLINICAL HISTORY :
+This is a **AGE[in 50s]- year - old woman with hemifacial spasm treated in the past with botox , however , becoming less responsive to that therapy who is admitted for microvascular decompression of cranial nerve 7 on the right .
+PROCEDURE :
+1. Left retromastoid craniotomy .
+2. Microvascular decompression of the left 7th nerve .
+3. Titanium plate cranioplasty .
+POSTOPERATIVE COURSE :
+Ms. **NAME[AAA] was discharged on postoperative day #3 with a slight headache , no facial tic .
+Face is symmetric .
+She was out of bed with no problems , tolerating regular diet , and had no drift or significant complaint .
+She had a subtle level II weakness of her right face .
+Her postop labs are normal including a sodium of 142 .
+She was discharged home with instruction to follow up in Dr. **NAME[ZZZ] 's clinic with a prescription for Vicodin for postoperative pain .
+DISCHARGE DIAGNOSIS ( ES ) :
+REASON FOR ADMISSION :
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+HOSPITAL COURSE :
+DISCHARGE INSTRUCTIONS :
+CONDITION ON DISCHARGE :
+___________________________________
+**NAME[YYY XXX ZZZ] , M.D.
+Dictator :
+**NAME[VVV WWW] , M.D.
+CF/hmj
+D :
+**DATE[Jan 22 2008] 10:44:30
+T :
+**DATE[Jan 23 2008] 10:57:53
+R :
+**DATE[Jan 23 2008] 10:57:53/hmj
+Job ID :
+356222/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , UUU] ***
+Electronically Signed by **NAME[TTT SSS] for **NAME[YYY ZZZ] **DATE[Feb 08 2008] 05:39:40
+PM

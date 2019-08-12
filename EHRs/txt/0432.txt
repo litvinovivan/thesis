@@ -1,0 +1,56 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[UUU : RRR]
+**NAME[TTT SSS]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Nov 23 07]
+I am managing this critically ill , **AGE[in 40s]- year - old male who is postoperative day #4 from repair of SMA pseudoaneurysm .
+Postoperative course complicated by fluid overload , respiratory insufficiency and jaundice .
+I am seeing him for management of these issues .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data , and discussed the management with the General and Vascular surgeons .
+PROBLEMS AND MANAGEMENT ARE AS FOLLOWS :
+1. Respiratory failure .
+Chest x-ray shows increasing pulmonary vascular congestion and infiltrates .
+On the vent , I have him on assist control .
+His peak airway pressures , minute ventilation and gas exchange have been adequate .
+I did place him on a pressure support trial today and after a two-hour trial , his rapid shallow breathing index was less than 100 .
+I have weaned and extubated him .
+I have also given him a couple doses of Lasix today which he has responded with a brisk diuresis .
+Clinically he is improving with the diuresis and will continue to diurese him over the course of the evening .
+2. Status post SMA aneurysm repair .
+He remains on prophylactic antibiotics .
+I have increased his dose of labetalol for better blood pressure and heart rate control and he seems to be responding nicely to that .
+His abdominal distention has improved significantly as has his tenderness .
+I will start some trickle tube feeds with Peptinex today .
+Of note , his total bilirubin is up to 10 today .
+His transaminases are unremarkable .
+Previously , his bilirubin was around 5 to 6 .
+I suspect that he just has some increasing cholestasis after the surgery .
+We have ordered a right upper quadrant ultrasound to evaluate .
+Total Critical Care time = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+SRG/maf
+D :
+**DATE[Nov 23 2007] 22:08:46
+T :
+**DATE[Nov 23 2007] 22:38:02
+R :
+**DATE[Nov 23 2007] 22:38:02/maf
+Job ID :
+359142 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:04 PM

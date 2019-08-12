@@ -1,0 +1,125 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[RRR M QQQ]
+ADMISSION DATE :
+**DATE[May 17 2007]
+DISCHARGE DATE :
+**DATE[May 23 2007]
+DISCHARGE DIAGNOSES :
+1. Fever of uncertain etiology .
+2. Chronic granulomatous disease .
+3. Constipation .
+CONSULTS :
+1. Infectious Disease .
+2. Pulmonary Medicine .
+3. General Surgery .
+STUDIES COMPLETED :
+1. Multiple chest x-rays on admission on **DATE[May 12 2007] , chest x-ray showed chronic changes in the lung bases .
+No pleural effusion .
+2. On **DATE[May 18 2007] , CT scan of the abdomen and pelvis with contrast showing slight decrease in lingular nodules since **DATE[May 19 2006] , stable to decreasing hypodense hepatic foci at least a portion of which may be scarring , no evidence of active inflammatory process or significant ascites .
+3. On **DATE[May 19 2007] , bronchoscopy with BAL .
+HISTORY :
+The patient is a **AGE[in 20s]- year - old white male who presented to **INSTITUTION 's ED on **DATE[May 17 2007] , complaining of several - day history of abdominal pain , nausea , and vomiting as well as generalized malaise .
+He has a past medical history of chronic granulomatous disease , recurrent Aspergillus pneumonia , liver abscess with Staphylococcus aureus , and recent discharge with the diagnosis of possible fungal pneumonia .
+In the ED , he denied fever , chills , melena , chest pain , palpitations , and myalgias .
+He had been off his prophylactic Bactrim for approximately a week when he was discharged from a week ago , he was instructed to go to the bronch lab and get a BAL .
+Unfortunately when he called to make this appointment , they had no record of him .
+Laboratory data showed a sodium 140 , potassium 4.5 , chloride 105 , CO2 24 , BUN 19 , creatinine 1 , and glucose 77 .
+White count 8.9 , hemoglobin 12 , hematocrit 37 , platelet count 295 , 85 neutrophils , 12 lymphocytes , 2 monocytes , lipase 177 , total bilirubin 1 , ALT 36 , AST 76 , alkaline phosphatase 87 , and GGTP 32 .
+Incidentally , we did consult General Surgery , as there was a concern that he may have an acute abdomen .
+We did evaluate the patient following his CT scan and did serial exams , and they felt that he did not have any acute surgical issues .
+In regards to his abdominal pain , our differential diagnosis was broad at first .
+We thought that he could very well still be constipated versus viral bacterial gastroenteritis versus appendicitis or worsening of his liver abscess .
+Although clinically , he did not appear to be septic , overnight on his first hospital night , he developed a fever of 40.1 with severe chills and rigors .
+At this point , we consulted Infectious Disease .
+We did pan culture him with blood cultures , urine cultures , stool cultures , and eventually a bronchoscopy with BAL .
+At this point in time clinically , he did not appear well , and he was started on IV vancomycin and Unasyn as well as continuing his itraconazole .
+We did check a CT scan of his chest , abdomen , and pelvis , and as mentioned above , it only showed a modestly improved hepatic abscess .
+None of his cultures grew out either .
+Over the course of the next 24 to 48 hours clinically , he improved dramatically .
+He was afebrile , feeling much better and had an appetite .
+His white blood cell count did come down as well .
+With this chronic granulomatous disease , it is difficult to analyze his blood work , as he may not have leukocytosis .
+The final recommendations from Infectious Disease are to complete a total of a 2 - week course of IV vancomycin and Unasyn IV .
+Once that is completed , he should start on oral cefadroxil and rifampin .
+All the while , he should continue with his Bactrim and itraconazole .
+Furthermore , we will schedule him for repeat CT scan of the chest , abdomen , and pelvis and then see Dr. **NAME[PPP] in Infectious Disease in approximately 4 weeks .
+From a pulmonary standpoint , again he had been off his Bactrim so he could have a BAL to evaluate a pulmonary nodule as well as his pneumonias .
+Pulmonary Medicine was consulted and did complete a bronchoscopy with BAL .
+At the time of this dictation , his cultures have all been negative .
+They were quite adamant that he did not have any clinical symptoms suggestive of pneumonia .
+We did obtain an abdominal x-ray on the patient that did show severe constipation , but no obstruction .
+He was not having bowel movements with Colace and Senokot .
+Therefore , we did try mag citrate for several days per the recommendation of General Surgery .
+He then started to have loose stools .
+We have instructed him at home to eat a high - fiber diet with fruits and vegetables as well as taking in water .
+We will instruct him to use Colace and Senokot as needed for constipation in the future .
+Again the stool cultures we did receive back on **DATE[May 18 2007] , were negative for Salmonella , Shigella , Campylobacter , C. difficile , and white blood cells .
+Overall , the patient has been doing much better .
+He has been afebrile , hemodynamically stable and overall feeling better .
+He does have an appetite .
+PHYSICAL EXAMINATION :
+Vital Signs :
+He is afebrile .
+Temperature 36.8 , pulse 54 , respirations 18 , blood pressure 110/72 , and he has 99% on room air .
+General :
+He is in no distress .
+He appears comfortable .
+Neurologic :
+Alert and oriented x 3 .
+Nonfocal exam .
+Cardiovascular :
+He has normal S1 and S2 .
+No murmur .
+Lungs :
+Clear bilaterally .
+Abdomen :
+Soft and flat .
+Mild tenderness with palpation specifically in the suprapubic and left lower quadrant region .
+Extremities :
+No edema .
+He can be discharged to home today .
+Activity :
+As tolerated .
+Diet :
+High - fiber diet .
+MEDICATIONS :
+1. Vancomycin 1 g IV q.12 hours through **DATE[Jun 2 2007] .
+2. Unasyn 1.5 g IV q.6 hours through **DATE[Jun 2 2007] .
+3. Cefadroxil 1 g p.o. b.i.d. starting **DATE[Jun 3 2007] .
+4. Rifampin 300 mg p.o. b.i.d. starting **DATE[Jun 3 2007] .
+5. Bactrim DS 1 tablet p.o. b.i.d.
+6. Itraconazole 200 mg p.o. b.i.d.
+7. Prilosec 1 tablet p.o. q. day .
+8. Colace 100 mg p.o. b.i.d. as needed for constipation .
+9. Senokot 2 tablets p.o. nightly as needed for constipation .
+FOLLOWUP :
+He is to have a repeat CT scan of the chest , abdomen , and pelvis prior to his appointment with Dr. **NAME[PPP] of Infectious Disease in 4 weeks .
+We will schedule this appointment for him in the morning prior to his discharge .
+___________________________________
+**NAME[RRR M QQQ]
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+KF/ss
+D :
+**DATE[May 23 2007] 19:49:51
+T :
+**DATE[May 24 2007] 00:10:36
+R :
+**DATE[May 24 2007] 00:10:36/ss
+Job ID :
+359020 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , OOO] ***
+Electronically Signed by **NAME[RRR QQQ]
+**DATE[Jun 08 2007] 11:12:54 AM

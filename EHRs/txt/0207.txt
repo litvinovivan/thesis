@@ -1,0 +1,27 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Apr 30 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Addendum to transfer summary that was dictated on **DATE[Apr 29 2007] .
+The patient was not transferred on **DATE[Apr 29 2007] , because her bed was not ready .
+She is scheduled to be transferred today **DATE[Apr 30 2007] .
+______________________________
+**NAME[WWW XXX]
+HS Job # 158744 / 33103 / 38218
+SHY # **ID-NUM
+D :
+**DATE[Apr 30 2007] 14:15
+T :
+**DATE[Apr 30 2007] 14:38
+**CARBON-COPY

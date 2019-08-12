@@ -1,0 +1,198 @@
+**INSTITUTION
+CARDIOLOGY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 18 2007]
+TRANSFER DATE :
+**DATE[Mar 06 07]
+TRANSFERRED TO :
+**NAME[RRR QQQ] , M.D.
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+TRANSFER DIAGNOSIS ( ES ) :
+PRIMARY DIAGNOSIS ( ES ):
+1. Three vessel coronary artery disease .
+SECONDARY DIAGNOSIS ( ES ):
+1. Congestive heart failure exacerbation .
+2. Acute kidney injury on chronic kidney disease .
+REASON FOR ADMISSION :
+This is a **AGE[in 70s]- year - old male veteran who gets his primary care at the **INSTITUTION in the **PLACE Section of **PLACE who has a history of chronic kidney disease with a baseline creatinine of approximately 2.3 , hypertension and CVA and peripheral vascular disease , presented initially to the **INSTITUTION with some lightheadedness , nausea , fatigue , and two brief episodes of chest pain .
+The patient was found to be initially in an junctional rhythm .
+The initial troponin there was negative and the patient was subsequently transferred to the **INSTITUTION Emergency Department , as there were no beds available at the **INSTITUTION .
+LABORATORY , RADIOGRAPHIC AND OTHER DIAGNOSTIC STUDY FINDINGS :
+Procedures Performed / Studies obtained :
+Ventilation perfusion scan of lungs and on **DATE[Feb 24 2007] which was low probability for pulmonary embolism .
+Bilateral lower extremities Doppler 's studies done on **DATE[Feb 26 2007] which was negative for evidence of deep venous thrombosis .
+Upper extremity Doppler 's done on **DATE[Feb 24 2007] negative for evidence of deep venous thrombosis .
+CT scan of upper extremity done on **DATE[Feb 24 2007] which showed fluid within the independent portion of the distal arm likely represents dependent edema given fluid location , and underlying abscess could not be excluded without assessment of IV contrast .
+Transthoracic echocardiogram done on **DATE[Feb 26 2007] which showed mildly dilated left ventricle with severely hypokinetic posterior wall and mildly decreased systolic function within his estimated ejection fraction of 45 to
+50% , moderate MR , moderate pulmonary hypertension with an estimated PA systolic of 54 mm and mild LAE and mild TR .
+Adenosine myocardial perfusion study done on **DATE[Mar 02 2007] which showed a high probability of coronary disease and ischemia and a large area of moderate severity .
+There is defects visualized suggesting the presence of triple vessel coronary artery disease , ejection fraction of 46% , defects are visualized in mid LAD distribution on obtuse marginal distribution and RCA distribution .
+Cardiac catheterization done on **DATE[Mar 05 2007] which showed left main with no disease , LAD with mid 80% stenosis just after take off of moderate diagonal branches .
+Left circumflex with proximal subtotal occlusion gives off moderate sized OM - 1 and small to moderate sized OM - 2 which was seen filling faintly with left to left and right to left collaterals .
+RCA dominant with mid 70 to 80% stenosis with right to left collaterals to the left circumflex OM distribution .
+There were multiple chest x-rays .
+Chest x-ray done on **DATE[Feb 18] and **DATE[Feb 23] which showed lungs to appear clear and chest x-ray done on **DATE[Feb 28] which shows interstitial pulmonary edema which resolved by chest x-ray on **DATE[Feb 21 2007] .
+Therapeutic thoracentesis done on **DATE[Feb 30 2007] by Interventional Radiology with successful removal of 80 cc of yellowish fluid .
+CONSULTS OBTAINED :
+1. Nephrology consults :
+**DATE[Feb 29 2007] .
+2. Pulmonary consult on **DATE[Feb 29 2007] .
+HOSPITAL COURSE :
+Junctional bradycardia .
+Within a few hours of admission , the patient 's heart rate converted to normal sinus rhythm .
+The patient continued initially to be bradycardiac .
+His heart rate was 40 .
+The patient 's bradycardiac persisted after conversion to normal sinus rhythm and so atenolol was discontinued .
+However , the patient was overall stable from a cardiac standpoint and the patient was transferred to the General Medicine A-Service care .
+While under the care of the General Medicine Service , the patient was transferred to the Medicine Service on approximately **DATE[Feb 19] .
+However , under the care of the Medical Service , the patient developed tachypnea , bradycardia , or hypoxia with a new oxygen requirement of 5 liters nasal cannula .
+The patient had not been on oxygen at all prior to this time .
+Initial chest x-rays did not reveal any evidence of pulmonary edema .
+There was concern for pulmonary embolism but a CT study with contrast could not be pursued , as the patient had a significant elevation of creatinine .
+The patient 's creatinine initially on arrival to the hospital was 5.2 and at the time of his oxygen requirements , his creatinine was still in the 2.5 to 2.7 range .
+The Medicine Service pursued an evaluation via Doppler studies which did not reveal any evidence of thromboses .
+The patient also had a VQ scan that was low probability for a pulmonary embolism .
+His EKG did not show any acute ST or T - wave changes .
+The troponin were checked which showed an elevation of 1.49 on **DATE[Feb 25 2007] .
+His troponin earlier in admission when the patient was initially admitted were negative times 3 on **DATE[Feb 18] .
+The General Medicine Service subsequently consulted the Cardiologist who evaluated the patient and felt that he should return to the care of the Cardiac Pavilion Service .
+Meanwhile , the patient had been treated with heparin drip for presumptive PE treatment and this was continued to for three to four days after his VQ scan did not show PE .
+This was being done as clear etiology for his shortness of breath which is still not elicited .
+The patient had transthoracic echocardiogram done on **DATE[Feb 26] which showed some wall motion abnormalities but ejection fraction was only mildly decreased at 45 to 50% .
+There was moderate mitral regurgitation and moderate pulmonary hypertension as well .
+The patient was also showing peripheral edema on exam and the volume was thought to be a contributor to his symptoms .
+Several chest x-rays to this point has still not shown any interstitial edema but on **DATE[Feb 28] , chest x-ray did begin to pulmonary edema and by this point , pulmonary embolism had been ruled out .
+The patient was receiving diuretic therapy at smaller levels of Lasix at approximately 20 mg IV twice daily .
+His creatinine was elevated in the high 2.5 to 2.8 range , so initially these doses were used carefully .
+There was some verbal report from someone who had reviewed records at the **INSTITUTION that there maybe some possible interstitial lung disease history in the patient and therefore the Pulmonary Service was also consulted for their input , as the primary lung disorder being the etiology of the patient 's dyspnea .
+However , further review did not show any sort of evidence of work-up or reason the patient should have interstitial lung disease .
+This could not be further evaluated because the patient was very , very orthopneic that he could not tolerate a CT scan by laying flat .
+The patient 's was also seen by the Nephrology Service around that time who recommended more aggressive diuresis .
+The patient 's diuretic regimen was quickly escalated to 80 mg q. 8 hours .
+In addition , the Pulmonary Service noted that he had moderate pleural effusions bilaterally on his chest x-ray and recommended therapeutic thoracentesis .
+A therapeutic thoracentesis was done from approximately 100 cc of fluid .
+No pigtail catheter was placed .
+This was done on the left side under Interventional Radiology guidance .
+Meanwhile , the patient 's urine output significantly increased with the diuresis and his orthopnea improved .
+The patient 's O2 requirements began to decrease .
+He was at 5 liters of oxygen for approximately one weeks duration , but the patient 's diuretics eventually assisted in his overall symptomatic relief .
+Eventually , the patient was no longer on any sort of supplemental oxygen and his orthopnea resolved as well .
+Overall , the patient 's symptoms were felt to be due to CHF exacerbation , as the patient was believed to have diastolic dysfunction .
+He has a history of MR as well and hypertension which maybe playing a role in this .
+Coronary disease :
+Once the patient began to stabilize from the heart failure exacerbation , furthers cardiac testing was pursued since the patient had a troponin elevation earlier .
+An adenosine myocardial perfusion nuclear thallium stress study was performed .
+This was highly suggestive of three - vessel coronary artery disease .
+The patient 's creatinine at this time had leveled off in the 3.0 range and though there was a risk that the patient may suffer increased kidney injury from dye exposure , it was felt that the patient 's benefits outweigh the risks and that cardiac catheterization should be pursued .
+It was explained to the patient that risks and benefits of the catheterization and the need for him to be on dialysis as a result .
+However , the patient did agree to further work - up , as he may have significant underlying coronary disease that would otherwise go undiagnosed .
+The cardiac catheterization was performed on **DATE[Mar 05] , that revealed three-vessel coronary artery disease .
+The patient had a mid 80% stenosis in the left anterior descending artery just after take off of a moderate sized diagonal branch .
+She had a left circumflex out of proximal subtotal occlusion and the RCA also had a mid 70 to 80% stenosis .
+See full cath report for further details , but see the recommendations at that point , we can pursue coronary artery bypass graft surgery .
+The attending physician , Dr. **NAME[PPP] spoke to the VA hospital Administrators , as well as , VA Telemetry attending , Dr. **NAME[OOO] and the VA hospital agreed to accept the patient for further care of his coronary artery disease and referral evaluation for coronary artery bypass graft surgery .
+Acute kidney injury :
+ON chronic kidney disease .
+The patient presented initially with a creatinine of 5.2 on **DATE[Feb 18] by **DATE[Feb 23] , his creatinine had come down to 2.5 and is felt to be pre - renal in origin .
+Subsequently however , the patient 's creatinine again began to climb , as the patient developed the dyspnea symptoms and his creatinine peaked again to a level of 3.5 on **DATE[Feb 31] .
+The patient was seen by the Nephrology Service on **DATE[Feb 29] , who followed very closely as the patient was showing evidence of advanced kidney injury and possible need for further renal replacement therapy .
+However , they recommended radiographic diuresis and with such treatment , the patient 's excessive fluid was removed and his creatinine levels subsequently stabilized .
+AT the time of this dictation and for the last four days , the patient 's creatinine has leveled off at 3.0 .
+In addition , the patient was placed on Aranesp for __________ that maybe related to the chronic kidney disease , as well as , supplemental oral bicarbonate .
+It was 650 mg t.i.d. but on transfer orders this was being placed at b.i.d. since the patient 's bicarb has been slightly elevated at 29 .
+The patient 's creatinine continues to be monitored as the patient has recently had a cardiac catheterization and ultimately the patient should have outpatient follow up with a Nephrologist due to his advance chronic kidney disease .
+Anemia .
+The patient 's hemoglobin on presentation was 11.1 .
+This did bottom out a level of 7.6 on **DATE[Feb 31] .
+Around this time , the patient had been on heparin empirically for PE treatment and the drop occurred during that course .
+The patient 's stool did have heme positive results on it on **DATE[Feb 29] , but there was no gross blood seen .
+The patient did receive 2 units of packed red blood cells for transfusion and off the heparin , the hemoglobin did stabilize .
+Hypertension :
+The patient 's blood pressure medications were adjusted during the hospital stay .
+Initially , the patient had been on Norvasc .
+However , with the edema , the patient 's Norvasc was titrated to off .
+In addition his hydralazine was titrated up as well as the patient 's beta blockade .
+On **DATE[Mar 05] , 32007 , the patient 's beta blockade was increased to 150 mg p.o. b.i.d.
+He still is hypertensive and will likely need better blood pressure control .
+There is still room to go up on the patient 's clonidine and also add back calcium channel blocker if need be .
+TRANSFER INSTRUCTIONS :
+Discharge Medications :
+1. Allopurinol 100 mg p.o. q. day .
+2. Aspirin 81 mg p.o. q. day .
+3. Calcium acetate 667 mg p.o. t.i.d.
+4. Cilostazol 50 mg p.o. b.i.d.
+5. Clonidine 0.2 mg transdermally q. Monday .
+**NAME[NNN] MD if systolic is within normal limits .
+6. Aranesp 100 mcg subcutaneously q. Thursday .
+7. Docusate 100 mg p.o. b.i.d.
+8. Famotidine 20 mg p.o. q. day .
+9. Guaifenesin 200 mg p.o. q. 6 hours p.r.n.
+10. Heparin 5000 units subcutaneously q. 8 hours .
+11. Hydralazine 50 mg p.o. q.i.d.
+12. Albuterol 0.62 mg inhaled nebulizer q.i.d.
+13. Magnesium oxide 400 mg p.o. q. day .
+14. Metoprolol 150 mg p.o. b.i.d.
+Hold if systolic blood pressure less than 90 or heart rate less than 55 .
+15. Senna two tablets p.o. q.h.s.
+16. Simvastatin 20 mg p.o. q.h.s.
+17. Sodium bicarbonate 650 mg p.o. b.i.d.
+18. Terazosin 5 mg p.o. q.h.s.
+Hold if systolic blood pressure less than 100 .
+19. Acetaminophen 650 mg p.o. q. 6 hours p.r.n. pain .
+20. Nitroglycerine 0.4 mg p.r.n. chest pain .
+21. Furosemide 80 mg IV b.i.d.
+Hold if systolic blood pressure less than 100 .
+CONDITION ON TRANSFER :
+DISCHARGE INSTRUCTIONS :
+The patient to **NAME[NNN] MD for chest pain , shortness of breath , decreased urine production , fevers , chills , swelling , or other worrisome symptoms .
+DISCHARGE DIET :
+Cardiac .
+DISCHARGE ACTIVITY :
+No strenuous activity .
+The patient should be on telemetry monitoring .
+He can be out of bed as tolerated .
+CONSULT :
+The patient was seen by PT / OT .
+The patient should follow up with Dr. **NAME[OOO] at **INSTITUTION .
+DISCHARGE ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+___________________________________
+**NAME[CCC PPP] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 05 2007] 14:52:09
+T :
+**DATE[Mar 05 2007] 15:30:12
+R :
+**DATE[Mar 05 2007] 15:30:12/hmj
+Job ID :
+375900/**ID-NUM
+Cc:
+&lt;START HEADER&gt;
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Feb 18 2007]
+TRANSFER DATE :
+**DATE[Mar 06 07]
+Page 8 of 8
+&lt;END HEADER&gt;
+&lt;START HEADER&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , MMM] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 09 2007] 01:31:38 PM

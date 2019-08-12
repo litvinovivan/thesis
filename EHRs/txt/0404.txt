@@ -1,0 +1,16 @@
+I have examined the patient on rounds with housestaff .
+I have reviewed the patient 's data and films .
+Refer to the medical intern 's H and P by Dr. **NAME[XXX] .
+I have verified her findings and agree with her plan .
+**AGE[in 80s] year old female transferred to the MICU with respiratory distress , cough , and new RUL pneumonia .
+She was at **INSTITUTION with severe depression and she received ECT yesterday .
+Her daughter says she has has cough with brown sputum production for the last week .
+1. Pneumonia -- I have started her on vancomycin and cefipime for hospital acquired pneumonia
+2. Hypoxemia -- I have weaned down her FI02 to 6 liters nasal canula , she is tolerating this well .
+She has stopped using accsory muscles this morning -- I suspect she had significant atelectasis , which is clinically improving with cough and supplemental oxygen .
+3. Emphysema -- she is a lifelong non-smoker , yet has CT evidence of emphysema -- will use bronchodilators
+Critical care time spent exclusive of teaching and procedures , provided throughout the day = 40 MINS .
+**NAME[YYY ZZZ] , MD
+Assistant Professor of **NAME[CCC]
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Nov 12 2007] 15:56 )

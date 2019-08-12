@@ -1,0 +1,85 @@
+**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 12 2007] 14:14:00
+DISCHARGE DATE :
+**DATE[Nov 25 2007]
+This is a **AGE[in 60s]- year - old Afro - American female admitted via emergency room with complaint of left - sided chest pain radiating to the left upper arm , also complaining of severe shortness of breath and cough with hemoptysis .
+She had been feeling poorly and blood pressure was elevated .
+She carries diagnoses of myocardial infarction in the past , systolic congestive heart failure , paroxysmal atrial fibrillation , DVD pacemaker insertion , renal insufficiency , frequent episodes of chronic obstructive lung disease , tobacco abuse , hypertension , hypertensive cardiomyopathy , coronary artery disease , coronary artery stent , pulmonary embolism , mitral regurgitation , IVC filter , and right knee surgery .
+PHYSICAL EXAMINATION :
+Physical exam revealed severe bronchospasm , diffuse rhonchi , and wheeze .
+Blood pressure 162/90 .
+Superficial varicose veins .
+No pitting edema .
+Chest x-ray revealed no active disease .
+Lower extremity venous Doppler was negative for deep venous thrombosis .
+Ultrasound of the kidneys because of an elevated BUN was unremarkable .
+LABORATORY DATA :
+Initial BUN was 20 , creatinine 1.7 and it jumped to 62 and 2.2 on **DATE[Nov 16 2007] , potassium ranged as high as 5.9 on **DATE[Nov 22 2007] and dropped to 5.4 on **DATE[Nov 23 2007] .
+Troponins were negative for myocardial infarction .
+Hematocrit was 38.5 and dropped to 31.9 on **DATE[Nov 18 2007] .
+BNP was 747 on **DATE[Nov 12 2007] and was dropping down to 461 on **DATE[Nov 13 2007] .
+The patient had one blood culture positive for Propionibacterium acnes , but was considered contaminated by infectious disease consultant .
+The patient was seen in nephrology consultation by Dr. **NAME[XXX] , infectious disease consultation by Dr. **NAME[WWW] , pulmonary consultation by Dr. **NAME[VVV] , and rheumatology consultation by Dr. **NAME[UUU] .
+**INSTITUTION :
+The patient was treated for severe chronic obstructive lung disease with exacerbation with intravenous steroids , subsequently changed to prednisone .
+Because the left ventricular function was normal , beta - blockers which were previously given to the patient were tapered off completely .
+Insulin coverage was given because of hyperglycemia from steroid therapy .
+Dr. **NAME[UUU] saw for possible anti - IgE therapy .
+The patient was then discharged home in good condition with expectation to readmissions are quite likely because of past history of noncompliance with medications and use of tobacco .
+Home Care was ordered .
+DISCHARGE MEDICATIONS :
+Discharge medications were allopurinol 300 mg p.o. daily , Norvasc 5 mg p.o. daily , Lipitor 10 mg p.o. daily , Aranesp 100 mcg subcutaneously every 2 weeks , Lanoxin 0.125 mg daily , folic acid 1 mg p.o. daily , Mucinex 1200 mg b.i.d. , hydralazine 50 mg t.i.d. p.o. , Niferex 1 tablet p.o. daily , Imdur 30 mg p.o. daily , Singulair 10 mg p.o. daily ,
+Protonix 40 mg p.o. daily , prednisone 20 mg b.i.d. p.o. , Prandin 4 mg t.i.d. p.o. , sodium bicarbonate 650 mg t.i.d. p.o. , Combivent 2 puffs q.i.d. , Lovenox 100 mg subcutaneously daily until INR would be more than 2 , and Coumadin 5 mg p.o. daily .
+DIET :
+1500 - calorie , low - potassium diet .
+ACTIVITIES :
+As tolerated .
+Follow up with Dr. **NAME[YYY ZZZ] in 2 to 3 weeks .
+FINAL DIAGNOSES :
+1. Chronic obstructive lung disease with acute exacerbation .
+2. History of atrial fibrillation .
+3. Diastolic congestive heart failure .
+4. Hyperkalemia .
+5. Acute renal failure , exacerbation of chronic renal insufficiency .
+6. Diabetes mellitus .
+7. Severe pulmonary hypertension affected by pacemaker lead .
+8. Concentric left ventricular hypertrophy and hypertensive cardiovascular disease .
+9. Coronary artery disease , status post coronary artery stent .
+10. Dual chamber pacemaker .
+11. Past history of pulmonary embolism and inferior vena cava filter .
+_________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Dec 02 2007] 17:22:39
+T :
+**DATE[Dec 03 2007] 01:49:56
+R :
+**DATE[Dec 03 2007] 01:49:56/sj
+Job ID :
+373162 /**ID-NUM
+CC :
+&lt;start header&gt;**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+Page 3 of 3
+&lt;end header&gt;
+*** Dictated By :
+086886-**NAME[ZZZ , CCC M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 18 2007] 02:31:11 PM

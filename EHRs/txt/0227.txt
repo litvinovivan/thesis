@@ -1,0 +1,37 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 03 2007]
+Discharged :
+**DATE[Mar 06 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+The patient is **AGE[in 80s] years of age .
+Mr. **NAME[AAA] is an unfortunate individual who has advanced terminal bladder carcinoma with local invasion causing severe obstructive uropathy to both kidneys requiring nephrostomies during his previous admission .
+Unfortunately , even given the nephrostomies , the patient 's condition has continued to deteriorate with progressive renal failure and bleeding from the urinary bladder .
+He was seen during his course of admissions by his surgeon and his urologist as well as Nephrology ; all felt that there is nothing else that can be done except comfort measures .
+Discussions were held with Mr. **NAME[AAA] .
+He continues to refuse dialysis which would be his only intervention that would help him survive his progressive renal failure .
+Certainly , it would not change the terminal nature of his bladder cancer .
+With this in mind , he opted strictly for comfort measures , and we are now referring him to a hospice center .
+He will be on minimal medications including Prozac 10 mg q.a.m. , furosemide 40 mg IV b.i.d. , Humulin Regular sliding scale insulins ; isosorbide mononitrate 30 mg daily ; Synthroid 25 mcg daily ; morphine sulfate 2 mg IV q.2 hours p.r.n. pain , stress , and anxiety; and Protonix 40 mg daily .
+Zosyn has been discontinued .
+His discharge prognosis obviously is extraordinarily poor .
+Comfort measures only .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 540332 / 39816 / 35766
+SHY # **ID-NUM
+D :
+**DATE[Mar 06 2007] 12:24
+T :
+**DATE[Mar 07 2007] 16:54
+**CARBON-COPY

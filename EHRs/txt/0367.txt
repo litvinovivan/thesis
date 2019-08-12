@@ -1,0 +1,76 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+She is going to the **INSTITUTION PCC .
+Ms. **NAME[AAA] is a **AGE[in 60s]- year-old woman admitted with nausea , vomiting , and diarrhea on **DATE[Sep 7 2007] .
+At that time she was found to have congestive heart failure , having had a recent myocardial infarction and cerebellar stroke .
+She was seen in consultation by gastroenterology and cardiology .
+She developed respiratory failure associated with her congestive heart failure , requiring significant diuresis .
+She eventually underwent a cardiac catheterization by Dr. **NAME[VVV] Silver .
+She had a 99% ostial LAD lesion and total occlusion of the mid LAD .
+Dr. **NAME[UUU] on **DATE[Sep 11 2007] , placed a 3.5 x 24 Driver in the ostium and proximal LAD and then placed a 3.0 x 18 in the mid LAD .
+She had grade 3 TIMI flow and was pain free at the end of the procedure .
+She did rule in for a myocardial infarction with elevated CPK s in the 700 range with troponins of 90 .
+With maximal medical therapy and continued diuresis , her congestive heart failure improved significantly and she was transferred to the regular nursing floor .
+There she developed acute renal failure , which resolved with time .
+Her CT scan demonstrated an old occipital stroke .
+She was evaluated by neurology , who suggested an MRI .
+Because of previous carotid stents , however , she refused an MRI and was placed on aspirin therapy .
+She is discharged to the **INSTITUTION PCC in fair condition for continued physical therapy and occupational therapy , and will be followed there by Dr. **NAME[UUU] and Dr. **NAME[TTT] .
+PERTINENT LABS ON DISCHARGE :
+Sodium 138 , potassium 4.6 , chloride 93 , bicarb 35 .
+BUN and creatinine of 53 and 2.0 , which were stable from the day before but slightly above her baseline of 28 and 1.3 earlier in the hospital stay .
+She has a white blood cell count of 6700 with an H and H of 9.8 / 29.5 , and platelet count of 238,000 .
+Her last BNP on **DATE[Sep 21 2007] , was 953 .
+She had a urinalysis on **DATE[Sep 21 2007] , that showed pyuria and a urine culture that grew greater than 10 to the fifth enterococcus sensitive to Levaquin , and she was placed on Cipro orally on **DATE[Sep 21 2007] .
+She had oximetry studies prior to discharge that revealed the need for 1 L of oxygen sitting still , 2 L walking , 2 L sleeping .
+Her last echocardiogram on **DATE[Sep 14 2007] , demonstrated left ventricular ejection fraction of 25% , LVH with asymmetric septal hypertrophy , diastolic dysfunction , RV dysfunction with mild TR and mild pulmonary hypertension , aortic sclerosis , mild mitral regurgitation .
+MEDICATIONS ON DISCHARGE :
+Include :
+1. Magnesium oxide 400 mg p.o. daily .
+2. Nitrostat p.r.n.
+3. Protonix 40 mg p.o. q. day .
+4. Potassium 20 mEq p.o. q. day .
+5. ReQuip 0.25 mg p.o. at bedtime .
+6. Sliding-scale insulin .
+7. Imdur 60 mg p.o. daily .
+8. Ativan 0.25 p.o. t.i.d.
+9. Amaryl 4 mg p.o. q. day .
+10. Hydrocodone 5 mL p.o. t.i.d.
+11. Hydralazine 10 mg t.i.d.
+12. NPH insulin 10 ( _______________ ) b.i.d.
+13. Coreg 75 mg p.o. b.i.d.
+14. Cipro 250 mg p.o. b.i.d.
+15. Plavix 75 mg p.o. q. day .
+16. Digoxin 0.125 p.o. q. day .
+17. Lovenox 40 mg subcutaneous daily .
+18. Lasix 80 mg p.o. b.i.d.
+19. DuoNebs b.i.d. with q.2 hours p.r.n.
+20. Aspirin 81 mg p.o. q. day .
+21. Tessalon 100 mg p.o. t.i.d. p.r.n.
+22. Pulmicort Respules 0.5 mg b.i.d. inhaled .
+23. Dulcolax p.r.n.
+On transfer , physical therapy , occupational therapy , and speech therapy will be consulted .
+Her diet is an 1800 - calorie ADA heart saver diet .
+She will follow up with Dr. **NAME[ZZZ] 3 weeks after discharge .
+It took 40 minutes to complete this discharge in its entirety .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 948220 / 37383 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 25 2007] 10:01
+T :
+**DATE[Sep 25 2007] 10:11
+**CARBON-COPY

@@ -1,0 +1,82 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Aug 01 2007]
+Discharged :
+**DATE[Aug 04 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Congestive heart failure secondary to fluid overload .
+2. Chronic end - stage renal disease , on hemodialysis , noncompliant with dialysis .
+3. Hypotension and hypoxemia .
+4. Coronary artery disease .
+5. History of rapid atrial fibrillation .
+6. Hyperkalemia .
+7. Cocaine abuse , active .
+CONSULTANTS DURING THIS ADMISSION :
+Dr. **NAME[VVV] of renal service .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 40s]- year - old African American male with a past medical history significant for end - stage renal disease , on hemodialysis , with a history of noncompliance and frequent admissions to the **INSTITUTION with fluid overload and shortness of breath when he misses his dialysis .
+Past medical history is also significant for asthma , chronic hepatitis C , hypertension , and chronic right - sided pleural effusion .
+The patient has a history of coronary artery disease and a history of rapid atrial fibrillation in the past .
+In addition , the patient has history of osteomyelitis of the sacroiliac joint , and the patient does have a history of drug abuse and continues to use cocaine .
+The patient presented to the emergency room with complaints of increasing shortness of breath with a mild nonproductive cough .
+The patient was admitted with the need for emergent dialysis .
+PHYSICAL EXAMINATION ON ADMISSION :
+Physical exam on admission revealed a blood pressure of 193/113 , pulse 88 , respirations 18 , temperature 35.5 , and
+PO2 on 2 L nasal cannula was 98% .
+The patient was well - developed and well - nourished African American male rather agitated at the time of his presentation to the emergency room .
+Cardiovascular exam revealed a regular rate and rhythm .
+Normal S1 and S2 .
+No murmurs , rubs , or gallops .
+Lungs were clear to auscultation , but there were some decreased breath sounds at both bases on the right greater than the left .
+Extremities revealed no clubbing , cyanosis , or edema .
+LABORATORY DATA :
+Laboratory data on admission revealed a BUN and creatinine of 39 and 9.3 .
+Glucose was normal .
+Electrolytes were normal including a potassium of 4.8 .
+By the next morning , however , the patient 's potassium had climbed to 7.2 , and he was dialyzed at that point in time .
+H and H were stable at 14.2 and 43.2 with a white blood cell count of 5400 .
+The chest x-ray showed a right - sided pleural effusion which is chronic , and EKG showed no acute ischemic changes .
+At the time of the patient 's presentation to the emergency **ROOM .
+The patient was transferred to the intensive care unit and was given IV labetalol as well as some IV morphine , and with these two medications , the patient became much calmer , and his oxygen saturation came upto 95% .
+Blood pressure remained elevated at 142/100 .
+The patient was seen in consultation by Dr. **NAME[VVV] who is the patient 's nephrologist , and he ordered a dialysis which was performed on **DATE[Aug 2 2006] , and he felt that the patient 's shortness of breath was secondary to congestive heart failure and fluid overload due to noncompliance with dialysis .
+In addition , during this admission , the patient 's dialysis catheter was not working very well , and he did have some tPA infused into the dialysis catheter on **DATE[Aug 1 2006] .
+The patient had a second dialysis performed on **DATE[Aug 3 2006] , and was back to his baseline with no complaints for shortness of breath or chest pain .
+The patient after dialysis remained quite hypotensive for him with a blood pressure ranging in the 110 to 120 systolic range , and his beta - blockers and Accupril were being held at this point in time .
+On **DATE[Aug 4 2007] , the patient was felt to be stable for discharge , and he was going to be dialyzed in the dialysis unit at the hospital today prior to discharge .
+DISCHARGE MEDICATIONS :
+Discharge medications include :
+1. Protonix 40 mg 1 p.o. q. day with 3 refills .
+2. Seroquel 100 mg p.o. q. day with 3 refills .
+3. Renagel 400 mg , dispense 30 , 1 p.o. t.i.d.
+4. Trazodone 100 mg 1 p.o. nightly .
+5. Neurontin 300 mg 1 p.o. nightly .
+6. Metoprolol 25 mg 1 p.o. q. day .
+7. Foltx 1 mg 1 p.o. q. day .
+8. Paxil 40 mg 1 p.o. q. day .
+9. Flovent 110 inhaler 2 puffs b.i.d.
+10. Proventil inhaler 2 puffs q.4 hours p.r.n.
+11. Enteric-coated aspirin 81 mg 1 p.o. q. day .
+12. Lipitor 40 mg p.o. nightly .
+13. The patient 's Accupril was going to be held , and his outpatient Imdur and Norvasc were not restarted either because of the continued low blood pressures .
+The patient will be dialyzed next at his normal dialysis location on **DATE[Aug 6 2007] .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 487943 / 38636 / 33106
+SHY # **ID-NUM
+D :
+**DATE[Aug 04 2007] 10:18
+T :
+**DATE[Aug 04 2007] 14:43
+**CARBON-COPY

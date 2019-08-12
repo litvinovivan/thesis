@@ -1,0 +1,55 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Feb 30 07]
+I am managing this critically ill **AGE[in 60s]- year - old female who is status post sternectomy for sternal wound infection .
+Her hospital course has been complicated by respiratory failure , fluid overload , and hyperglycemia .
+I am seeing her for management of these issues .
+I have seen and examined the patient , reviewed her laboratory , radiographic , and EMTEK data and discussed the management with the critical care house staff .
+Problems and the management are as follows :
+1. Respiratory Failure :
+A chest x-ray shows an increase in the bilateral effusions .
+On the vent , I have her on assist control .
+Today I have switched her from AC to pressure support and after a couple of hours of pressure support of 10 , she is a little dyspneic , her heart rate is up , and she has some retractions .
+I suspect that her altered sternal mechanics , debilitation , and fluid overload are rate limiting factors for weaning at this point .
+I have placed her back on high level pressure support .
+Respiratory rate has come down to the range of 12 to 14 .
+Tidal volumes are back up and her retractions have resolved .
+2. Sternal Wound Infection :
+She is going to the operating room tomorrow .
+In the meanwhile , I have empirically on cefepime and vancomycin .
+Her vancomycin trough is 37 today and I have held her dose with a plan to recheck tomorrow .
+3. ICU Prophylaxis :
+She is being tube fed at her goal rate .
+I have her on a bowel regime .
+I have discontinued her IV fluid .
+I have her on an insulin drip for tight glycemic control .
+The total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 30 2007] 19:41:28
+T :
+**DATE[Feb 30 2007] 20:08:09
+R :
+**DATE[Feb 30 2007] 20:08:09/jar
+Job ID :
+368714/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:48:42 AM

@@ -1,0 +1,53 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M UUU]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+EVALUATION DATE :
+**DATE[Nov 12 07]
+I was asked to some see this **AGE[in 80s]- year - old patient over in Geriatrics and **INSTITUTION admitted for depression and ECT therapy .
+She has a past medical history significant for atrial fibrillation on Coumadin and COPD .
+I was called to evaluate her secondary to worsening respiratory distress .
+Apparently , according to history , she started to complain of being shortness of breath , increased work of breathing around 02:00 a.m. this morning .
+This apparently worsened over the course of the last few hours .
+When I initially saw her , she was hypertensive with systolic blood pressures in the 170s .
+She was tachypneic with a respiratory rate in the 30s , as well as tachycardic with a heart rate in the 120s .
+She was use accessory muscles working fairly hard to breathe and had diffuse coarse rhonchi throughout .
+In light of this , gave her 20 mg of Lasix .
+She also got several treatments of Xopenex which appeared to offer some relief .
+My concern as well was the fact that she had been oxygenating quite well on 5 liters of O2 , and when I evaluated her O2 sat , 5 liters , was only 83% .
+So , did put her on a nonbreather mask .
+Sats came up to 95 , 96% .
+In light of this , I thought it was probably reasonable to go ahead and transfer her to the MICU Service as opposed to a monitored floor service in light of her oxygen requirements and her worsening respiratory status .
+There is some concern whether or not she could have aspirated during her ETC therapy which is possibility , could be just exacerbation of COPD and pneumonia .
+She does have a history of being recently treated for pneumonia back in **DATE[Feb] of this year .
+Hemodynamically , she has remained stable .
+She is mentating , a little confused and very cantankerous .
+So , at this point in time , I did transfer her to the MICU for further management .
+Otherwise continue her current supportive care and management as per the MICU Service .
+Critical care time = 31 minutes .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 12 2007] 07:54:25
+T :
+**DATE[Nov 12 2007] 08:42:58
+R :
+**DATE[Nov 12 2007] 08:42:58/ljw
+Job ID :
+343299 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Dec 01 2007] 05:29:34 PM

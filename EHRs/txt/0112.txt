@@ -1,0 +1,68 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 17 2007]
+EVALUATION DATE :
+**DATE[Aug 23 07]
+I saw the patient on rounds with the Critical Care Team and with the Trauma Team .
+I interviewed and examined the patient at the bedside .
+I reviewed the house staff note and agree with the findings .
+I reviewed the data on EMTEK including vital signs , I&amp ; O , laboratory data , and medication list .
+I discussed the management and plan with the Trauma Team and with the Critical Care Team .
+The patient is a **AGE[in 60s]- year - old male who was found down .
+He has a history of a seizure disorder .
+He also has a pacemaker and is status post mitral valve replacement and has a reported history of significant ethanol use .
+There were no events over night .
+He has been afebrile .
+He has not been tachycardic .
+His systolic pressures are from the mid 90s to 120s over 50 to 72 diastolic .
+He has been breathing spontaneously and maintaining good oxygen saturations .
+Respiratory rate is approximately 20 .
+His urine output has been adequate .
+He has been tolerating tube feeds with osmolyte 50 ml per hour via an NG tube .
+The patient complains of " pins and needles " from the knees down in both lower extremities .
+On exam , he is more awake .
+His speech is clear .
+He is answering questions appropriately .
+His smile is symmetric , although at rest while he is lying on his right side , his right lip was drooping .
+He is moving all extremities .
+His abdomen is soft and nontender .
+His extremities are warm .
+He has bilateral knee abrasions that are clean .
+His white blood count is 2.6 , hemoglobin is 11.3 , platelets are 123 , magnesium is 1.7 , sodium is 141 , potassium is 3.8 , chloride is 105 , bicarbonate is 32 , and BUN and creatinine are 12 and 0.8 .
+From a neurologic standpoint , Neurology recommends an EEG .
+We will continue his Dilantin and Keppra with his seizure disorder .
+From a respiratory standpoint , the patient is responding well to IPPB treatments for respiratory therapy .
+He is currently getting them q. 4 hours and we will continue the q. 4 hour IPPB treatments .
+We will also increase the patient 's activity , getting him out of bed to assist with his pulmonary status .
+I am discontinuing his Aldactone which was started here in the hospital .
+I will continue his tube feeds for the time being , however , now that he is more awake we will obtain a swallow evaluation and if he is not deemed a high aspiration risk , we will remove the NG tube and have the patient take his diet by mouth .
+Because of the patient 's calf discomfort that he is describing as pins and needles , I am obtaining duplex looking for DVT ; however , my suspicion is that this is neuropathic type pain .
+He does have good pulses ; however , this may be related to microvascular disease or possibly related to ethanol use .
+I am giving him three days of multivitamins , thiamine , and folic acid treatment empirically .
+The patient is stable for transfer out of the Intensive Care Unit to a monitored floor .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 24 2007] 13:32:52
+T :
+**DATE[Aug 24 2007] 14:05:23
+R :
+**DATE[Aug 24 2007] 14:05:23/jar
+Job ID :
+359888/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 31 2007] 10:15:40 AM

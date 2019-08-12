@@ -1,0 +1,176 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[May 2 1934]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+Pt is a **AGE[in 70s] yo woman who was at an outpatient appointment with vascular surgery for surgical follow-up ( fistula placed on **DATE[Feb 28 07] ) when she began to complain of transient chest discomfort .
+She was refferred to the presby ED where her SBP was found to be above 200 .
+She was then admitted for BP control and r/o MI .
+Past Medical History :
+DM
+HTN
+ESRD on HD MWFri
+New fistula placed in L arm ( **DATE[Feb 28 07] )
+TDC in place h/o CVA/TIA
+OA
+CAD s/p MI
+CHF
+Other Information :
+PCP :
+Dr. **NAME[ZZZ]
+Pt is Jehovah wittness , refuses blood transfusions
+Subjective / Events Overnight :
+Pt states that she feels back to her baseline
+Physical Exam
+General Appearance :
+Elderly AAF resting in bed NAD .
+Cardiovascular :
+S1 S2 no MRG RRR .
+Respiratory :
+Decreased BS at Bilat Bases , but no wheezes audible .
+Gastrointestinal :
+Soft .
+NT .
++ BS all quads .
+Genitourinary :
+Incont urine .
+Wears adult diaper .
+Musculoskeletal :
+No edema or calf tenderness bilat LE .
+Neurological :
+A&amp ; O to self , circumstances and place .
+Follows commans , very pleasant .
+Right chest TDC in place  .
+Current Medications :
+Current medication administration orders
+lisinopril , 40 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Mar 26 07] 13:34:00
+venlafaxine , 75 mg , By Mouth , Daily ,
+Drug Form : Er capsule ,
+Start : **DATE[Mar 26 07] 11:32:00
+epoetin alfa 10000 Unit ( s ) + REFRIGERATE 1 ea , subQ , QMndWedFri ,
+Drug Form : Injection ,
+Start : **DATE[Mar 26 07] 10:00:00
+dorzolamide - timolol ophthalmic , 1 Drop ( s ) , Both Eyes , BID ,
+Drug Form : Solution ,
+Start : **DATE[Mar 25 07] 21:41:00
+calcium acetate , 667 mg , By Mouth , AC ,
+Drug Form : Cap ,
+Start : **DATE[Mar 26 07] 7:00:00
+acetaminophen , 650 mg , By Mouth , Q6HRS ,
+Drug Form : Caplet , PRN ,
+Start: **DATE[Mar 25 07] 21:31:00
+pantoprazole , 40 mg , By Mouth , Daily ,
+Drug Form : Ec tab ,
+Start : **DATE[Mar 26 07] 9:00:00
+multivitamin , 1 cap ( s ) , By Mouth , Daily ,
+Drug Form : Cap ,
+Start : **DATE[Mar 26 07] 9:00:00
+metoprolol , 50 mg , By Mouth , BID ,
+Drug Form : Tab ,
+Start : **DATE[Mar 25 07] 21:30:00
+docusate , 100 mg , By Mouth , BID ,
+Drug Form : Cap ,
+Start : **DATE[Mar 25 07] 21:29:00
+diltiazem , 360 mg , By Mouth , Daily ,
+Drug Form : Cd cap ,
+Start : **DATE[Mar 26 07] 9:00:00
+aspirin , 81 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Mar 26 07] 9:00:00
+**DATE[May] CHECK 1 SeeNotes , Miscellaneous , BID ,
+Drug Form : Misc ,
+Start : **DATE[Mar 25 07] 21:28:00
+Current prescriptions / home medications insulin lispro - insulin lispro protamine ( Humalog Mix 75/25 Pen ) , See Instructions
+0 Refill ( s )
+0 Tot. Refills
+General Results
+Most recent results
+All :
+ALLRESLTSECT .
+**DATE[Mar 26 2007] 4:10 AM
+Na 140 mEq / L
+K 3.3 mEq / L Low
+Cl 106 mEq / L
+CO2 25 mEq / L
+Anion Gap 9.0
+BUN 24 mg / dL High
+Cr 3.7 mg / dL Critical High
+GFR ( estimated ) 15.00 mL / min / 1.73 m2 Low ( Modified )
+Glucose 79 mg / dL
+Ca 8.6 mg / dL
+Mg 1.6 mEq / L
+Phos 3.9 mg / dL
+CPK , Total &lt; 20 IU / L
+Troponin I &lt ; 0.10 ng / mL
+WBC 6.5 X10E+09 / L
+RBC 4.50 X10E+12 / L
+Hgb 12.0 gm / dL
+Hct 39.1 %
+MCV 86.7 fL
+MCH 26.5 pg Low
+MCHC 30.6 gm / dL Low
+RDW 19.1 % High
+MPV 8.1 fL
+Platelets 242 X10E+09 / L
+**DATE[Mar 25 2007] 8:56 PM
+CPK , Total 21 IU / L
+**DATE[Mar 25 2007] 8:55 PM
+Troponin I &lt ; 0.10 ng / mL
+**DATE[Mar 25 2007] 4:35 PM
+B - Type Natriuretic Peptide 1730 pg / mL High
+**DATE[Mar 25 2007] 3:00 PM
+CPK , Total 10 Unit ( s )/ L Low
+Troponin I
+Troponin I ng / mL
+Chest Radiograph
+IMPRESSION :
+MILD CARDIOMEGALY WITH CEPHALIZATION OF THE PULMONARY VASCULATURE AND MILD AIRSPACE OPACITY COMPATIBLE WITH MILD EDEMA .
+Impression and Plan
+Impression
+**AGE[in 70s] yo with recent subendocardial MI admitted to hospital for increased BP Plan
+Cards .
+HTN .
+SBP this AM 190 .
+Given hydralazine with good reponse .
+Will increase lisinopril from 20 mg -- &gt ; 40 mg .
+Will d/c current nitropaste .
+If needed will consider adding clonidine to increase control .
+For PRN control , continue with hydralazine .
+Troponins negative .
+Pulm .
+Edema seen on CXR .
+Given Lasix by ED .
+Dialysis today should help .
+Will recheck Xray in AM and follow clinically .
+FEN .
+Low K+ .
+Will replete .
+Renal .
+ESRD .
+Renal following .
+Continue with dialysis .
+On EPO for anemia .
+Follow clinically .
+Dispo .
+Once BP better control , look to d/c back to home .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document :
+PA-C
+Perform by **NAME[XXX  , WWW] J
+( on **DATE[Mar 26 2007] 15:35 )
+Sign by **NAME[XXX  , WWW] J
+( on **DATE[Mar 26 2007] 15:35 )
+VERIFY by **NAME[XXX  , WWW] J
+( on **DATE[Mar 26 2007] 15:35 )

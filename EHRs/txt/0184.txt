@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 23 07]
+I am managing this critically - ill , **AGE[in 40s]- year - old gentleman with several complications arising from his severe biliary pancreatitis , the most recent procedure for debridement of a necrotic gallbladder , placement of a PTC catheter , repair of SMA pseudoaneurysm .
+He is suffering from ARDS , malnutrition and gastrointestinal tract dysfunction .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data , and discussed the management with the Vascular and General Surgery Team , as well as the Critical Care house staff .
+The problems of my management are as follows :
+1. Pancreatitis .
+The patient is on Oxepa through the J tube and he seems to be tolerating the tube feeds at the moment , and they are also refeeding his PTC drainage back into his tube feeds to prevent excessive biliary losses .
+2. Respiratory failure .
+The patient was placed yesterday on pressure support ventilation .
+He tolerated that fairly well and this morning , his pressure settings are 10/5 and today I will try to switch him to 5/5 with a goal of extubating the patient .
+3. Hypertension .
+The patient seems to be still resistant to multiple medications for the management of his blood pressure and his systolic blood pressures were as high as 173 ____________ of four hours .
+Today , I will increase the doses on Lopressor and captopril before adding a new agent and I am planning to use clonidine as an additive agent if need be .
+4. Malnutrition .
+The patient is on Oxepa at the moment and still at low serum albumins .
+I am planning to continue with his tube feeds started and over a long course , I think he will catch up with his caloric intake and he will build up new protein and muscle bulk .
+5. Infectious issues .
+The patient is currently on linezolid and meropenem for the positive cultures for Pseudomonas and enterococci and we will follow our course with the antibiotics .
+6. ICU prophylaxis .
+The patient ___________ prophylaxis with Pepcid and he is on heparin infusion for DVT prophylaxis as well as for the maintenance of the SMA graft and he is on a sliding scale insulin for blood glucose management .
+The total critical care time spent was 37 minutes .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 25 2007] 16:29:32
+T :
+**DATE[Dec 26 2007] 10:38:21
+R :
+**DATE[Dec 26 2007] 10:38:21/klm
+Job ID :
+403100 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 26 2008] 03:05:20 PM

@@ -1,0 +1,83 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP - CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6B/1
+SERVICE OF :
+**NAME[ZZZ YYY XXX]
+DATE OF ADMISSION :
+**DATE[Mar 09 2007]
+DATE OF DISCHARGE :
+**DATE[Mar 10 2007]
+ADMITTING DIAGNOSIS :
+Chest pain .
+SECONDARY DIAGNOSES :
+1. Type 2 diabetes .
+2. Hypertension .
+3. Multinodular goiter .
+4. Depression .
+5. Anemia .
+6. Gastroesophageal reflux disease .
+7. Osteoarthritis .
+8. Benign positional vertigo .
+9. Uterine fibroid .
+PROCEDURES :
+1. Stress test on **DATE[Mar 10 2007] .
+2. Echocardiogram on **DATE[Mar 10 2007] .
+3. Thyroid ultrasound on **DATE[Mar 10 2007] .
+SERVICE OF :
+Family health center .
+HISTORY :
+This is a **AGE[in 40s]- year - old female with a history of type 2 diabetes , hypertension , depression , GERD , nontoxic multinodular goiter who presents for left - sided chest pain with associated shortness of breath intermittently for months .
+Shortness of breath occurring with activity and at rest .
+The patient reports that the left - sided chest pain is worse with position changes ; it is also particularly worse at night to the point that at times it awakens patient from sleep .
+The patient reports palpitations for months .
+The patient also reported orthopnea for years that has gotten worse since **DATE[Jan 2007] .
+The patient had discussed her symptoms with friends and then later called the family health center was advised to come the emergency department .
+The patient also reports having had right - sided paravertebral back pain for 3 years .
+She had had a bone scan in 2005 and has visited a chiropractor .
+The patient has been off medications since **DATE[May 2006] due to not having insurance .
+The patient 's family history includes a mother with history of CVA and diabetes , and father who died from unknown causes , a sister with congenital heart failure and end - stage renal disease , and siblings with known hypertension .
+On admission , the patient had an EKG that showed normal sinus rhythm rate of 82 with no ST - T wave changes .
+D-dimer was elevated at 732 .
+Chest CT was negative for PE .
+Chest x-ray showed cardiomegaly without signs of pulmonary edema .
+Serial troponins remained negative x 3 .
+The patient had a stress test on **DATE[Mar 10 2007] , which was negative .
+Echocardiogram on **DATE[Mar 10 2007] , showed a suboptimal study , grossly normal LV size and function , right ventricle was not well seen , mild tricuspid and mitral regurgitation , and ejection fraction of 55% .
+Due to patient 's complaint of dysphagia with liquids for years thyroid blood work and thyroid ultrasound were performed to further evaluate patient 's history of nontoxic multinodular goiter .
+TSH was normal at 1.09 .
+Thyroid ultrasound preliminary report per radiology showed multinodular goiters .
+The largest was approximately 1.4 cm slightly increased in size from prior studies , but not enough to explain the patient 's complaint of dysphagia .
+The patient 's blood pressure was around systolic 120 s to 130 s with one reading of 160 systolic .
+Plan is to resume patient 's beta blocker , but we will start the patient on metoprolol 25 b.i.d.
+This is the medication that the patient can obtain through the free med program .
+The patient had been on the insulin sliding during her hospital course , as patient was n.p.o. for stress test .
+Nursing staff reports that patient refused insulin shots .
+We will resume patient on metformin which was one of the patient 's diabetes medicine per a PCO note from **DATE[Mar 2006] .
+We will restart metformin at a lower dose at 500 mg p.o. b.i.d.
+There are no dietary restrictions .
+There are no restrictions with physical activity .
+DISCHARGE MEDICATIONS :
+The patient will obtaining her medications through the free med program through New Kensington family health center .
+1. Zantac 150 mg daily .
+2. Metoprolol 25 mg p.o. b.i.d.
+3. Simvastatin 20 mg nightly .
+4. Aspirin 325 mg daily .
+5. Metformin 500 mg p.o. b.i.d.
+The patient has an appointment with social work at New Kensington family health center on **DATE[Mar 11 2007] , to arrange for outpatient medications .
+The patient is to be seen by her primary care physician Dr. **NAME[SSS] in 1 week .
+Per patient 's request home O2 evaluation will be obtained prior to discharge .
+The patient is discharged in stable and improved condition to home .
+___________________
+**NAME[VVV WWW] , D.O.
+Dict :
+**DATE[Mar 10 2007] 16:33:40
+Tran :
+**DATE[Mar 11 2007] 03:35:50 mw//340977/**ID-NUM/**ID-NUM
+R :
+**DATE[Mar 11 2007] 03:35:50/
+**CARBON-COPY

@@ -1,0 +1,53 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[SSS TTT] , M.D.
+ADMISSION DATE :
+**DATE[May 17 2007]
+DISCHARGE DATE :
+**DATE[Jun 05 2007]
+ADDENDUM :
+The patient will be discharged home today .
+DISCHARGE MEDICATIONS :
+1 Colace 100 mg p.o. b.i.d.
+2 Lovenox 15 mg subcutaneous b.i.d. and discontinue when his INR is greater than 2 .
+3 Coumadin 3 mg p.o. x 1 tonight , and then he is to have an INR check tomorrow and further dosing by the Anticoagulation Team .
+4 Sporanox 200 mg p.o. b.i.d.
+5 Rifampin 300 mg p.o. b.i.d.
+6 Senokot 2 tablets p.o. nightly .
+7 Cefadroxil 1 g p.o. b.i.d.
+8 Prilosec 20 mg p.o. q. day .
+9 Interferon gamma 90 mcg subcutaneous q. Monday , Wednesday , and Friday .
+FOLLOWUP :
+1 With his PCP Dr. **NAME[RRR] in **INSTITUTION on **DATE[Jun 27 2007] , at 10:30 a.m. , **PHONE .
+2 CT scan of the chest , abdomen , and pelvis on **DATE[Jun 27 2007] , at 12:40 p.m.
+3 With Infectious Disease Dr. **NAME[QQQ , PPP] 27 , 2007 , at 1:30 p.m. , **PHONE .
+4 He is to have the PT and INR tomorrow and as needed .
+Blood work will be followed by the **INSTITUTION .
+5 He is to have electrolytes , BUN , and creatinine in 1 week on **NAME[PPP] 12 , 2007 , and results will go to Dr. **NAME[QQQ] and Dr. **NAME[RRR] .
+___________________________________
+**NAME[SSS TTT] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+KF/fp
+D :
+**DATE[Jun 05 2007] 13:09:55
+T :
+**DATE[Jun 06 2007] 00:53:32
+R :
+**DATE[Jun 06 2007] 00:53:32/fp
+Job ID :
+375779 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , OOO] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 27 2007] 03:26:09 PM

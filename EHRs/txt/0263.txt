@@ -1,0 +1,59 @@
+DISCHARGE DIAGNOSES :
+1. Asthmatic bronchitis with severe bronchospasm .
+2. Acute sinusitis .
+3. Allergic rhinitis .
+4. Osteoporosis .
+5. General anxiety disorder .
+6. Depression .
+7. Urge incontinence .
+8. Oral candidiasis .
+9. Gastroesophageal reflux disease .
+10. Insomnia .
+OPERATIONS AND PROCEDURES :
+1. Pulmonary function tests .
+2. Computed tomography of the chest .
+3. Computed tomography of the sinuses .
+4. DuoNeb treatments .
+DISCHARGE MEDICATIONS :
+1. Ceftin 500 mg twice a day for 10 days .
+2. Albuterol inhaler 2 puffs __________
+3. __________ for pain .
+4. Calcium 500 mg twice a day .
+5. Lasix 20 mg once a day .
+6. Clonazepam 1 mg at bedtime .
+7. Clarinex 5 mg once a day .
+8. Guaifenesin 1 teaspoon every 6 hours p.r.n. for cough .
+9. Prednisone 20 mg twice a day for 3 days , once a day for 3 days , and one every other day for 3 doses .
+10. Nasonex nasal spray 1 spray each nostril once a day .
+11. Singulair 10 mg once a day .
+12. Prilosec 20 mg once a day .
+13. Actonel 35 mg once a week .
+14. Detrol LA 4 mg once a day .
+15. Vivelle patch 0.5 mg twice a week .
+16. Nystatin swish and swallow 1 teaspoon every 6 hours ; syrup 1 teaspoon every 6 hours .
+DIET :
+Regular .
+ACTIVITIES :
+As tolerated .
+FOLLOWUP :
+Follow up with Dr. **NAME[ZZZ] in 3 days .
+**INSTITUTION :
+The patient was admitted with severe bronchospasm , wheezing , with persistent cough , resistant to outpatient with prednisone antibiotics .
+She was placed on Solu - Medrol IV with IV antibiotics .
+She responded to Solu - Medrol IV well .
+She was also treated with DuoNeb treatments and oxygen for the severe bronchospasm .
+The bronchospasm resolved gradually with Solu - Medrol and DuoNeb treatments .
+CT did not show any infiltration and any abnormalities .
+The CT of the sinuses showed chronic sinusitis and obstruction of the left sinuses as well .
+She did feel better on **DATE[May 29 2007] , and **DATE[May 30 2007] .
+Solu - Medrol was changed to prednisone , and she will be discharged home today with medications and discharge instructions , as per discharge form .
+I will see her in my office , possibly referred to ENT doctor if she still has severe sinus problems .
+I spent 45 minutes on discharge .
+______________________________
+**NAME[YYY ZZZ] , M.D.
+HS Job # 156311 / 33677 / 36962
+# **ID-NUM
+D :
+**DATE[May 30 2007] 12:59
+T :
+**DATE[Jun 01 2007] 10:13

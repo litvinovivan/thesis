@@ -1,0 +1,53 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 10 2008]
+EVALUATION DATE :
+**DATE[Jan 13 08]
+The patient is a **AGE[in 70s]- year - old male postoperative day number three from laryngectomy .
+I am currently managing this critically ill patient in the Transplant ICU for respiratory failure , pulmonary edema , hypertension , and COPD .
+I have examined Mr. **NAME[AAA] both in the morning and afternoon today and I have personally reviewed the patient 's medications as well as all the historical , laboratory , microbiologic and radiologic data pertinent to his care .
+All ICU management has been given under my direction .
+The patient has been stable from a hemodynamic and respiratory standpoint overnight but continues to require mechanical ventilation for respiratory support .
+He has been difficult to wean from the ventilator previously .
+PROBLEMS :
+1. Respiratory failure with pulmonary edema .
+The patient 's oxygen saturation is 98% on AC mode with a rate of 12 , 40% FIO2 , tidal volume of 600 and PEEP of 5 .
+Chest x-ray shows severe COPD with pulmonary venous congestions and a questionable left lower lobe infiltrate .
+Given that the patient 's white blood cell count is unremarkable and the patient has been afebrile , I suspect that the infiltrate is due to volume overload rather to an infection .
+I have therefore given Lasix 20 mg IV times one and will place the patient on a trach mask trial today .
+Overnight , given the patient 's COPD , I will maintain oxygen saturations between 90 and 95% .
+This will likely mean reducing the FIO2 from 40% to 30 or even 25% .
+2. Hypertension .
+The patient 's blood pressure is slightly high at 170/80 .
+The patient is already on his regular antihypertensive medications including metoprolol and Univasc .
+I suspect that his hypertension may be due simply to volume overload and I will wait to see how the diuresis affects the blood pressure before I add an additional medication .
+I have otherwise continued current care including Pepcid and heparin for ICU prophylaxis .
+I have continued enteral nutrition with Crucial at 45 mL / hour , discontinued the arterial line and decreased the sliding scale insulin to a low dose scale q. 6 hours for glycemic control .
+The time I have spent managing this patient today , exclusive of teaching time and billable procedures , is 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 13 2008] 20:56:28
+T :
+**DATE[Jan 13 2008] 21:08:37
+R :
+**DATE[Jan 13 2008] 21:08:37/kll
+Job ID :
+345725 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 24 2008] 04:40:31 PM

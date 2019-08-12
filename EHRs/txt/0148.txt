@@ -1,0 +1,68 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Mar 12 2007]
+EVALUATION DATE :
+**DATE[Mar 13 07]
+I personally interviewed and examined the patient today .
+The patient is complaining of continued abdominal pain generally at lower abdomen and mid lower abdomen .
+The pain appears to be somewhat worse today .
+Her shortness of breath is about the same or better .
+She is still coughing .
+She denies any dizziness or lightheadedness .
+PHYSICAL EXAMINATION :
+Overnight , her blood pressure went down as low as 60 systolic .
+Her heart rate was also elevated .
+She was afebrile .
+Her mental status remained normal .
+She was given fluid volume bolus with blood pressures coming up into the 80s and 90s .
+She is in no acute distress this morning .
+Her chest exam is the same with some wheezes .
+Heart is regular .
+Abdomen , there is no tenderness or masses .
+Aneurysm size is about 6 cm on my examination today .
+Extremities :
+There is no edema .
+LABORATORY DATA :
+Her electrolytes are normal as well as renal function today .
+Her hemoglobin though is decreased to 10.9 from 13.9 .
+This was repeated and the repeat number is the same .
+PROBLEMS
+1. Abdominal pain .
+We are concerned about leakage of aortic aneurysm .
+We will get a STAT CT scan today .
+I am particularly concerned about it because her hemoglobin has dropped as well and she was hypotensive overnight .
+She was given fluids .
+2. COPD .
+She is getting nebulizers and will continue those .
+She appears to be stable regarding respiratory status .
+3. Anemia .
+The etiology of anemia is not quite clear .
+She has no GI bleeding and in fact is constipated .
+We will check CT scan of the abdomen , and we will continue to monitor her hemoglobin and hematocrit .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 13 2007] 12:33:05
+T :
+**DATE[Mar 14 2007] 03:53:40
+R :
+**DATE[Mar 14 2007] 03:53:40/ps
+Job ID :
+345350/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Mar 23 2007] 03:12:48 PM

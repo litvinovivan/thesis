@@ -1,0 +1,63 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Mar 12 2007]
+EVALUATION DATE :
+**DATE[Mar 15 07]
+I personally interviewed and examined the patient today .
+The patient continues to have significant lower abdominal pain .
+It may be slightly better than yesterday , but it is still bothering her a lot .
+She had about 4 bowel movements after laxatives .
+She does not feel constipated today .
+Her shortness of breath is also improved .
+She is getting bronchodilators .
+PHYSICAL EXAMINATION :
+On physical examination , she is alert and oriented .
+Her blood pressures are generally low in the 80s to 90s systolic , pulse is stable , she is afebrile .
+She is in mild respiratory distress at rest .
+Chest ; she has bilateral wheezing mostly expiratory , but a lot better than on admission .
+Heart ; regular rhythm .
+Abdomen ; she does not have any tenderness .
+Extremities ; there is no edema .
+LABORATORY DATA :
+Laboratory tests were reviewed and electrolytes and renal function are normal .
+Her hemoglobin is further down to 10.8 .
+Her white count is normal .
+PROBLEMS :
+1. Abdominal aortic aneurysm .
+Our working diagnosis is that she is having rupture of her abdominal aortic aneurysm .
+We have discussed it with her .
+She is not interested in surgery and at this time we would provide supportive care .
+2. COPD .
+Her COPD is better .
+She would remain on bronchodilators .
+3. Anemia .
+She has dropped her blood count by about 3 units of hemoglobin , which is a significant amount of blood loss .
+This is most likely in the retroperitoneum .
+At this time , we will not plan any transfusions .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 15 2007] 11:04:51
+T :
+**DATE[Mar 15 2007] 23:57:35
+R :
+**DATE[Mar 15 2007] 23:57:35/sj
+Job ID :
+346984/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Mar 23 2007] 03:12:53 PM

@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 28 07]
+**INSTITUTION VISIT :
+Mr. **NAME[AAA] has done well overnight and was able to stay off the BiPAP for the first time in the last 24 hours .
+On examination this morning , he is afebrile .
+Vital signs are stable .
+His mean arterial pressures have been between 70 and 80 .
+He is breathing comfortably between 18 and 24 times a minute .
+Oxygen saturations are 98% on six liter nasal cannula .
+The abdomen is soft and nontender .
+His air entry is good bilaterally .
+He appears to be severely cachetic with his significant protein and calorie malnutrition .
+Laboratory examination shows a decrease in his bicarbonate to 37 .
+BUN and creatinine are stable at 18 and .7 .
+Glycemic control has been adequate .
+His prealbumin is up slightly from last week 's level of less than 7 to 11 this week .
+Plan today is for continued ICU monitoring in terms of his pulmonary insufficiency .
+Overall , his general frail medical condition would prompt me to leave him in the Intensive Care Unit for at least another 24 hours for reevaluation .
+His blood pressure control has been adequate on the current regime .
+He did have some bleeding from his wounds , so I have discontinued his heparin drip and left him on baby aspirin and started him on subcutaneous heparin as well .
+He has stress ulcer and DVT prophylaxis and he is receiving tube feed at his goal rate with refeeding of the bile that is drained via the
+PTC catheter .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 28 2007] 20:16:52
+T :
+**DATE[Dec 28 2007] 20:32:21
+R :
+**DATE[Dec 28 2007] 20:32:21/jar
+Job ID :
+408076 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:24 PM

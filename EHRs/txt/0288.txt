@@ -1,0 +1,96 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jul 17 2007]
+EVALUATION DATE :
+**DATE[Jul 18 07]
+Date of service is **DATE[Jul 18 2007] .
+CHIEF COMPLAINT :
+Chest discomfort ( heaviness ) .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] is an **AGE[in 80s]- year - old white woman who was admitted from a rehabilitation facility , where she is currently placed .
+She experienced chest discomfort at rest which was described as transient and lasted for a couple of minutes .
+She described the sensation as central in location with no radiation to chest , jaw , or back .
+No history of any palpitations , dyspnea .
+The patient has a diagnosis of pulmonary fibrosis , sleeps slightly inclined at 30 to 40 degrees at home with two to three pillows , as well as pedal edema .
+She was actually prescribed home oxygen but she seldom uses .
+She is currently not on any daily diuretics .
+PAST MEDICAL HISTORY :
+1. Type 2 diabetes for three years .
+2. Hypothyroidism .
+3. Dyslipidemia .
+4. Senile macular degeneration .
+5. Pulmonary fibrosis .
+6. Gout .
+7. Hyperparathyroidism , " primary ."
+8. Depression .
+CURRENT MEDICATIONS :
+1. Aspirin 81 mg p.o. daily .
+2. Pepcid 10 mg p.o. daily .
+3. Fluoxetine 40 mg p.o. daily .
+4. Lasix 40 mg IV daily .
+5. Glipizide 2.5 mg p.o. daily .
+6. Heparin 5000 units subcutaneous t.i.d.
+7. Insulin sliding scale .
+8. Levothyroxine 88 micrograms p.o. daily .
+9. _____________ 12.5 mg p.o. daily .
+10. Valsartan 160 mg p.o. daily .
+PHYSICAL EXAMINATION :
+VITAL SIGNS :
+Stable at discharge .
+Laboratories and chart were reviewed .
+The patient was interviewed .
+GENERAL :
+Alert and oriented .
+NECK :
+Neck supple ; JVP is not elevated .
+CARDIOVASCULAR :
+S1 and S2 sounds are heard .
+No murmur , rub , or gallop .
+CHEST :
+Bilateral fine inspiratory crackles and crepitations consistent with pulmonary fibrosis .
+No audible wheeze .
+ABDOMEN :
+Abdomen is soft .
+PERTINENT LABORATORIES :
+Troponin is less than 0.10 times three .
+Creatinine 1.1 , sodium 141 , BUN 12 , estimated GFR 51 ml per minute , potassium 4.2 , glucose 131 .
+Serum iron 42 , TIBC 241 .
+LDL 90 , cholesterol 150 .
+Hemoglobin 11.1 , hematocrit 31.8 .
+B-type natriuretic peptide 510 .
+CHEST RADIOGRAPH :
+Chest radiograph revealed bilateral small pleural effusions , heart appeared enlarged , no mediastinal mass , cardiomegaly , with small bilateral effusion .
+RECOMMENDATIONS :
+1. We will obtain an adenosine stress study to rule out reversible myocardial ischemia .
+2. Also , she has been scheduled for a transthoracic echocardiogram to evaluate pulmonary hypertension and her right - sided pressures .
+3. I have counseled her to use home oxygen regularly .
+4. Lipid profile was reviewed , currently her LDL is within accepted goal .
+No further recommendations .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[YYY ZZZ] , M.D.
+AN/lsm
+D :
+**DATE[Jul 18 2007] 10:26:51
+T :
+**DATE[Jul 18 2007] 20:12:07
+R :
+**DATE[Jul 18 2007] 20:12:07/lsm
+Job ID :
+351193/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 28 2007] 10:09:04 PM

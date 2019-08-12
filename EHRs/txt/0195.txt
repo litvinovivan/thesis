@@ -1,0 +1,79 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Nov 25 2007]
+DISCHARGE DATE :
+**DATE[Nov 30 2007]
+PRINCIPAL DIAGNOSIS .
+LUMBAR PSEUDOMENINGOCELE
+SECONDARY DIAGNOSES :
+1. CHRONIC PAIN SYNDROME FOLLOWED BY DR. **NAME[TTT SSS] IN WEST VIRGINIA .
+2. HEPATITIS C .
+3. STATUS POST LUMBAR LAMINECTOMY 2003 WITH DR. **NAME[RRR] AT **NAME[QQQ PPP] .
+4. STATUS POST REVISION OF LUMBAR PSEUDOMENINGOCELE WITH DR. **NAME[OOO NNN] AT **INSTITUTION HOSPITAL , **DATE[May 2005] .
+5. STATUS POST LEFT KNEE SURGERY .
+6. STATUS POST BENIGN RECTAL MASS EXCISION .
+PRINCIPLE PROCEDURES THIS ADMISSION :
+REPAIR OF L4 DUROTOMY WITH MUSCLE , STITCH , AND DURASEAL .
+REASON FOR ADMISSION :
+Mr. **NAME[AAA] is a very pleasant **AGE[in 50s]- year - old Caucasian male who originally underwent a lumbar laminectomy in 2003 at an outside hospital .
+He presented to our facility in **DATE[May] of 2004 with evidence of a pseudomeningocele , and at that time underwent a revision surgery with Dr. **NAME[OOO NNN] .
+Unfortunately , he went on to develop symptoms again consistent with a pseudomeningocele .
+This was also supported by radiographic evidence .
+As a result , the decision was made to proceed with reexploration and repair of this pseudomeningocele .
+HOSPITAL COURSE :
+On **DATE[Nov 25]th , Mr. **NAME[AAA] was taken to the operating room where he underwent the above noted procedures which went without complication .
+Postoperatively , he was placed on approximately 72 hours of flat bedrest .
+Once permitted upright and out of bed , he displayed no signs or symptoms of a cerebral spinal fluid leak .
+He stated that his headache symptoms were significantly improved .
+He was seen and evaluated by physical and occupational therapy and deemed independent with his activities of daily living and safe for home with all further therapeutic intervention .
+Thus , on postoperative day number 5 , Mr. **NAME[AAA] was afebrile with stable vitals .
+He was awake , alert , and oriented , and in no acute distress .
+He was tolerating p.o. intake , voiding without difficulty , and ambulating independently .
+His incision line was clean , dry , and intact , with sutures in place .
+At that time , he was deemed medically stable and appropriate for discharge to home .
+DISCHARGE INSTRUCTIONS :
+1. No heavy lifting or strenuous activity .
+2. Do not push , pull , lift , or drag anything greater than 5 pounds .
+3. Avoid bending at the waist and sitting for prolonged periods of time .
+4. May shower at will .
+No tub bathing or soaking the incision site for the next 2 weeks .
+FOLLOWUP :
+1. He has been advised to contact the office of Dr. **NAME[YYY ZZZ] at **PHONE to arrange for routine postsurgical evaluation , and suture removal on Wednesday , **DATE[Dec 7 2007] .
+2. He has been advised to follow up with Dr. **NAME[SSS] at the **INSTITUTION in **NAME[MMM] , West Virginia for continued pain management .
+He has an appointment scheduled with them for **DATE[Jan 8 2008] , **PHONE .
+DISCHARGE MEDICATIONS :
+1. MS Contin 30 mg 1 p.o. q. 8 hours ( no prescription was provided as he is to continue to follow with Dr. **NAME[SSS] ) .
+2. Oxycodone 5 mg 1 to 3 tablets p.o. q. 3 to 4 hours p.r.n. pain , dispensed #90 , 0 refills .
+( I did contact the office of Dr. **NAME[SSS] to inform them that we did provide Mr. **NAME[AAA] with this prescription ) .
+3. Prevacid 30 mg 1 p.o. q. day .
+4. Flexeril 10 mg 1 p.o. q. 8 hours p.r.n. spasms .
+5. Over - the - counter Senokot S 2 tablets p.o. at bedtime while on narcotics to avoid constipation .
+___________________________________
+**NAME[UUU WWW , VVV-M]
+___________________________________
+**NAME[YYY XXX ZZZ] , M.D.
+Dictator :
+**NAME[UUU WWW , VVV-M]
+**INITIALS
+D :
+**DATE[Nov 30 2007] 10:39:44
+T :
+**DATE[Nov 30 2007] 11:33:18
+R :
+**DATE[Nov 30 2007] 11:33:18/sh
+Job ID :
+367662 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , VVV-LLL] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 02 2007] 09:03:41 AM

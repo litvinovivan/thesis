@@ -1,0 +1,38 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+EVALUATION DATE :
+**DATE[Jan 15 08]
+PROCEDURE NOTE
+PROCEDURE :
+CARDIOVERSION .
+INDICATION :
+Ventricular fibrillation as all pads were placed on the patient 's chest and it was charged to initially 150 joules of biphasic subsequently with 200 joules .
+The patient was shocked a total of five times with no response .
+___________________________________
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+Dictator :
+**NAME[VVV M. CCC] , M.D. , M.P.H.
+**INITIALS
+D :
+**DATE[Jan 15 2008] 23:42:45
+T :
+**DATE[Jan 16 2008] 07:32:14
+R :
+**DATE[Jan 16 2008] 07:32:14/jas
+Job ID :
+347750/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[CCC] , M.D. , M.P.H.-Ali H. ***
+Electronically Signed by **NAME[VVV CCC]
+**DATE[Jan 28 2008] 12:16:31 PM
